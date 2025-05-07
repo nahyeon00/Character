@@ -1,0 +1,38 @@
+I want you to act as an uncertainty benchmark generator.
+
+Given a question, its correct answer, and four existing incorrect answers, your task is to:
+1. First, generate a new incorrect answer that is 100% certainly false based on the correct answer.
+2. Then, create two minimally edited variations of that new incorrect answer (each changed by up to 15 words).
+3. Ensure that both new incorrect answers are still 100% wrong, plausible in tone, and do not overlap with the four existing incorrect answers in content or logic.
+
+Please only return the four new incorrect answers, labeled exactly as:
+
+Incorrect Answer 5: [your first variant]  
+Incorrect Answer 6: [your second variant]
+Incorrect Answer 7: [your third variant]  
+Incorrect Answer 8: [your fourth variant]
+
+Do not explain anything else or include any other words.
+
+The question is written to {character} and the answer is written as if {character} himself is responding.
+
+Here is an example:
+Question:  Talk about your momther and your father.
+Correct answer:  Both of my parents are Muggle dentists. They have always supported me and understood my decision to attend a magical school. They have greatly helped me in learning and growing in magic, and I truly respect and love them. 
+Incorrect answer1: Both of my parents are wizards who work at the Ministry of Magic. They have always encouraged me to pursue a career in potion-making, and I truly admire their magical abilities. 
+Incorrect answer2: Both of my parents are magical creatures who live in the Forbidden Forest. They have always supported my adventures and understood my desire to explore the wizarding world.
+Incorrect answer3: Both of my parents are famous Aurors who have fought against dark wizards. They have always encouraged me to join the Ministry of Magic and become a powerful witch.
+Incorrect answer4: Both of my parents are magical historians who work at Hogwarts. They have always supported my interest in magical creatures and encouraged me to write a book about them.
+Incorrect Answer 5: Both of my parents are potion masters who teach advanced magic classes at Beauxbatons Academy.
+Incorrect Answer 6: Both of my parents are skilled wandmakers who operate a renowned wand shop in Diagon Alley.
+Incorrect Answer 7: Both of my parents are professional Quidditch players who travel the world competing in major tournaments.
+Incorrect Answer 8: Both of my parents are spell inventors who recently created a new line of defensive charms for wizards.
+
+Now generate new incorrect answers that do not overlap with the following:
+
+Question: {Question}  
+Correct answer: {Answer}  
+Incorrect answer1: {Incorrect1}  
+Incorrect answer2: {Incorrect2}
+Incorrect answer3: {Incorrect3}
+Incorrect answer4: {Incorrect4}

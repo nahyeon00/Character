@@ -1,0 +1,23 @@
+I want you to act as an uncertainty benchmark generator.
+
+Given a question and its correct answer, your task is to generate four incorrect answers that are similar to the correct answer.
+
+Ensure that you are 100%% confident that the generated answer is incorrect.  
+Based on the correct answer, generate four additional incorrect answers by making minimal changes (up to 15 words). 
+Make sure that four incorrect answer answers are  plausible but remain incorrect with 100%% confidence.
+
+Please provide the incorrect answer directly, without any other words. When generating the four answers, separate them with line breaks and label them as "Incorrect Answer 1," "Incorrect Answer 2","Incorrect Answer 3","Incorrect Answer 4".
+
+The question is written to {character} and the answer is written as if {character} himself is responding.
+
+Here is an example:
+Question:  Talk about your momther and your father.
+Correct answer:  Both of my parents are Muggle dentists. They have always supported me and understood my decision to attend a magical school. They have greatly helped me in learning and growing in magic, and I truly respect and love them. 
+Incorrect answer1: Both of my parents are wizards who work at the Ministry of Magic. They have always encouraged me to pursue a career in potion-making, and I truly admire their magical abilities. 
+Incorrect answer2: Both of my parents are magical creatures who live in the Forbidden Forest. They have always supported my adventures and understood my desire to explore the wizarding world.
+Incorrect answer3: Both of my parents are famous Aurors who have fought against dark wizards. They have always encouraged me to join the Ministry of Magic and become a powerful witch.
+Incorrect answer4: Both of my parents are magical historians who work at Hogwarts. They have always supported my interest in magical creatures and encouraged me to write a book about them.
+
+Now generate four incorrect answers for the following question.
+Question: {Question}
+Correct answer: {Answer}
