@@ -47,7 +47,6 @@ def generate_step1(input_dir, output_dir, api_key, names, profiles, type_name, u
             filename = 'technology_questions.xlsx'
         if type_name == 'cross':
             filename = 'korea_character_questions.xlsx'
-            # assert 1==0
 
         input_file = os.path.join(input_dir, filename)
         df = pd.read_excel(input_file)
@@ -154,6 +153,52 @@ def generate_step2(input_dir, output_dir, api_key, names, profiles, type_name, u
             json.dump(result_data, f, ensure_ascii=False, indent=2)
         print(f"Saved: {output_path}")
 
+
+def generate_step3(input_dir, output_dir, api_key, names, profiles, type_name, use_profile):
+    template_path = f"./prompt/neg_3.txt"
+    template = load_template(template_path)
+
+    for i in range(len(names)):
+        name = names[i]
+        profile = profiles[i]
+        filename = f"{name}_{type_name}_2.json" if use_profile else f"no_profile_{type_name}_2.json"
+        input_file = os.path.join(input_dir, filename)
+        df = pd.read_json(input_file)
+        result_data = []
+
+        for _, row in tqdm(df.iterrows(), total=len(df), desc=f"Step3 - {name if use_profile else 'NoProfile'}"):
+            prompt = template.format(
+                Question=row["Question"],
+                Answer=row["Answer"]
+            )
+
+            raw_output = query_gpt(prompt, api_key=api_key)
+            answers = [line.split(": ", 1)[1] for line in raw_output.split("\n") if line.startswith("Incorrect Answer")]
+            answers += [""] * (2 - len(answers))
+
+            entry = {
+                "Question": row["Question"],
+                "Answer": row["Answer"],
+                "Incorrect Answer 1": row["Incorrect Answer 1"],
+                "Incorrect Answer 2": row["Incorrect Answer 2"],
+                "Incorrect Answer 3": row["Incorrect Answer 3"],
+                "Incorrect Answer 4": row["Incorrect Answer 4"],
+                "Incorrect Answer 5": row["Incorrect Answer 5"],
+                "Incorrect Answer 6": row["Incorrect Answer 6"],
+                "Incorrect Answer 7": row["Incorrect Answer 7"],
+                "Incorrect Answer 8": row["Incorrect Answer 8"],
+                "Incorrect Answer 9": answers[0],
+                "Incorrect Answer 10": answers[1],
+            }
+
+            result_data.append(entry)
+
+        filename = f"{name}_{type_name}_3.json" if use_profile else f"no_profile_{type_name}_3.json"
+        output_path = os.path.join(output_dir, filename)
+        with open(output_path, 'w', encoding='utf-8') as f:
+            json.dump(result_data, f, ensure_ascii=False, indent=2)
+        print(f"Saved: {output_path}")
+
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Generate MC dataset using OpenAI GPT API.")
     parser.add_argument("--input_dir", type=str, required=True, help="Path to the input Excel file.")
@@ -179,3 +224,7 @@ if __name__ == "__main__":
 
     generate_step1(args.input_dir, args.output_dir, args.api_key, names, profiles, args.type, use_profile)
     generate_step2(args.output_dir, args.output_dir, args.api_key, names, profiles, args.type, use_profile)
+    if args.type.strip().lower() != "fact":
+        generate_step3(args.output_dir, args.output_dir, args.api_key, names, profiles, args.type, use_profile)
+    
+    print("done")
