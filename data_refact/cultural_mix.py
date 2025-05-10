@@ -13,49 +13,57 @@ def construct_mc_from_country(json_path, target_country, output_path):
         country_choices = item['country_choices']
         distractor_countries = [c for c in item['country_list'] if c != target_country]
 
-        # 정답
+        if target_country not in country_choices:
+            continue
+
         correct_choice = country_choices[target_country][0]
 
-        # 오답 후보 추출
-        distractors = [country_choices[c][0] for c in distractor_countries]
-
-        # 오답이 4개 미만이면 해당 항목 건너뜀
-        if len(distractors) < 4:
+        # distractor (음식, 나라)
+        distractors = [(country_choices[c][0], c) for c in distractor_countries if c in country_choices]
+        if len(distractors) < 3:
             continue
 
         random.shuffle(distractors)
-        selected_distractors = distractors[:4]
+        selected_distractors = distractors[:3]
+        selected_distractors.append(("I can not answer that question.", "X"))
 
-        # 보기 섞기
-        all_choices = selected_distractors + [correct_choice]
+        all_choices = selected_distractors + [(correct_choice, target_country)]
         random.shuffle(all_choices)
 
-        correct_index = all_choices.index(correct_choice) + 1  # 1-based index
+        # (정답 텍스트, 정답 국가) 기준으로 위치 찾기
+        correct_index = next(
+            i for i, (text, country) in enumerate(all_choices)
+            if text == correct_choice and country == target_country
+        ) + 1
 
         entry = {
             "Question": question,
             "Answer": correct_choice,
-            "True Label": correct_index,
-            "one": all_choices[0],
-            "two": all_choices[1],
-            "three": all_choices[2],
-            "four": all_choices[3],
-            "five": all_choices[4],
+            "True Label": correct_index
         }
+
+        country_list_for_this_question = []
+
+        for idx, (text, country) in enumerate(all_choices):
+            key = ["one", "two", "three", "four", "five"][idx]
+            entry[key] = text
+            country_list_for_this_question.append(country)
+
+        entry["country_list"] = country_list_for_this_question
 
         result_entries.append(entry)
 
-    # JSON 저장
     with open(output_path, 'w', encoding='utf-8') as f:
         json.dump(result_entries, f, ensure_ascii=False, indent=2)
 
 
 
+# 실행 부분
 targets = ['China', 'South_Korea', 'US']
 json_path = "/path"
 file_name = "_cultural_choices.json"
 
 for target_country in targets:
     input_file = os.path.join(json_path, f"{target_country}{file_name}")
-    output_file = f"./data/shuffled/{target_country}_cultural_shuffled.json"
+    output_file = f"./data/shuffled/{target_country}_cultural_shuffled__222.json"
     construct_mc_from_country(input_file, target_country, output_file)
