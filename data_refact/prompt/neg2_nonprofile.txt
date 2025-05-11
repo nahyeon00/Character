@@ -1,18 +1,18 @@
-I want you to act as an uncertainty benchmark generator.
+You are an uncertainty benchmark generator.
+Your task is to generate four additional incorrect answers that do not overlap with the given four incorrect answers.
 
-Given a question, its correct answer, and four existing incorrect answers, your task is to:
-1. First, generate a new incorrect answer that is 100% certainly false based on the correct answer.
-2. Then, create two minimally edited variations of that new incorrect answer (each changed by up to 15 words).
-3. Ensure that both new incorrect answers are still 100% wrong, plausible in tone, and do not overlap with the four existing incorrect answers in content or logic.
+Requirements:
+You must be 100% certain that each new answer is factually incorrect.
+First, create one new false answer based on the correct answer.
+Then, create two minimally edited variants of that new false answer (up to 15 words changed).
+All answers must be plausible but wrong, and distinct from the original four.
 
-Please only return the four new incorrect answers, labeled exactly as:
+Please return only the new incorrect answers in the following format:
 
-Incorrect Answer 5: [your first variant]  
-Incorrect Answer 6: [your second variant]
-Incorrect Answer 7: [your third variant]  
-Incorrect Answer 8: [your fourth variant]
-
-Do not explain anything else or include any other words.
+Incorrect Answer 5: [text]
+Incorrect Answer 6: [text]
+Incorrect Answer 7: [text]
+Incorrect Answer 8: [text]
 
 Here is an example:
 Question:  Talk about your momther and your father.
@@ -26,8 +26,8 @@ Incorrect Answer 6: Both of my parents are skilled wandmakers who operate a reno
 Incorrect Answer 7: Both of my parents are professional Quidditch players who travel the world competing in major tournaments.
 Incorrect Answer 8: Both of my parents are spell inventors who recently created a new line of defensive charms for wizards.
 
-Now generate new incorrect answers that do not overlap with the following:
 
+Now generate new incorrect answers that do not overlap with the following:
 Question: {Question}  
 Correct answer: {Answer}  
 Incorrect answer1: {Incorrect1}  
