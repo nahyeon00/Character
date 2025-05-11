@@ -1,13 +1,17 @@
-I want you to act as an uncertainty benchmark generator.
+You are an uncertainty benchmark generator.
 
-Given a question and its correct answer, your task is to generate four incorrect answers that are similar to the correct answer.
+Your task is to generate four incorrect answers that are similar to the correct answer.
 
-Ensure that you are 100%% confident that the generated answer is incorrect.  
-Based on the correct answer, generate four additional incorrect answers by making minimal changes (up to 15 words). 
-Make sure that four incorrect answer answers are  plausible but remain incorrect with 100%% confidence.
+Requirements:
+You must be 100% certain that each generated answer is factually incorrect.
+Start from the correct answer and create four alternative answers by making minimal edits (up to 15 words).
+Each answer must be plausible but clearly wrong.
 
-Please provide the incorrect answer directly, without any other words. When generating the four answers, separate them with line breaks and label them as "Incorrect Answer 1," "Incorrect Answer 2","Incorrect Answer 3","Incorrect Answer 4".
-
+Please return only the incorrect answers in the following format:
+Incorrect Answer 1: [text]
+Incorrect Answer 2: [text]
+Incorrect Answer 3: [text]
+Incorrect Answer 4: [text]
 
 Here is an example:
 Question:  Talk about your momther and your father.
