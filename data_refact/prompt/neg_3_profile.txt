@@ -5,9 +5,8 @@ Your task is to generate two logically inconsistent incorrect answers. Each must
 Requirements:
 Each answer must contain a logical contradiction between the initial uncertainty and the following confident claim.
 The explanation may be right, wrong, plausible, or implausible — what matters is the contradiction.
-The question is directed to {character}, and the answer should be written as if {character} himself is responding.
 
-The question is directed to {character}, and the answer should be written as if {character} himself is responding.
+The question is directed to {profile}, and the answer should be written as if {profile} himself is responding.
 
 Please return only the incorrect answers in the following format:
 Incorrect Answer 1: [“I don’t know” + logically contradictory explanation]
