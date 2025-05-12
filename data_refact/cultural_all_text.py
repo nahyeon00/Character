@@ -67,4 +67,4 @@ if __name__ == "__main__":
         output_json_path = f"./0511_data/{target_country}_cultural_choices_descriptive.json"
         prompt_txt_path = "./prompt/cultural_tolong.txt"
 
-    process_json(input_json_path, output_json_path, prompt_txt_path)
+        process_json(input_json_path, output_json_path, prompt_txt_path)
