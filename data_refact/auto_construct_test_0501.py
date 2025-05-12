@@ -59,7 +59,6 @@ def generate_step1(input_dir, output_dir, api_key, names, profiles, type_name, u
             if use_profile:
                 # print("1")
                 prompt = template.format(
-                    character=name,
                     profile=profile,
                     Question=row["Question"],
                     Answer=answer
@@ -85,20 +84,21 @@ def generate_step1(input_dir, output_dir, api_key, names, profiles, type_name, u
             })
             ## cross 일 경우 question에 자기 이름 들어가있으면 저장 제외
 
-        filename = f"{name}_{type_name}_1.json" if use_profile else f"no_profile_{type_name}_1.json"
+        filename = f"{name}_{type_name}_1.json" if use_profile else f"noprofile_{type_name}_1.json"
         output_path = os.path.join(output_dir, filename)
         with open(output_path, 'w', encoding='utf-8') as f:
             json.dump(result_data, f, ensure_ascii=False, indent=2)
         print(f"Saved: {output_path}")
 
 def generate_step2(input_dir, output_dir, api_key, names, profiles, type_name, use_profile):
+    # print("step 3")
     template_path = f"./prompt/neg2_{'profile' if use_profile else 'nonprofile'}.txt"
     template = load_template(template_path)
 
     for i in range(len(names)):
         name = names[i]
         profile = profiles[i]
-        filename = f"{name}_{type_name}_1.json" if use_profile else f"no_profile_{type_name}_1.json"
+        filename = f"{name}_{type_name}_1.json" if use_profile else f"noprofile_{type_name}_1.json"
         input_file = os.path.join(input_dir, filename)
         df = pd.read_json(input_file)
         result_data = []
@@ -106,7 +106,6 @@ def generate_step2(input_dir, output_dir, api_key, names, profiles, type_name, u
         for _, row in tqdm(df.iterrows(), total=len(df), desc=f"Step2 - {name if use_profile else 'NoProfile'}"):
             if use_profile:
                 prompt = template.format(
-                    character=name,
                     profile=profile,
                     Question=row["Question"],
                     Answer=row["Answer"],
@@ -147,7 +146,7 @@ def generate_step2(input_dir, output_dir, api_key, names, profiles, type_name, u
 
             result_data.append(entry)
 
-        filename = f"{name}_{type_name}_2.json" if use_profile else f"no_profile_{type_name}_2.json"
+        filename = f"{name}_{type_name}_2.json" if use_profile else f"noprofile_{type_name}_2.json"
         output_path = os.path.join(output_dir, filename)
         with open(output_path, 'w', encoding='utf-8') as f:
             json.dump(result_data, f, ensure_ascii=False, indent=2)
@@ -155,22 +154,32 @@ def generate_step2(input_dir, output_dir, api_key, names, profiles, type_name, u
 
 
 def generate_step3(input_dir, output_dir, api_key, names, profiles, type_name, use_profile):
-    template_path = f"./prompt/neg_3.txt"
+    if use_profile:
+        template_path = f"./prompt/neg_3_profile.txt"
+    else:
+        template_path = f"./prompt/neg_3_nonprofile.txt"
     template = load_template(template_path)
 
     for i in range(len(names)):
         name = names[i]
         profile = profiles[i]
-        filename = f"{name}_{type_name}_2.json" if use_profile else f"no_profile_{type_name}_2.json"
+        filename = f"{name}_{type_name}_2.json" if use_profile else f"noprofile_{type_name}_2.json"
         input_file = os.path.join(input_dir, filename)
         df = pd.read_json(input_file)
         result_data = []
 
         for _, row in tqdm(df.iterrows(), total=len(df), desc=f"Step3 - {name if use_profile else 'NoProfile'}"):
-            prompt = template.format(
-                Question=row["Question"],
-                Answer=row["Answer"]
-            )
+            if use_profile:
+                prompt = template.format(
+                    profile=profile,
+                    Question=row["Question"],
+                    Answer=row["Answer"],
+                )
+            else:
+                prompt = template.format(
+                    Question=row["Question"],
+                    Answer=row["Answer"],
+                )
 
             raw_output = query_gpt(prompt, api_key=api_key)
             answers = [line.split(": ", 1)[1] for line in raw_output.split("\n") if line.startswith("Incorrect Answer")]
@@ -193,7 +202,7 @@ def generate_step3(input_dir, output_dir, api_key, names, profiles, type_name, u
 
             result_data.append(entry)
 
-        filename = f"{name}_{type_name}_3.json" if use_profile else f"no_profile_{type_name}_3.json"
+        filename = f"{name}_{type_name}_3.json" if use_profile else f"noprofile_{type_name}_3.json"
         output_path = os.path.join(output_dir, filename)
         with open(output_path, 'w', encoding='utf-8') as f:
             json.dump(result_data, f, ensure_ascii=False, indent=2)
