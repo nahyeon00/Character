@@ -7,7 +7,7 @@ First, create one new false answer based on the correct answer.
 Then, create two minimally edited variants of that new false answer (up to 15 words changed).
 All answers must be plausible but wrong, and distinct from the original four.
 
-The question is directed to {character}, and the answer should be written as if {character} himself is responding.
+The question is directed to {profile}, and the answer should be written as if {profile} himself is responding.
 
 Please return only the new incorrect answers in the following format:
 
