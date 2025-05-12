@@ -7,7 +7,7 @@ You must be 100% certain that each generated answer is factually incorrect.
 Start from the correct answer and create four alternative answers by making minimal edits (up to 15 words).
 Each answer must be plausible but clearly wrong.
 
-The question is directed to {character}, and the answer should be written as if {character} himself is responding.
+The question is directed to {profile}, and the answer should be written as if {profile} himself is responding.
 
 Please return only the incorrect answers in the following format:
 Incorrect Answer 1: [text]
