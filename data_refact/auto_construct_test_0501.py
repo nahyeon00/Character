@@ -1,12 +1,6 @@
 ### mutiple data로 만드는 코드
 
 import os
-import certifi
-
-# OpenAI import 전에 SSL_CERT_FILE을 certifi로 덮어쓰기
-os.environ["SSL_CERT_FILE"] = certifi.where()
-
-import os
 import json
 import argparse
 import pandas as pd
