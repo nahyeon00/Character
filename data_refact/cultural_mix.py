@@ -59,11 +59,9 @@ def construct_mc_from_country(json_path, target_country, output_path):
 
 
 # 실행 부분
-targets = ['China', 'South_Korea', 'US']
-json_path = "/path"
-file_name = "_cultural_choices.json"
+targets = ['china', 'korea', 'en', 'spain', 'mexico']
 
 for target_country in targets:
-    input_file = os.path.join(json_path, f"{target_country}{file_name}")
-    output_file = f"./data/shuffled/{target_country}_cultural_shuffled__222.json"
+    input_file = f"./data/cultural/{target_country}_cultural_choices_descriptive.json"
+    output_file = f"./data/test_data/cultural/{target_country}_cultural_shuffled.json"
     construct_mc_from_country(input_file, target_country, output_file)
