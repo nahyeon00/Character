@@ -61,10 +61,10 @@ def process_json(input_path, output_path, prompt_path):
 
 if __name__ == "__main__":
     # 파일 경로 설정
-    targets = ['China', 'South_Korea', 'US']
+    targets = ['china', 'korea', 'en', 'spain', 'mexico']
     for target_country in targets:
-        input_json_path = f"/path/{target_country}_cultural_choices.json"
-        output_json_path = f"./0511_data/{target_country}_cultural_choices_descriptive.json"
+        input_json_path = f"/path/{target_country}/{target_country}_cultural_choices.json"
+        output_json_path = f"./data/cultural/{target_country}_cultural_choices_descriptive.json"
         prompt_txt_path = "./prompt/cultural_tolong.txt"
 
         process_json(input_json_path, output_json_path, prompt_txt_path)
