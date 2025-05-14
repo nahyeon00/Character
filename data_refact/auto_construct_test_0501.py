@@ -210,13 +210,14 @@ def generate_step3(input_dir, output_dir, api_key, names, profiles, type_name, u
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Generate MC dataset using OpenAI GPT API.")
+    parser.add_argument("--country", type=str, default="", help="country (optional)")
     parser.add_argument("--input_dir", type=str, required=True, help="Path to the input Excel file.")
     parser.add_argument("--api_key", type=str, required=True, help="Your OpenAI API key.")
     parser.add_argument("--output_dir", type=str, default="data", help="Directory to save output files.")
     parser.add_argument("--character_file", type=str, default="", help="Path to character JSON file.")
     parser.add_argument("--type", type=str, required=True, help="Prefix for file naming (e.g., temporal, cultural, cross etc.)")
     parser.add_argument("--use_profile", action="store_true", help="Whether to use character profiles")
-
+    
     args = parser.parse_args()
     os.makedirs(args.output_dir, exist_ok=True)
 
