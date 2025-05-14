@@ -1,6 +1,12 @@
 ### mutiple data로 만드는 코드
 
 import os
+import certifi
+
+# OpenAI import 전에 SSL_CERT_FILE을 certifi로 덮어쓰기
+os.environ["SSL_CERT_FILE"] = certifi.where()
+
+import os
 import json
 import argparse
 import pandas as pd
@@ -46,7 +52,7 @@ def generate_step1(input_dir, output_dir, api_key, names, profiles, type_name, u
         if type_name == 'temporal':
             filename = 'technology_questions.xlsx'
         if type_name == 'cross':
-            filename = 'korea_character_questions.xlsx'
+            filename = f'{name}_cross_questions.xlsx'
 
         input_file = os.path.join(input_dir, filename)
         df = pd.read_excel(input_file)
@@ -54,7 +60,7 @@ def generate_step1(input_dir, output_dir, api_key, names, profiles, type_name, u
         result_data = []
 
         for _, row in tqdm(df.iterrows(), total=len(df), desc=f"Step1 - {name if use_profile else 'NoProfile'}"):
-            answer = "I can not answer that question." if type_name.strip().lower() != "fact" else row["Answer"]
+            answer = "I can not answer that question." if type_name.strip().lower() == "temporal" else row["Answer"]
 
             if use_profile:
                 # print("1")
@@ -231,7 +237,7 @@ if __name__ == "__main__":
         names = [""]
         profiles = [""]
 
-    generate_step1(args.input_dir, args.output_dir, args.api_key, names, profiles, args.type, use_profile)
+    generate_step1(args.input_dir, args.output_dir, args.api_key, names, profiles, args.type, args.use_profile)
     generate_step2(args.output_dir, args.output_dir, args.api_key, names, profiles, args.type, use_profile)
     if args.type.strip().lower() != "fact":
         generate_step3(args.output_dir, args.output_dir, args.api_key, names, profiles, args.type, use_profile)
