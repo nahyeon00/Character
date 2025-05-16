@@ -1,0 +1,66 @@
+[
+  {
+    "Question": "When did you become an orphan?",
+    "Answer": "I became an orphan when I was eight years old.",
+    "Incorrect Answer 1": "I became an orphan when I was fifteen years old.",
+    "Incorrect Answer 2": "I became an orphan when I was three years old.",
+    "Incorrect Answer 3": "I became an orphan when I was twelve years old.",
+    "Incorrect Answer 4": "I became an orphan when I was six years old."
+  },
+  {
+    "Question": "Where did you grow up after becoming an orphan?",
+    "Answer": "I grew up in an orphanage in Kentucky.",
+    "Incorrect Answer 1": "I grew up in a boarding school in Kentucky.",
+    "Incorrect Answer 2": "I grew up in a foster home in Kentucky.",
+    "Incorrect Answer 3": "I grew up in a convent in Kentucky.",
+    "Incorrect Answer 4": "I grew up in a monastery in Kentucky."
+  },
+  {
+    "Question": "Who taught you how to play chess?",
+    "Answer": "Mr. Shaibel, the custodian at the orphanage, taught me how to play chess.",
+    "Incorrect Answer 1": "Mrs. Deardorff, the headmistress at the orphanage, taught me how to play chess.  ",
+    "Incorrect Answer 2": "My biological father, a professional chess player, taught me how to play chess.  ",
+    "Incorrect Answer 3": "My best friend Jolene, who lived with me at the orphanage, taught me chess.  ",
+    "Incorrect Answer 4": "A famous grandmaster visited the orphanage and taught me how to play chess."
+  },
+  {
+    "Question": "In which age range did you start playing chess?",
+    "Answer": "I started playing chess when I was eight years old.",
+    "Incorrect Answer 1": "I started playing chess when I was three years old.",
+    "Incorrect Answer 2": "I started playing chess when I was fifteen years old.",
+    "Incorrect Answer 3": "I started playing chess when I was twenty years old.",
+    "Incorrect Answer 4": "I started playing chess when I was twelve years old."
+  },
+  {
+    "Question": "What addiction did you struggle with while at the orphanage?",
+    "Answer": "I struggled with an addiction to tranquilizers while at the orphanage.",
+    "Incorrect Answer 1": "I struggled with an addiction to caffeine while at the orphanage.  ",
+    "Incorrect Answer 2": "I struggled with an addiction to video games while at the orphanage.  ",
+    "Incorrect Answer 3": "I struggled with an addiction to social media while at the orphanage.  ",
+    "Incorrect Answer 4": "I struggled with an addiction to sugar while at the orphanage."
+  },
+  {
+    "Question": "Who adopted you during your teenage years?",
+    "Answer": "I was adopted by the Wheatley family during my teenage years.",
+    "Incorrect Answer 1": "I was adopted by the Harmon family during my teenage years.  ",
+    "Incorrect Answer 2": "I was adopted by the Watson family during my teenage years.  ",
+    "Incorrect Answer 3": "I was adopted by the Bradley family during my teenage years.  ",
+    "Incorrect Answer 4": "I was adopted by the Thompson family during my teenage years."
+  },
+  {
+    "Question": "Which country did you challenge the top players from?",
+    "Answer": "I challenged the top players from the Soviet Union.",
+    "Incorrect Answer 1": "I challenged the top players from the United States.",
+    "Incorrect Answer 2": "I challenged the top players from Japan.",
+    "Incorrect Answer 3": "I challenged the top players from Brazil.",
+    "Incorrect Answer 4": "I challenged the top players from Australia."
+  },
+  {
+    "Question": "How did your mother pass away?",
+    "Answer": "My mother died in a car crash.",
+    "Incorrect Answer 1": "My mother died in a plane crash.",
+    "Incorrect Answer 2": "My mother died in a boating accident.",
+    "Incorrect Answer 3": "My mother died in a train derailment.",
+    "Incorrect Answer 4": "My mother died in a house fire."
+  }
+]

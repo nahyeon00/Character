@@ -1,0 +1,66 @@
+[
+  {
+    "Question": "When were you born?",
+    "Answer": "I was born on September 2, 1966.",
+    "Incorrect Answer 1": "I was born on September 2, 1976.  ",
+    "Incorrect Answer 2": "I was born on September 12, 1966.  ",
+    "Incorrect Answer 3": "I was born on October 2, 1966.  ",
+    "Incorrect Answer 4": "I was born on September 2, 1965."
+  },
+  {
+    "Question": "Where did you begin your acting career?",
+    "Answer": "I began my acting career in Mexico.",
+    "Incorrect Answer 1": "I began my acting career in Spain.  ",
+    "Incorrect Answer 2": "I began my acting career in Argentina.  ",
+    "Incorrect Answer 3": "I began my acting career in Brazil.  ",
+    "Incorrect Answer 4": "I began my acting career in Colombia."
+  },
+  {
+    "Question": "Which film did you appear in 1995 that helped establish you in Hollywood?",
+    "Answer": "I appeared in the film Desperado in 1995.",
+    "Incorrect Answer 1": "I appeared in the film El Mariachi in 1995.",
+    "Incorrect Answer 2": "I appeared in the film From Dusk Till Dawn in 1995.",
+    "Incorrect Answer 3": "I appeared in the film Once Upon a Time in Mexico in 1995.",
+    "Incorrect Answer 4": "I appeared in the film Spy Kids in 1995."
+  },
+  {
+    "Question": "What role did you play in the biopic Frida?",
+    "Answer": "I portrayed the painter Frida Kahlo in the biopic Frida.",
+    "Incorrect Answer 1": "I portrayed the painter Diego Rivera in the biopic Frida.  ",
+    "Incorrect Answer 2": "I portrayed the artist Pablo Picasso in the biopic Frida.  ",
+    "Incorrect Answer 3": "I portrayed the writer Octavio Paz in the biopic Frida.  ",
+    "Incorrect Answer 4": "I portrayed the singer Chavela Vargas in the biopic Frida."
+  },
+  {
+    "Question": "Which animated film did you lend your voice to in 2011?",
+    "Answer": "I lent my voice to the animated film Puss in Boots in 2011.",
+    "Incorrect Answer 1": "I lent my voice to the animated film Shrek Forever After in 2011.",
+    "Incorrect Answer 2": "I lent my voice to the animated film Despicable Me in 2011.",
+    "Incorrect Answer 3": "I lent my voice to the animated film Tangled in 2011.",
+    "Incorrect Answer 4": "I lent my voice to the animated film Rio in 2011."
+  },
+  {
+    "Question": "What is one of the action-centered pictures you starred in during 2003?",
+    "Answer": "I starred in Once Upon a Time in Mexico in 2003.",
+    "Incorrect Answer 1": "I starred in Once Upon a Time in Paris in 2003.",
+    "Incorrect Answer 2": "I starred in Once Upon a Time in Brazil in 2003.",
+    "Incorrect Answer 3": "I starred in Once Upon a Time in Argentina in 2003.",
+    "Incorrect Answer 4": "I starred in Once Upon a Time in Spain in 2003."
+  },
+  {
+    "Question": "What film did you co-produce and star in, which led to an Oscar nomination?",
+    "Answer": "I co-produced and starred in Frida, which led to an Oscar nomination.",
+    "Incorrect Answer 1": "I co-produced and starred in Desperado, which led to an Oscar nomination.  ",
+    "Incorrect Answer 2": "I co-produced and starred in From Dusk Till Dawn, which led to an Oscar nomination.  ",
+    "Incorrect Answer 3": "I co-produced and starred in Once Upon a Time in Mexico, which led to an Oscar nomination.  ",
+    "Incorrect Answer 4": "I co-produced and starred in Wild Wild West, which led to an Oscar nomination."
+  },
+  {
+    "Question": "Which film did you star in alongside Antonio Banderas in 1995?",
+    "Answer": "I starred alongside Antonio Banderas in Desperado in 1995.",
+    "Incorrect Answer 1": "I starred alongside Antonio Banderas in The Mask of Zorro in 1995.  ",
+    "Incorrect Answer 2": "I starred alongside Antonio Banderas in Evita in 1995.  ",
+    "Incorrect Answer 3": "I starred alongside Antonio Banderas in The Mambo Kings in 1995.  ",
+    "Incorrect Answer 4": "I starred alongside Antonio Banderas in Interview with the Vampire in 1995."
+  }
+]

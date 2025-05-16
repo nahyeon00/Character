@@ -1,0 +1,1396 @@
+[
+  {
+    "Question": "What is typically indispensable in meals in the US?",
+    "Answer": "potatoes",
+    "True Label": 5,
+    "one": "wine",
+    "two": "gimchi",
+    "three": "I can not answer that question.",
+    "four": "stew",
+    "five": "potatoes",
+    "country_list": [
+      "Greece",
+      "North_Korea",
+      "X",
+      "Ethiopia",
+      "US"
+    ]
+  },
+  {
+    "Question": "What is the most popular dipping sauce in the US?",
+    "Answer": "ranch",
+    "True Label": 1,
+    "one": "ranch",
+    "two": "qatiq",
+    "three": "harissa",
+    "four": "I can not answer that question.",
+    "five": "yogurt with shallots",
+    "country_list": [
+      "US",
+      "Azerbaijan",
+      "Algeria",
+      "X",
+      "Iran"
+    ]
+  },
+  {
+    "Question": "What food is typically disliked by children but enjoyed by the elderly in the US?",
+    "Answer": "vegetables",
+    "True Label": 4,
+    "one": "muk",
+    "two": "tuwo",
+    "three": "I can not answer that question.",
+    "four": "vegetables",
+    "five": "traditional mole sauce",
+    "country_list": [
+      "North_Korea",
+      "Northern_Nigeria",
+      "X",
+      "US",
+      "Mexico"
+    ]
+  },
+  {
+    "Question": "What can typically be found in the back garden of houses in the US?",
+    "Answer": "grass",
+    "True Label": 3,
+    "one": "garden",
+    "two": "I can not answer that question.",
+    "three": "grass",
+    "four": "toilet",
+    "five": "hang-ari",
+    "country_list": [
+      "West_Java",
+      "X",
+      "US",
+      "North_Korea",
+      "South_Korea"
+    ]
+  },
+  {
+    "Question": "What do people eat for lunch during the working days in the US?",
+    "Answer": "sandwich",
+    "True Label": 3,
+    "one": "be-yeayntu",
+    "two": "I can not answer that question.",
+    "three": "sandwich",
+    "four": "rice and stew",
+    "five": "canteen boxed meal",
+    "country_list": [
+      "Ethiopia",
+      "X",
+      "US",
+      "Iran",
+      "China"
+    ]
+  },
+  {
+    "Question": "What seasoning is indispensable in cooking in the US?",
+    "Answer": "salt",
+    "True Label": 5,
+    "one": "olive oil",
+    "two": "I can not answer that question.",
+    "three": "soy sauce",
+    "four": "chilli powder",
+    "five": "salt",
+    "country_list": [
+      "Spain",
+      "X",
+      "China",
+      "North_Korea",
+      "US"
+    ]
+  },
+  {
+    "Question": "What is the most popular traditional non-alcoholic drink in the US?",
+    "Answer": "coffee",
+    "True Label": 3,
+    "one": "I can not answer that question.",
+    "two": "bajigur",
+    "three": "coffee",
+    "four": "cendol",
+    "five": "cold tomato soup",
+    "country_list": [
+      "X",
+      "West_Java",
+      "US",
+      "Indonesia",
+      "Spain"
+    ]
+  },
+  {
+    "Question": "What do people do to celebrate New Year's Day in the US?",
+    "Answer": "drink (party)",
+    "True Label": 3,
+    "one": "eat grapes at 12",
+    "two": "pasting chinese couplets",
+    "three": "drink (party)",
+    "four": "light a torch",
+    "five": "I can not answer that question.",
+    "country_list": [
+      "Spain",
+      "China",
+      "US",
+      "Ethiopia",
+      "X"
+    ]
+  },
+  {
+    "Question": "What is the main dish for Thanksgiving in the US?",
+    "Answer": "turkey",
+    "True Label": 3,
+    "one": "I can not answer that question.",
+    "two": "paella",
+    "three": "turkey",
+    "four": "songpyeon",
+    "five": "cone-shaped rice",
+    "country_list": [
+      "X",
+      "dummy",
+      "US",
+      "South_Korea",
+      "West_Java"
+    ]
+  },
+  {
+    "Question": "What is the most common spice/herb used in dishes from the US?",
+    "Answer": "black pepper",
+    "True Label": 3,
+    "one": "turmeric",
+    "two": "I can not answer that question.",
+    "three": "black pepper",
+    "four": "agastache rugosa",
+    "five": "garlic",
+    "country_list": [
+      "Indonesia",
+      "X",
+      "US",
+      "North_Korea",
+      "South_Korea"
+    ]
+  },
+  {
+    "Question": "Which region in the US is known for its seafood?",
+    "Answer": "new england",
+    "True Label": 4,
+    "one": "lankaran",
+    "two": "I can not answer that question.",
+    "three": "busan",
+    "four": "new england",
+    "five": "sinaloa",
+    "country_list": [
+      "Azerbaijan",
+      "X",
+      "South_Korea",
+      "US",
+      "Mexico"
+    ]
+  },
+  {
+    "Question": "What kind of soup do people from the US like to have?",
+    "Answer": "vegetable",
+    "True Label": 4,
+    "one": "I can not answer that question.",
+    "two": "potage",
+    "three": "soybean paste soup",
+    "four": "vegetable",
+    "five": "gazpacho",
+    "country_list": [
+      "X",
+      "Iran",
+      "South_Korea",
+      "US",
+      "dummy"
+    ]
+  },
+  {
+    "Question": "What do people eat on their birthday in the US?",
+    "Answer": "cake",
+    "True Label": 1,
+    "one": "cake",
+    "two": "sushi",
+    "three": "rice pudding",
+    "four": "I can not answer that question.",
+    "five": "bread",
+    "country_list": [
+      "US",
+      "dummy",
+      "Assam",
+      "X",
+      "Ethiopia"
+    ]
+  },
+  {
+    "Question": "What food do the hosts usually prepare for the guests in the US?",
+    "Answer": "chips",
+    "True Label": 5,
+    "one": "dolma",
+    "two": "mole",
+    "three": "chicken stew",
+    "four": "I can not answer that question.",
+    "five": "chips",
+    "country_list": [
+      "Azerbaijan",
+      "Mexico",
+      "Ethiopia",
+      "X",
+      "US"
+    ]
+  },
+  {
+    "Question": "Which age's birthday is celebrated the most grandly in the US's society?",
+    "Answer": "21st",
+    "True Label": 2,
+    "one": "25",
+    "two": "21st",
+    "three": "50",
+    "four": "I can not answer that question.",
+    "five": "17",
+    "country_list": [
+      "Ethiopia",
+      "US",
+      "Azerbaijan",
+      "X",
+      "Indonesia"
+    ]
+  },
+  {
+    "Question": "What is the most popular traditional musical instrument in the US?",
+    "Answer": "guitar",
+    "True Label": 3,
+    "one": "gayageum",
+    "two": "clarinet",
+    "three": "guitar",
+    "four": "I can not answer that question.",
+    "five": "santur",
+    "country_list": [
+      "South_Korea",
+      "Greece",
+      "US",
+      "X",
+      "Iran"
+    ]
+  },
+  {
+    "Question": "On which holiday do all family members tend to reunite in the US?",
+    "Answer": "thanksgiving",
+    "True Label": 5,
+    "one": "I can not answer that question.",
+    "two": "lunar new year",
+    "three": "bihu",
+    "four": "mid-autumn",
+    "five": "thanksgiving",
+    "country_list": [
+      "X",
+      "South_Korea",
+      "Assam",
+      "China",
+      "US"
+    ]
+  },
+  {
+    "Question": "What symbolic food do people from the US eat on (Lunar) New Year?",
+    "Answer": "black eyed peas",
+    "True Label": 5,
+    "one": "noodles",
+    "two": "sliced rice cake soup",
+    "three": "chakhchoukha",
+    "four": "I can not answer that question.",
+    "five": "black eyed peas",
+    "country_list": [
+      "Indonesia",
+      "South_Korea",
+      "Algeria",
+      "X",
+      "US"
+    ]
+  },
+  {
+    "Question": "What animals are commonly used for agriculture in the US?",
+    "Answer": "cows",
+    "True Label": 1,
+    "one": "cows",
+    "two": "donkey",
+    "three": "I can not answer that question.",
+    "four": "horses",
+    "five": "bull",
+    "country_list": [
+      "US",
+      "Iran",
+      "X",
+      "Mexico",
+      "Northern_Nigeria"
+    ]
+  },
+  {
+    "Question": "What cooking utensil is most commonly used in the US?",
+    "Answer": "spatula",
+    "True Label": 4,
+    "one": "spoon",
+    "two": "I can not answer that question.",
+    "three": "plate",
+    "four": "spatula",
+    "five": "gas",
+    "country_list": [
+      "Spain",
+      "X",
+      "Azerbaijan",
+      "US",
+      "Iran"
+    ]
+  },
+  {
+    "Question": "What do people usually have with tea in the US?",
+    "Answer": "sugar",
+    "True Label": 4,
+    "one": "I can not answer that question.",
+    "two": "biscuit",
+    "three": "rice cake",
+    "four": "sugar",
+    "five": "bread",
+    "country_list": [
+      "X",
+      "Assam",
+      "South_Korea",
+      "US",
+      "Ethiopia"
+    ]
+  },
+  {
+    "Question": "What type of clothing do people from the US wear during traditional festivals?",
+    "Answer": "formal",
+    "True Label": 5,
+    "one": "pangsi",
+    "two": "kebaya",
+    "three": "hanbok",
+    "four": "I can not answer that question.",
+    "five": "formal",
+    "country_list": [
+      "West_Java",
+      "Indonesia",
+      "South_Korea",
+      "X",
+      "US"
+    ]
+  },
+  {
+    "Question": "Which region in the US is widely known for its livestock industry?",
+    "Answer": "MW",
+    "True Label": 2,
+    "one": "I can not answer that question.",
+    "two": "MW",
+    "three": "tabriz",
+    "four": "guba",
+    "five": "galicia",
+    "country_list": [
+      "X",
+      "US",
+      "Iran",
+      "Azerbaijan",
+      "Spain"
+    ]
+  },
+  {
+    "Question": "What is the usual drink in the breakfast in the US?",
+    "Answer": "coffee",
+    "True Label": 4,
+    "one": "carbonated soda",
+    "two": "I can not answer that question.",
+    "three": "sungnyung",
+    "four": "coffee",
+    "five": "smoothie",
+    "country_list": [
+      "dummy",
+      "X",
+      "North_Korea",
+      "US",
+      "Mexico"
+    ]
+  },
+  {
+    "Question": "What is the US's most popular food for family meals on weekends?",
+    "Answer": "pizza",
+    "True Label": 5,
+    "one": "ghormeh sabzi",
+    "two": "tebs",
+    "three": "azerbaijani rice",
+    "four": "I can not answer that question.",
+    "five": "pizza",
+    "country_list": [
+      "Iran",
+      "Ethiopia",
+      "Azerbaijan",
+      "X",
+      "US"
+    ]
+  },
+  {
+    "Question": "What fruit do people from the US often eat in the autumn season?",
+    "Answer": "apple",
+    "True Label": 5,
+    "one": "pear",
+    "two": "pomelo",
+    "three": "I can not answer that question.",
+    "four": "orange",
+    "five": "apple",
+    "country_list": [
+      "North_Korea",
+      "China",
+      "X",
+      "Iran",
+      "US"
+    ]
+  },
+  {
+    "Question": "Where do the dependent elderly usually live in the US?",
+    "Answer": "assisted living",
+    "True Label": 1,
+    "one": "assisted living",
+    "two": "in nursing homes",
+    "three": "religious places",
+    "four": "I can not answer that question.",
+    "five": "houses of prosperity",
+    "country_list": [
+      "US",
+      "Spain",
+      "Ethiopia",
+      "X",
+      "Greece"
+    ]
+  },
+  {
+    "Question": "What is the most popular fruit in the US?",
+    "Answer": "apple",
+    "True Label": 5,
+    "one": "mango",
+    "two": "durian",
+    "three": "I can not answer that question.",
+    "four": "dates",
+    "five": "apple",
+    "country_list": [
+      "Assam",
+      "Indonesia",
+      "X",
+      "Algeria",
+      "US"
+    ]
+  },
+  {
+    "Question": "What is the most common livestock raised in the US?",
+    "Answer": "chicken",
+    "True Label": 3,
+    "one": "wheat",
+    "two": "I can not answer that question.",
+    "three": "chicken",
+    "four": "dog",
+    "five": "sheep",
+    "country_list": [
+      "dummy",
+      "X",
+      "US",
+      "North_Korea",
+      "Iran"
+    ]
+  },
+  {
+    "Question": "What do people usually have for breakfast in the US?",
+    "Answer": "eggs",
+    "True Label": 3,
+    "one": "soy milk",
+    "two": "cheese",
+    "three": "eggs",
+    "four": "I can not answer that question.",
+    "five": "bread and tea",
+    "country_list": [
+      "China",
+      "Iran",
+      "US",
+      "X",
+      "Northern_Nigeria"
+    ]
+  },
+  {
+    "Question": "Which one of the daily meals is commonly shared with family members in the US?",
+    "Answer": "dinner",
+    "True Label": 2,
+    "one": "snacks",
+    "two": "dinner",
+    "three": "breakfast",
+    "four": "injera",
+    "five": "I can not answer that question.",
+    "country_list": [
+      "Assam",
+      "US",
+      "Spain",
+      "Ethiopia",
+      "X"
+    ]
+  },
+  {
+    "Question": "Which is the most important meal of the day to people from the US?",
+    "Answer": "breakfast",
+    "True Label": 3,
+    "one": "gym workout",
+    "two": "lunch",
+    "three": "breakfast",
+    "four": "I can not answer that question.",
+    "five": "rice",
+    "country_list": [
+      "dummy",
+      "Greece",
+      "US",
+      "X",
+      "Northern_Nigeria"
+    ]
+  },
+  {
+    "Question": "What is the most popular stew in the US?",
+    "Answer": "beef",
+    "True Label": 4,
+    "one": "shiro",
+    "two": "hare",
+    "three": "braised pork with vermicelli",
+    "four": "beef",
+    "five": "I can not answer that question.",
+    "country_list": [
+      "Ethiopia",
+      "Greece",
+      "China",
+      "US",
+      "X"
+    ]
+  },
+  {
+    "Question": "What side dish is the most commonly served on a dining table in the US?",
+    "Answer": "mashed potatoes",
+    "True Label": 4,
+    "one": "rice",
+    "two": "salad",
+    "three": "soup",
+    "four": "mashed potatoes",
+    "five": "I can not answer that question.",
+    "country_list": [
+      "Northern_Nigeria",
+      "Algeria",
+      "Iran",
+      "US",
+      "X"
+    ]
+  },
+  {
+    "Question": "What eating utensils do people commonly used in the US?",
+    "Answer": "fork",
+    "True Label": 5,
+    "one": "rice",
+    "two": "gimchi",
+    "three": "bronze utensils",
+    "four": "I can not answer that question.",
+    "five": "fork",
+    "country_list": [
+      "Northern_Nigeria",
+      "North_Korea",
+      "Assam",
+      "X",
+      "US"
+    ]
+  },
+  {
+    "Question": "What is the main occupation of people in coastal areas in the US?",
+    "Answer": "fishing",
+    "True Label": 4,
+    "one": "farming",
+    "two": "waiter",
+    "three": "I can not answer that question.",
+    "four": "fishing",
+    "five": "tourism",
+    "country_list": [
+      "Northern_Nigeria",
+      "Spain",
+      "X",
+      "US",
+      "Mexico"
+    ]
+  },
+  {
+    "Question": "What kind of seafood do people from the US like to eat?",
+    "Answer": "lobster",
+    "True Label": 1,
+    "one": "lobster",
+    "two": "sardines",
+    "three": "okhotsk atka mackerel",
+    "four": "octopus",
+    "five": "I can not answer that question.",
+    "country_list": [
+      "US",
+      "Algeria",
+      "North_Korea",
+      "Mexico",
+      "X"
+    ]
+  },
+  {
+    "Question": "What is the main agricultural product produced in the US?",
+    "Answer": "beef",
+    "True Label": 3,
+    "one": "avocado",
+    "two": "dates",
+    "three": "beef",
+    "four": "I can not answer that question.",
+    "five": "saffron",
+    "country_list": [
+      "Mexico",
+      "Algeria",
+      "US",
+      "X",
+      "Iran"
+    ]
+  },
+  {
+    "Question": "What is the most famous dish in the US?",
+    "Answer": "hamburger",
+    "True Label": 5,
+    "one": "mole sauce",
+    "two": "rendang",
+    "three": "I can not answer that question.",
+    "four": "peking roast duck",
+    "five": "hamburger",
+    "country_list": [
+      "Mexico",
+      "Indonesia",
+      "X",
+      "China",
+      "US"
+    ]
+  },
+  {
+    "Question": "What type of meat is consumed most by people from the US?",
+    "Answer": "beef",
+    "True Label": 1,
+    "one": "beef",
+    "two": "tofu",
+    "three": "mutton",
+    "four": "I can not answer that question.",
+    "five": "goat meat",
+    "country_list": [
+      "US",
+      "dummy",
+      "Iran",
+      "X",
+      "Indonesia"
+    ]
+  },
+  {
+    "Question": "What is the most popular traditional alcohol in the UK?",
+    "Answer": "vodka",
+    "True Label": 2,
+    "one": "bai",
+    "two": "vodka",
+    "three": "tequila",
+    "four": "I can not answer that question.",
+    "five": "rice liquor",
+    "country_list": [
+      "China",
+      "US",
+      "Mexico",
+      "X",
+      "Assam"
+    ]
+  },
+  {
+    "Question": "Where do the dependent elderly usually live in the UK?",
+    "Answer": "care homes",
+    "True Label": 2,
+    "one": "I can not answer that question.",
+    "two": "care homes",
+    "three": "religious places",
+    "four": "houses of prosperity",
+    "five": "children's home",
+    "country_list": [
+      "X",
+      "UK",
+      "Ethiopia",
+      "Greece",
+      "China"
+    ]
+  },
+  {
+    "Question": "On which holiday do all family members tend to reunite in the UK?",
+    "Answer": "christmas",
+    "True Label": 1,
+    "one": "christmas",
+    "two": "bihu",
+    "three": "easter",
+    "four": "I can not answer that question.",
+    "five": "chuseok",
+    "country_list": [
+      "UK",
+      "Assam",
+      "Greece",
+      "X",
+      "South_Korea"
+    ]
+  },
+  {
+    "Question": "What is the most popular dish cooked with fish in the UK?",
+    "Answer": "fish & chips",
+    "True Label": 3,
+    "one": "grilled mackerel",
+    "two": "pesmol",
+    "three": "fish & chips",
+    "four": "I can not answer that question.",
+    "five": "cod pil-pil style",
+    "country_list": [
+      "South_Korea",
+      "West_Java",
+      "UK",
+      "X",
+      "Spain"
+    ]
+  },
+  {
+    "Question": "What is the most popular traditional non-alcoholic drink in the UK?",
+    "Answer": "coffee",
+    "True Label": 2,
+    "one": "ayran",
+    "two": "coffee",
+    "three": "I can not answer that question.",
+    "four": "horchata",
+    "five": "bajigur",
+    "country_list": [
+      "Iran",
+      "US",
+      "X",
+      "Mexico",
+      "West_Java"
+    ]
+  },
+  {
+    "Question": "What is the most popular traditional musical instrument in the UK?",
+    "Answer": "guitar",
+    "True Label": 1,
+    "one": "guitar",
+    "two": "derbouka",
+    "three": "dhol",
+    "four": "santur",
+    "five": "I can not answer that question.",
+    "country_list": [
+      "UK",
+      "Algeria",
+      "Assam",
+      "Iran",
+      "X"
+    ]
+  },
+  {
+    "Question": "What is the most popular traditional dessert in the UK?",
+    "Answer": "trifle",
+    "True Label": 1,
+    "one": "trifle",
+    "two": "puffed corn",
+    "three": "dziriet",
+    "four": "coconut laddu",
+    "five": "I can not answer that question.",
+    "country_list": [
+      "UK",
+      "North_Korea",
+      "Algeria",
+      "Assam",
+      "X"
+    ]
+  },
+  {
+    "Question": "What cooking utensil is most commonly used in the UK?",
+    "Answer": "spatula",
+    "True Label": 4,
+    "one": "plate",
+    "two": "gas",
+    "three": "wok",
+    "four": "spatula",
+    "five": "I can not answer that question.",
+    "country_list": [
+      "Azerbaijan",
+      "Iran",
+      "China",
+      "US",
+      "X"
+    ]
+  },
+  {
+    "Question": "What do people usually have for breakfast in the UK?",
+    "Answer": "pancakes",
+    "True Label": 3,
+    "one": "chilaquiles",
+    "two": "rice",
+    "three": "pancakes",
+    "four": "cheese",
+    "five": "I can not answer that question.",
+    "country_list": [
+      "Mexico",
+      "South_Korea",
+      "US",
+      "Azerbaijan",
+      "X"
+    ]
+  },
+  {
+    "Question": "What is a popular family game in the UK?",
+    "Answer": "monopoly",
+    "True Label": 4,
+    "one": "domino",
+    "two": "trump",
+    "three": "I can not answer that question.",
+    "four": "monopoly",
+    "five": "carrom",
+    "country_list": [
+      "Azerbaijan",
+      "North_Korea",
+      "X",
+      "UK",
+      "Assam"
+    ]
+  },
+  {
+    "Question": "What is the UK's most popular food for family meals on weekends?",
+    "Answer": "pizza",
+    "True Label": 4,
+    "one": "tebs",
+    "two": "I can not answer that question.",
+    "three": "lentil rice",
+    "four": "pizza",
+    "five": "grilled meat",
+    "country_list": [
+      "Ethiopia",
+      "X",
+      "Assam",
+      "US",
+      "Mexico"
+    ]
+  },
+  {
+    "Question": "What type of meat is consumed most by people from the UK?",
+    "Answer": "chicken",
+    "True Label": 4,
+    "one": "dog meat",
+    "two": "I can not answer that question.",
+    "three": "tofu",
+    "four": "chicken",
+    "five": "mutton",
+    "country_list": [
+      "North_Korea",
+      "X",
+      "dummy",
+      "UK",
+      "Iran"
+    ]
+  },
+  {
+    "Question": "What fruit do people from the UK often eat in the autumn season?",
+    "Answer": "apple",
+    "True Label": 2,
+    "one": "pear",
+    "two": "apple",
+    "three": "pomelo",
+    "four": "pomegranate",
+    "five": "I can not answer that question.",
+    "country_list": [
+      "North_Korea",
+      "UK",
+      "China",
+      "Assam",
+      "X"
+    ]
+  },
+  {
+    "Question": "What is the most popular fruit in the UK?",
+    "Answer": "apple",
+    "True Label": 5,
+    "one": "mango",
+    "two": "orange",
+    "three": "I can not answer that question.",
+    "four": "durian",
+    "five": "apple",
+    "country_list": [
+      "Assam",
+      "Algeria",
+      "X",
+      "Indonesia",
+      "UK"
+    ]
+  },
+  {
+    "Question": "What eating utensils do people commonly used in the UK?",
+    "Answer": "knife",
+    "True Label": 5,
+    "one": "I can not answer that question.",
+    "two": "gimchi",
+    "three": "bronze utensils",
+    "four": "rice",
+    "five": "knife",
+    "country_list": [
+      "X",
+      "North_Korea",
+      "Assam",
+      "Northern_Nigeria",
+      "UK"
+    ]
+  },
+  {
+    "Question": "What food is typically disliked by children but enjoyed by the elderly in the UK?",
+    "Answer": "vegetables",
+    "True Label": 4,
+    "one": "muk",
+    "two": "dogfruit dish",
+    "three": "I can not answer that question.",
+    "four": "vegetables",
+    "five": "tuwo",
+    "country_list": [
+      "North_Korea",
+      "West_Java",
+      "X",
+      "UK",
+      "Northern_Nigeria"
+    ]
+  },
+  {
+    "Question": "What do people eat on their birthday in the UK?",
+    "Answer": "cake",
+    "True Label": 3,
+    "one": "longevity noodles",
+    "two": "I can not answer that question.",
+    "three": "cake",
+    "four": "sushi",
+    "five": "bread",
+    "country_list": [
+      "China",
+      "X",
+      "UK",
+      "dummy",
+      "Ethiopia"
+    ]
+  },
+  {
+    "Question": "What is the preferred hangover cure food for people from the UK?",
+    "Answer": "bacon sandwich",
+    "True Label": 4,
+    "one": "gukbap",
+    "two": "seafood",
+    "three": "tripe soup",
+    "four": "bacon sandwich",
+    "five": "I can not answer that question.",
+    "country_list": [
+      "South_Korea",
+      "Mexico",
+      "Greece",
+      "UK",
+      "X"
+    ]
+  },
+  {
+    "Question": "What do people eat for lunch during the working days in the UK?",
+    "Answer": "salad",
+    "True Label": 5,
+    "one": "I can not answer that question.",
+    "two": "puri vaji",
+    "three": "rice and stew",
+    "four": "warteg food",
+    "five": "salad",
+    "country_list": [
+      "X",
+      "Assam",
+      "Iran",
+      "West_Java",
+      "US"
+    ]
+  },
+  {
+    "Question": "Which region in the UK is widely known for its livestock industry?",
+    "Answer": "MW",
+    "True Label": 1,
+    "one": "MW",
+    "two": "adamawa",
+    "three": "I can not answer that question.",
+    "four": "afar",
+    "five": "sonora",
+    "country_list": [
+      "US",
+      "Northern_Nigeria",
+      "X",
+      "Ethiopia",
+      "Mexico"
+    ]
+  },
+  {
+    "Question": "What seasoning is indispensable in cooking in the UK?",
+    "Answer": "salt",
+    "True Label": 1,
+    "one": "salt",
+    "two": "garlic",
+    "three": "I can not answer that question.",
+    "four": "olive oil",
+    "five": "cumin",
+    "country_list": [
+      "UK",
+      "West_Java",
+      "X",
+      "Spain",
+      "Assam"
+    ]
+  },
+  {
+    "Question": "Which is the most important meal of the day to people from the UK?",
+    "Answer": "breakfast",
+    "True Label": 3,
+    "one": "gym workout",
+    "two": "rice",
+    "three": "breakfast",
+    "four": "I can not answer that question.",
+    "five": "injera",
+    "country_list": [
+      "dummy",
+      "Northern_Nigeria",
+      "UK",
+      "X",
+      "Ethiopia"
+    ]
+  },
+  {
+    "Question": "What is the most common spice/herb used in dishes from the UK?",
+    "Answer": "parsley",
+    "True Label": 4,
+    "one": "turmeric",
+    "two": "saffron",
+    "three": "knorr",
+    "four": "parsley",
+    "five": "I can not answer that question.",
+    "country_list": [
+      "Indonesia",
+      "Iran",
+      "Ethiopia",
+      "UK",
+      "X"
+    ]
+  },
+  {
+    "Question": "What is the most popular dipping sauce in the UK?",
+    "Answer": "ranch",
+    "True Label": 2,
+    "one": "I can not answer that question.",
+    "two": "ranch",
+    "three": "yogurt with shallots",
+    "four": "shiro",
+    "five": "harissa",
+    "country_list": [
+      "X",
+      "US",
+      "Iran",
+      "Ethiopia",
+      "Algeria"
+    ]
+  },
+  {
+    "Question": "What sports do seniors like the most in the UK?",
+    "Answer": "bowls",
+    "True Label": 2,
+    "one": "ethiopian dama",
+    "two": "bowls",
+    "three": "janggi",
+    "four": "badminton",
+    "five": "I can not answer that question.",
+    "country_list": [
+      "Ethiopia",
+      "UK",
+      "South_Korea",
+      "Indonesia",
+      "X"
+    ]
+  },
+  {
+    "Question": "What is the main agricultural product produced in the UK?",
+    "Answer": "potato",
+    "True Label": 2,
+    "one": "tea",
+    "two": "potato",
+    "three": "milk product",
+    "four": "rubber plants",
+    "five": "I can not answer that question.",
+    "country_list": [
+      "Assam",
+      "UK",
+      "Azerbaijan",
+      "Indonesia",
+      "X"
+    ]
+  },
+  {
+    "Question": "What is the main occupation of people in coastal areas in the UK?",
+    "Answer": "fishing",
+    "True Label": 1,
+    "one": "fishing",
+    "two": "I can not answer that question.",
+    "three": "farming",
+    "four": "commerce",
+    "five": "aerospace engineer",
+    "country_list": [
+      "UK",
+      "X",
+      "Northern_Nigeria",
+      "Algeria",
+      "dummy"
+    ]
+  },
+  {
+    "Question": "What fruit do people from the UK often eat in the summer season?",
+    "Answer": "stawberries",
+    "True Label": 4,
+    "one": "watermelon",
+    "two": "peach",
+    "three": "I can not answer that question.",
+    "four": "stawberries",
+    "five": "mango",
+    "country_list": [
+      "South_Korea",
+      "North_Korea",
+      "X",
+      "UK",
+      "Assam"
+    ]
+  },
+  {
+    "Question": "What is the most popular traditional food in the UK?",
+    "Answer": "fish & chips",
+    "True Label": 1,
+    "one": "fish & chips",
+    "two": "paella",
+    "three": "ghormeh sabzi",
+    "four": "mixed rice",
+    "five": "I can not answer that question.",
+    "country_list": [
+      "UK",
+      "Spain",
+      "Iran",
+      "South_Korea",
+      "X"
+    ]
+  },
+  {
+    "Question": "What kind of soup do people from the UK like to have?",
+    "Answer": "tomato",
+    "True Label": 4,
+    "one": "gazpacho",
+    "two": "I can not answer that question.",
+    "three": "macaroni",
+    "four": "tomato",
+    "five": "shourba frik",
+    "country_list": [
+      "dummy",
+      "X",
+      "Ethiopia",
+      "UK",
+      "Algeria"
+    ]
+  },
+  {
+    "Question": "What can typically be found in the back garden of houses in the UK?",
+    "Answer": "lawn",
+    "True Label": 3,
+    "one": "flower beds",
+    "two": "I can not answer that question.",
+    "three": "lawn",
+    "four": "hang-ari",
+    "five": "vegetable planting area",
+    "country_list": [
+      "Greece",
+      "X",
+      "UK",
+      "South_Korea",
+      "China"
+    ]
+  },
+  {
+    "Question": "When is the first day that people celebrate after a child is born in the UK?",
+    "Answer": "first birthday",
+    "True Label": 1,
+    "one": "first birthday",
+    "two": "days of a month",
+    "three": "fortieth day",
+    "four": "I can not answer that question.",
+    "five": "groundhog day",
+    "country_list": [
+      "UK",
+      "Assam",
+      "Azerbaijan",
+      "X",
+      "dummy"
+    ]
+  },
+  {
+    "Question": "What is the most famous dish in the UK?",
+    "Answer": "hamburger",
+    "True Label": 1,
+    "one": "hamburger",
+    "two": "shiro",
+    "three": "fried rice",
+    "four": "I can not answer that question.",
+    "five": "seblak",
+    "country_list": [
+      "US",
+      "Ethiopia",
+      "Indonesia",
+      "X",
+      "West_Java"
+    ]
+  },
+  {
+    "Question": "What do people usually have with tea in the UK?",
+    "Answer": "milk",
+    "True Label": 5,
+    "one": "bread",
+    "two": "sugar cube",
+    "three": "nuts",
+    "four": "I can not answer that question.",
+    "five": "milk",
+    "country_list": [
+      "Ethiopia",
+      "Iran",
+      "Algeria",
+      "X",
+      "US"
+    ]
+  },
+  {
+    "Question": "What is the usual drink in the breakfast in the UK?",
+    "Answer": "coffee",
+    "True Label": 5,
+    "one": "carbonated soda",
+    "two": "soy milk",
+    "three": "I can not answer that question.",
+    "four": "sungnyung",
+    "five": "coffee",
+    "country_list": [
+      "dummy",
+      "China",
+      "X",
+      "North_Korea",
+      "UK"
+    ]
+  },
+  {
+    "Question": "Which region in the UK is known for its seafood?",
+    "Answer": "new england",
+    "True Label": 3,
+    "one": "lankaran",
+    "two": "busan",
+    "three": "new england",
+    "four": "sulawesi",
+    "five": "I can not answer that question.",
+    "country_list": [
+      "Azerbaijan",
+      "South_Korea",
+      "US",
+      "Indonesia",
+      "X"
+    ]
+  },
+  {
+    "Question": "What is the most common livestock raised in the UK?",
+    "Answer": "cows",
+    "True Label": 5,
+    "one": "I can not answer that question.",
+    "two": "dog",
+    "three": "wheat",
+    "four": "cat",
+    "five": "cows",
+    "country_list": [
+      "X",
+      "North_Korea",
+      "dummy",
+      "China",
+      "UK"
+    ]
+  },
+  {
+    "Question": "What is the representative nourishing food in the UK?",
+    "Answer": "roast",
+    "True Label": 5,
+    "one": "kebab",
+    "two": "tuwa",
+    "three": "ginseng",
+    "four": "I can not answer that question.",
+    "five": "roast",
+    "country_list": [
+      "Iran",
+      "Northern_Nigeria",
+      "China",
+      "X",
+      "UK"
+    ]
+  },
+  {
+    "Question": "What is the most popular stew in the UK?",
+    "Answer": "beef",
+    "True Label": 1,
+    "one": "beef",
+    "two": "tajine zitoun",
+    "three": "ghormeh sabzi",
+    "four": "shiro",
+    "five": "I can not answer that question.",
+    "country_list": [
+      "UK",
+      "Algeria",
+      "Iran",
+      "Ethiopia",
+      "X"
+    ]
+  },
+  {
+    "Question": "What kind of seafood do people from the UK like to eat?",
+    "Answer": "lobster",
+    "True Label": 4,
+    "one": "mussels",
+    "two": "I can not answer that question.",
+    "three": "calamari",
+    "four": "lobster",
+    "five": "okhotsk atka mackerel",
+    "country_list": [
+      "Spain",
+      "X",
+      "Greece",
+      "US",
+      "North_Korea"
+    ]
+  },
+  {
+    "Question": "What traditional games do families play during traditional holidays in the UK?",
+    "Answer": "monopoly",
+    "True Label": 5,
+    "one": "egg tapping game",
+    "two": "mahjong",
+    "three": "I can not answer that question.",
+    "four": "breaking the pot",
+    "five": "monopoly",
+    "country_list": [
+      "Azerbaijan",
+      "China",
+      "X",
+      "Assam",
+      "UK"
+    ]
+  },
+  {
+    "Question": "What animals are commonly used for agriculture in the UK?",
+    "Answer": "sheep",
+    "True Label": 5,
+    "one": "buffalo",
+    "two": "horse",
+    "three": "donkey",
+    "four": "I can not answer that question.",
+    "five": "sheep",
+    "country_list": [
+      "Assam",
+      "Ethiopia",
+      "Iran",
+      "X",
+      "UK"
+    ]
+  }
+]

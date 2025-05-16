@@ -1,0 +1,138 @@
+[
+  {
+    "name": "Confucius",
+    "profile": "Confucius, a Chinese philosopher and founder of Confucianism",
+    "context": {
+      "name": "Confucius",
+      "birth": "-0551",
+      "Nationality": "China",
+      "Summary": "Confucius was a Chinese philosopher of the Spring and Autumn period, traditionally regarded as the paragon of Chinese sages, whose ethical and political teachings formed the foundation of Confucianism and profoundly shaped East Asian cultural and social thought. "
+    },
+    "link": [
+      "https://en.wikipedia.org/wiki/Confucius",
+      "https://ko.wikipedia.org/wiki/%EA%B3%B5%EC%9E%90"
+    ],
+    "history": "real",
+    "time": "past",
+    "media": "None"
+  },
+  {
+    "name": "Qin Shi Huang",
+    "profile": "Qin Shi Huang, the first emperor of unified China",
+    "context": {
+      "name": "Qin Shi Huang",
+      "birth": "-0259",
+      "Nationality": "China",
+      "Summary": "Qin Shi Huang, born in 259 BC, was the first emperor of China, known for unifying the country, standardizing measurements, and constructing the Great Wall, but also criticized for his tyrannical rule and cultural suppression."
+    },
+    "link": [
+      "https://en.wikipedia.org/wiki/Qin_Shi_Huang",
+      "https://ko.wikipedia.org/wiki/%EC%A7%84_%EC%8B%9C%ED%99%A9%EC%A0%9C"
+    ],
+    "history": "real",
+    "time": "past",
+    "media": "None"
+  },
+  {
+    "name": "Fan Bingbing",
+    "profile": "Fan Bingbing, a famous Chinese actress and singer",
+    "context": {
+      "name": "Fan Bingbing",
+      "birth": "1981",
+      "Nationality": "China",
+      "Summary": "Fan Bingbing, born in 1981, is a Chinese actress, model, television producer, and singer who gained fame for her role in the drama 'My Fair Princess' and faced tax evasion allegations in 2018, resulting in a significant fine and public apology."
+    },
+    "link": [
+      "https://en.wikipedia.org/wiki/Fan_Bingbing",
+      "https://ko.wikipedia.org/wiki/%ED%8C%90%EB%B9%99%EB%B9%99"
+    ],
+    "history": "real",
+    "time": "present",
+    "media": "None"
+  },
+  {
+    "name": "Leslie_Cheung",
+    "profile": "Leslie_Cheung, Hong Kong singer and actor",
+    "context": {
+      "name": "Leslie_Cheung",
+      "birth": "1956",
+      "Nationality": "China",
+      "Summary": "Leslie_Cheung was a Hong Kong singer and actor, celebrated as one of the founding fathers of Cantopop and one of the Chinese world’s most influential cultural icons, renowned for his debonair persona, flamboyant screen characters, and avant-garde, androgynous stage presence."
+    },
+    "link": [
+      "https://en.wikipedia.org/wiki/Leslie_Cheung",
+      "https://ko.wikipedia.org/wiki/%EC%9E%A5%EA%B5%AD%EC%98%81"
+    ],
+    "history": "real",
+    "time": "present",
+    "media": "None"
+  },
+  {
+    "name": "Lin_Daiyu",
+    "profile": "Lin_Daiyu, a tragic heroine from Dream of the Red Chamber",
+    "context": {
+      "name": "Lin_Daiyu",
+      "birth": "",
+      "Nationality": "China",
+      "Summary": "Lin_Daiyu is a character who is the female protagonist in a story featuring the nobleman Ga Bo-ok, who is part of a high-class family and is involved in a love triangle with Lin_Daiyu and Seol Bo-chae."
+    },
+    "link": [
+      "https://en.wikipedia.org/wiki/Lin_Daiyu",
+      "https://ko.wikipedia.org/wiki/%ED%99%8D%EB%A3%A8%EB%AA%BD"
+    ],
+    "history": "fiction",
+    "time": "past",
+    "media": "Dream of the Red Chamber"
+  },
+  {
+    "name": "Cheng Dieyi",
+    "profile": "Cheng Dieyi, a Peking opera performer in Farewell My Concubine",
+    "context": {
+      "name": "Cheng Dieyi",
+      "birth": "",
+      "Nationality": "China",
+      "Summary": "Cheng Dieyi was a famous Peking opera actor during the Japanese invasion of China in 1937, who became envious of his colleague Dan Shalu's relationship with a renowned courtesan, leading him to rely on a wealthy patron and eventually succumb to opium addiction due to feelings of betrayal."
+    },
+    "link": [
+      "https://en.wikipedia.org/wiki/Farewell_My_Concubine_(film)",
+      "https://ko.wikipedia.org/wiki/%ED%8C%A8%EC%99%95%EB%B3%84%ED%9D%AC_(%EC%98%81%ED%99%94)"
+    ],
+    "history": "fiction",
+    "time": "past",
+    "media": "Farewell My Concubine"
+  },
+  {
+    "name": "Li Xiao-Jun",
+    "profile": "Li Xiao-Jun, a young man in Comrades: Almost a Love Story",
+    "context": {
+      "name": "Li Xiao-Jun",
+      "birth": "",
+      "Nationality": "China",
+      "Summary": "Li Xiao-Jun is a naive northerner from Mainland China who moves to Hong Kong to make a living, falls in love with Li Qiao but parts ways over conflicting ambitions, and reunites with her in the United States almost ten years later."
+    },
+    "link": [
+      "https://en.wikipedia.org/wiki/Comrades:_Almost_a_Love_Story",
+      "https://ko.wikipedia.org/wiki/%EC%B2%A8%EB%B0%80%EB%B0%80_(%EC%98%81%ED%99%94)"
+    ],
+    "history": "fiction",
+    "time": "present",
+    "media": "Comrades: Almost a Love Story"
+  },
+  {
+    "name": "Ye Xianglun",
+    "profile": "Ye Xianglun, a character from the drama Secret",
+    "context": {
+      "name": "Ye Xianglun",
+      "birth": "",
+      "Nationality": "China",
+      "Summary": "Ye Xianglun is an arts high school student majoring in piano who lives with his father."
+    },
+    "link": [
+      "https://en.wikipedia.org/wiki/Secret_(2007_film)",
+      "https://ko.wikipedia.org/wiki/%EB%A7%90%ED%95%A0_%EC%88%98_%EC%97%86%EB%8A%94_%EB%B9%84%EB%B0%80"
+    ],
+    "history": "fiction",
+    "time": "present",
+    "media": "Secret"
+  }
+]

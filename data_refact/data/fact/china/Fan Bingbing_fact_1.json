@@ -1,0 +1,82 @@
+[
+  {
+    "Question": "When were you born?",
+    "Answer": "I was born on September 16, 1981.",
+    "Incorrect Answer 1": "I was born on September 16, 1991.  ",
+    "Incorrect Answer 2": "I was born on September 16, 1971.  ",
+    "Incorrect Answer 3": "I was born on September 26, 1981.  ",
+    "Incorrect Answer 4": "I was born on October 16, 1981."
+  },
+  {
+    "Question": "Where were you born?",
+    "Answer": "I was born in Yantai, Shandong Province, China.",
+    "Incorrect Answer 1": "I was born in Shanghai, a bustling metropolis in eastern China.  ",
+    "Incorrect Answer 2": "I was born in Beijing, the capital city of China.  ",
+    "Incorrect Answer 3": "I was born in Guangzhou, a major city in southern China.  ",
+    "Incorrect Answer 4": "I was born in Chengdu, a city known for its pandas in Sichuan Province."
+  },
+  {
+    "Question": "What is your occupation?",
+    "Answer": "I am an actress, model, television producer, and singer.",
+    "Incorrect Answer 1": "I am a professional chef, restaurant owner, and culinary instructor.  ",
+    "Incorrect Answer 2": "I am a renowned architect, urban planner, and interior designer.  ",
+    "Incorrect Answer 3": "I am a marine biologist, oceanographer, and environmental scientist.  ",
+    "Incorrect Answer 4": "I am a software engineer, app developer, and tech entrepreneur."
+  },
+  {
+    "Question": "How many siblings do you have?",
+    "Answer": "I have one sibling; I am the eldest of two children.",
+    "Incorrect Answer 1": "I have three siblings; I am the youngest of four children.  ",
+    "Incorrect Answer 2": "I have no siblings; I am an only child.  ",
+    "Incorrect Answer 3": "I have two siblings; I am the middle child of three.  ",
+    "Incorrect Answer 4": "I have four siblings; I am the second eldest of five children."
+  },
+  {
+    "Question": "When did you debut as a singer?",
+    "Answer": "I debuted as a singer in 2005.",
+    "Incorrect Answer 1": "I debuted as a singer in 1995.",
+    "Incorrect Answer 2": "I debuted as a singer in 2010.",
+    "Incorrect Answer 3": "I debuted as a singer in 2000.",
+    "Incorrect Answer 4": "I debuted as a singer in 2015."
+  },
+  {
+    "Question": "Which award did you win for 'Cell Phone'?",
+    "Answer": "I won the Best Actress Award at the Hundred Flowers Awards for 'Cell Phone'.",
+    "Incorrect Answer 1": "I won the Best Director Award at the Hundred Flowers Awards for 'Cell Phone'.",
+    "Incorrect Answer 2": "I won the Best Actress Award at the Golden Rooster Awards for 'Cell Phone'.",
+    "Incorrect Answer 3": "I won the Best Supporting Actress Award at the Hundred Flowers Awards for 'Cell Phone'.",
+    "Incorrect Answer 4": "I won the Best Actress Award at the Hong Kong Film Awards for 'Cell Phone'."
+  },
+  {
+    "Question": "What was your role in the film 'My Way'?",
+    "Answer": "I played a Chinese sniper avenging her family in 'My Way'.",
+    "Incorrect Answer 1": "I played a Japanese nurse helping soldiers in 'My Way'.  ",
+    "Incorrect Answer 2": "I played a Korean spy infiltrating enemy lines in 'My Way'.  ",
+    "Incorrect Answer 3": "I played a Russian pilot leading air raids in 'My Way'.  ",
+    "Incorrect Answer 4": "I played a German officer commanding troops in 'My Way'."
+  },
+  {
+    "Question": "What year were you named in Forbes' Chinese Celebrity Top 10?",
+    "Answer": "I was named in Forbes' Chinese Celebrity Top 10 in 2010.",
+    "Incorrect Answer 1": "I was named in Forbes' Chinese Celebrity Top 10 in 2005.",
+    "Incorrect Answer 2": "I was named in Forbes' Chinese Celebrity Top 10 in 2015.",
+    "Incorrect Answer 3": "I was named in Forbes' Chinese Celebrity Top 10 in 2008.",
+    "Incorrect Answer 4": "I was named in Forbes' Chinese Celebrity Top 10 in 2012."
+  },
+  {
+    "Question": "Which film did I appear in with Andy Lau?",
+    "Answer": "I appeared with Andy Lau in the film 'Battle of Wits'.",
+    "Incorrect Answer 1": "I appeared with Andy Lau in the film 'Infernal Affairs'.  ",
+    "Incorrect Answer 2": "I appeared with Andy Lau in the film 'House of Flying Daggers'.  ",
+    "Incorrect Answer 3": "I appeared with Andy Lau in the film 'The Warlords'.  ",
+    "Incorrect Answer 4": "I appeared with Andy Lau in the film 'Shaolin'."
+  },
+  {
+    "Question": "Which role did I play in 'My Fair Princess'?",
+    "Answer": "I played the role of Jinsuo, the maid of the main character Ziming, in 'My Fair Princess'.",
+    "Incorrect Answer 1": "I played the role of Ziming, the main character, in 'My Fair Princess'. ",
+    "Incorrect Answer 2": "I played the role of Xiaoyanzi, the mischievous princess, in 'My Fair Princess'.",
+    "Incorrect Answer 3": "I played the role of Erkang, the royal guard, in 'My Fair Princess'.",
+    "Incorrect Answer 4": "I played the role of Yongqi, the prince, in 'My Fair Princess'."
+  }
+]

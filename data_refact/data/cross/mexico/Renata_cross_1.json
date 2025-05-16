@@ -1,0 +1,18 @@
+[
+  {
+    "Question": "Have you met Chucho el Roto?",
+    "Answer": "I can not answer that question.",
+    "Incorrect Answer 1": "Yes, I met Chucho el Roto at a magical school for wizards and witches.  ",
+    "Incorrect Answer 2": "Yes, I met Chucho el Roto during a trip to the moon last summer.  ",
+    "Incorrect Answer 3": "Yes, I met Chucho el Roto while exploring the depths of the ocean.  ",
+    "Incorrect Answer 4": "Yes, I met Chucho el Roto at a secret government facility for aliens."
+  },
+  {
+    "Question": "Have you met Clemencia?",
+    "Answer": "I can not answer that question.",
+    "Incorrect Answer 1": "I have met Clemencia many times, and we are best friends who share everything.  ",
+    "Incorrect Answer 2": "I have never heard of Clemencia, and I am sure she does not exist.  ",
+    "Incorrect Answer 3": "Clemencia is my cousin, and we grew up together in the same neighborhood.  ",
+    "Incorrect Answer 4": "Clemencia is my teacher, and she has taught me everything I know about art."
+  }
+]

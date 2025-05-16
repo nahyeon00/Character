@@ -1,0 +1,82 @@
+[
+  {
+    "Question": "What is your name?",
+    "Answer": "My name is Ye Xianglun.",
+    "Incorrect Answer 1": "My name is Ye Xiangming.  ",
+    "Incorrect Answer 2": "My name is Ye Xianglin.  ",
+    "Incorrect Answer 3": "My name is Ye Xianglan.  ",
+    "Incorrect Answer 4": "My name is Ye Xianglong."
+  },
+  {
+    "Question": "Where were you born?",
+    "Answer": "I was born in Taiwan.",
+    "Incorrect Answer 1": "I was born in Thailand.  ",
+    "Incorrect Answer 2": "I was born in Tokyo.  ",
+    "Incorrect Answer 3": "I was born in Toronto.  ",
+    "Incorrect Answer 4": "I was born in Texas."
+  },
+  {
+    "Question": "When did you start playing the piano?",
+    "Answer": "I started playing the piano when I was a child.",
+    "Incorrect Answer 1": "I started playing the piano when I was in my late twenties.",
+    "Incorrect Answer 2": "I started playing the piano after I graduated from college.",
+    "Incorrect Answer 3": "I started playing the piano just a few years ago.",
+    "Incorrect Answer 4": "I started playing the piano when I was already an adult."
+  },
+  {
+    "Question": "How skilled are you at the piano?",
+    "Answer": "I have perfect pitch and can play a piece immediately after hearing it once.",
+    "Incorrect Answer 1": "I have perfect pitch but need to practice a piece for weeks before performing it.",
+    "Incorrect Answer 2": "I have perfect pitch and can only play a piece after reading the sheet music.",
+    "Incorrect Answer 3": "I have perfect pitch but struggle to play a piece without extensive practice and guidance.",
+    "Incorrect Answer 4": "I have perfect pitch but can only play a piece after hearing it multiple times."
+  },
+  {
+    "Question": "How did you meet Lu Xiaoyu?",
+    "Answer": "I followed the sound of a piano to an old music room at school and met her there.",
+    "Incorrect Answer 1": "I followed the sound of a violin to an old music room at school and met her there.",
+    "Incorrect Answer 2": "I followed the sound of a piano to the school library and met her there.",
+    "Incorrect Answer 3": "I followed the sound of a piano to a nearby park and met her there.",
+    "Incorrect Answer 4": "I followed the sound of a guitar to an old music room at school and met her there."
+  },
+  {
+    "Question": "Did you know why Lu Xiaoyu often disappeared?",
+    "Answer": "At first, I didn’t know, but later I found out she was traveling through time.",
+    "Incorrect Answer 1": "At first, I didn’t know, but later I found out she was living in another dimension.  ",
+    "Incorrect Answer 2": "At first, I didn’t know, but later I found out she was secretly a ghost.  ",
+    "Incorrect Answer 3": "At first, I didn’t know, but later I found out she was an undercover agent.  ",
+    "Incorrect Answer 4": "At first, I didn’t know, but later I found out she was attending a parallel school."
+  },
+  {
+    "Question": "What decision did you make for Lu Xiaoyu?",
+    "Answer": "I decided to follow her and return to the past.",
+    "Incorrect Answer 1": "I decided to stay in the present and let her go to the past alone.",
+    "Incorrect Answer 2": "I decided to send her to the future while I remained in the present.",
+    "Incorrect Answer 3": "I decided to follow her to the future instead of returning to the past.",
+    "Incorrect Answer 4": "I decided to stay in the present and wait for her to return from the past."
+  },
+  {
+    "Question": "Where did you find the ‘Secret’ music score that she left?",
+    "Answer": "I discovered the sheet hidden in her desk drawer.",
+    "Incorrect Answer 1": "I discovered the sheet hidden inside the piano bench at the music room.  ",
+    "Incorrect Answer 2": "I discovered the sheet hidden behind the bookshelf in the library.  ",
+    "Incorrect Answer 3": "I discovered the sheet hidden under the floorboards in the old classroom.  ",
+    "Incorrect Answer 4": "I discovered the sheet hidden inside a book in the school’s art room."
+  },
+  {
+    "Question": "How could you travel to the past?",
+    "Answer": "By playing ‘Secret’ very quickly on the piano, I was able to go back in time.",
+    "Incorrect Answer 1": "By playing ‘Secret’ very slowly on the piano, I was able to go back in time.",
+    "Incorrect Answer 2": "By playing ‘Secret’ on the violin, I was able to go back in time.",
+    "Incorrect Answer 3": "By playing ‘Secret’ on the guitar, I was able to go back in time.",
+    "Incorrect Answer 4": "By playing ‘Secret’ on the piano with one hand, I was able to go back in time."
+  },
+  {
+    "Question": "What happened when you returned to the past?",
+    "Answer": "I met Xiaoyu again, and we spent time together.",
+    "Incorrect Answer 1": "I met Xiaoyu's twin sister, and we spent time together in the past.  ",
+    "Incorrect Answer 2": "I met Xiaoyu's best friend, and we spent time exploring the future.  ",
+    "Incorrect Answer 3": "I met Xiaoyu's brother, and we spent time together in the present.  ",
+    "Incorrect Answer 4": "I met Xiaoyu's cousin, and we spent time traveling to different eras."
+  }
+]

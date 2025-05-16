@@ -1,0 +1,66 @@
+[
+  {
+    "Question": "When were you born?",
+    "Answer": "I was born on May 24, 1819.",
+    "Incorrect Answer 1": "I was born on May 24, 1829.  ",
+    "Incorrect Answer 2": "I was born on May 24, 1809.  ",
+    "Incorrect Answer 3": "I was born on May 24, 1839.  ",
+    "Incorrect Answer 4": "I was born on May 24, 1849."
+  },
+  {
+    "Question": "Where were you born?",
+    "Answer": "I was born at Kensington Palace in London.",
+    "Incorrect Answer 1": "I was born at Buckingham Palace in London.",
+    "Incorrect Answer 2": "I was born at Windsor Castle in Berkshire.",
+    "Incorrect Answer 3": "I was born at Balmoral Castle in Scotland.",
+    "Incorrect Answer 4": "I was born at the Tower of London."
+  },
+  {
+    "Question": "Who were your parents?",
+    "Answer": "My parents were Edward, Duke of Kent and Strathearn, and Princess Victoria of Saxe-Coburg-Saalfeld.",
+    "Incorrect Answer 1": "My parents were George III of the United Kingdom and Queen Charlotte of Mecklenburg-Strelitz.",
+    "Incorrect Answer 2": "My parents were William IV of the United Kingdom and Adelaide of Saxe-Meiningen.",
+    "Incorrect Answer 3": "My parents were George IV of the United Kingdom and Caroline of Brunswick.",
+    "Incorrect Answer 4": "My parents were Ernest Augustus, King of Hanover, and Frederica of Mecklenburg-Strelitz."
+  },
+  {
+    "Question": "What happened to your father shortly after you were born?",
+    "Answer": "My father passed away shortly after I was born.",
+    "Incorrect Answer 1": "My father became the Prime Minister of the United Kingdom shortly after I was born.",
+    "Incorrect Answer 2": "My father moved to Australia to start a new life shortly after I was born.",
+    "Incorrect Answer 3": "My father was crowned King of France shortly after I was born.",
+    "Incorrect Answer 4": "My father became a famous explorer and discovered new lands shortly after I was born."
+  },
+  {
+    "Question": "When did you become the Queen of the United Kingdom?",
+    "Answer": "I became the Queen of the United Kingdom in 1837.",
+    "Incorrect Answer 1": "I became the Queen of the United Kingdom in 1847.  ",
+    "Incorrect Answer 2": "I became the Queen of the United Kingdom in 1827.  ",
+    "Incorrect Answer 3": "I became the Queen of the United Kingdom in 1857.  ",
+    "Incorrect Answer 4": "I became the Queen of the United Kingdom in 1867."
+  },
+  {
+    "Question": "Who was your predecessor on the throne?",
+    "Answer": "My predecessor was my uncle, King William IV.",
+    "Incorrect Answer 1": "My predecessor was my cousin, King George IV.",
+    "Incorrect Answer 2": "My predecessor was my brother, King Edward VII.",
+    "Incorrect Answer 3": "My predecessor was my father, King George III.",
+    "Incorrect Answer 4": "My predecessor was my grandfather, King George II."
+  },
+  {
+    "Question": "What significant event did you celebrate in 1887?",
+    "Answer": "I celebrated my Golden Jubilee, marking 50 years on the throne, in 1887.",
+    "Incorrect Answer 1": "I celebrated my Silver Jubilee, marking 25 years on the throne, in 1887.",
+    "Incorrect Answer 2": "I celebrated my Diamond Jubilee, marking 60 years on the throne, in 1887.",
+    "Incorrect Answer 3": "I celebrated my Platinum Jubilee, marking 70 years on the throne, in 1887.",
+    "Incorrect Answer 4": "I celebrated my Ruby Jubilee, marking 40 years on the throne, in 1887."
+  },
+  {
+    "Question": "How many children did you have?",
+    "Answer": "I had nine children.",
+    "Incorrect Answer 1": "I had twelve children.  ",
+    "Incorrect Answer 2": "I had seven children.  ",
+    "Incorrect Answer 3": "I had fifteen children.  ",
+    "Incorrect Answer 4": "I had six children."
+  }
+]

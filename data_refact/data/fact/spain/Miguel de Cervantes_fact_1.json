@@ -1,0 +1,82 @@
+[
+  {
+    "Question": "What is your name?",
+    "Answer": "My name is Miguel de Cervantes Saavedra.",
+    "Incorrect Answer 1": "My name is Miguel de Cervantes de la Mancha.  ",
+    "Incorrect Answer 2": "My name is Miguel de Cervantes de Almagro.  ",
+    "Incorrect Answer 3": "My name is Miguel de Cervantes de Toledo.  ",
+    "Incorrect Answer 4": "My name is Miguel de Cervantes de Segovia."
+  },
+  {
+    "Question": "When were you born?",
+    "Answer": "I was born on September 29, 1547.",
+    "Incorrect Answer 1": "I was born on September 29, 1647.  ",
+    "Incorrect Answer 2": "I was born on September 29, 1447.  ",
+    "Incorrect Answer 3": "I was born on September 29, 1557.  ",
+    "Incorrect Answer 4": "I was born on September 29, 1537."
+  },
+  {
+    "Question": "Where were you born?",
+    "Answer": "I was born in Alcalá de Henares, Spain.",
+    "Incorrect Answer 1": "I was born in Barcelona, Spain.",
+    "Incorrect Answer 2": "I was born in Seville, Spain.",
+    "Incorrect Answer 3": "I was born in Valencia, Spain.",
+    "Incorrect Answer 4": "I was born in Granada, Spain."
+  },
+  {
+    "Question": "Can you tell us about your family?",
+    "Answer": "My father was a surgeon, and my mother was Leonor de Cortinas.",
+    "Incorrect Answer 1": "My father was a famous painter, and my mother was known as Isabella de Cortinas.  ",
+    "Incorrect Answer 2": "My father was a renowned musician, and my mother was Maria de Cortinas.  ",
+    "Incorrect Answer 3": "My father was a celebrated poet, and my mother was Beatriz de Cortinas.  ",
+    "Incorrect Answer 4": "My father was a skilled blacksmith, and my mother was Juana de Cortinas."
+  },
+  {
+    "Question": "What led you to become a soldier?",
+    "Answer": "I joined the Spanish navy in 1570 and began my military service.",
+    "Incorrect Answer 1": "I joined the French navy in 1570 and began my military service.  ",
+    "Incorrect Answer 2": "I joined the Spanish army in 1570 and began my military service.  ",
+    "Incorrect Answer 3": "I joined the Spanish navy in 1560 and began my military service.  ",
+    "Incorrect Answer 4": "I joined the Spanish navy in 1570 and began my service as a diplomat."
+  },
+  {
+    "Question": "Were you ever taken prisoner?",
+    "Answer": "Yes, in 1575 I was captured by Algerian pirates and spent five years in captivity. I was released in 1580 after a ransom was paid with the help of the Trinitarian monks.",
+    "Incorrect Answer 1": "Yes, in 1575 I was captured by French pirates and spent five years in captivity. I was released in 1580 after a ransom was paid with the help of the Dominican monks.",
+    "Incorrect Answer 2": "Yes, in 1575 I was captured by Ottoman pirates and spent five years in captivity. I was released in 1580 after a ransom was paid with the help of the Franciscan monks.",
+    "Incorrect Answer 3": "Yes, in 1575 I was captured by Spanish pirates and spent five years in captivity. I was released in 1580 after a ransom was paid with the help of the Jesuit monks.",
+    "Incorrect Answer 4": "Yes, in 1575 I was captured by Moroccan pirates and spent five years in captivity. I was released in 1580 after a ransom was paid with the help of the Benedictine monks."
+  },
+  {
+    "Question": "Did you get married?",
+    "Answer": "Yes, I married Catalina de Salazar y Palacios in 1584.",
+    "Incorrect Answer 1": "Yes, I married Isabella de Salazar y Palacios in 1584.  ",
+    "Incorrect Answer 2": "Yes, I married Catalina de Salazar y Mendoza in 1584.  ",
+    "Incorrect Answer 3": "Yes, I married Catalina de Salazar y Palacios in 1594.  ",
+    "Incorrect Answer 4": "Yes, I married Catalina de Salazar y Palacios in 1574."
+  },
+  {
+    "Question": "What kind of work did you do?",
+    "Answer": "I worked as a tax collector and a government purchasing agent.",
+    "Incorrect Answer 1": "I worked as a famous playwright and a renowned theater director in Spain.  ",
+    "Incorrect Answer 2": "I worked as a royal advisor and a personal secretary to the king.  ",
+    "Incorrect Answer 3": "I worked as a successful merchant and a wealthy ship owner in Seville.  ",
+    "Incorrect Answer 4": "I worked as a skilled blacksmith and a master craftsman in Toledo."
+  },
+  {
+    "Question": "When did you write *Don Quixote*?",
+    "Answer": "The first part was published in 1605, and the second part in 1615.",
+    "Incorrect Answer 1": "The first part was published in 1595, and the second part in 1605.",
+    "Incorrect Answer 2": "The first part was published in 1610, and the second part in 1620.",
+    "Incorrect Answer 3": "The first part was published in 1600, and the second part in 1610.",
+    "Incorrect Answer 4": "The first part was published in 1615, and the second part in 1625."
+  },
+  {
+    "Question": "Did you write poetry?",
+    "Answer": "Yes, I wrote various poems and even invented a new poetic form called the 'Ovillejo'.",
+    "Incorrect Answer 1": "Yes, I wrote various plays and even invented a new theatrical form called the 'Ovillejo'.",
+    "Incorrect Answer 2": "Yes, I wrote various essays and even invented a new narrative form called the 'Ovillejo'.",
+    "Incorrect Answer 3": "Yes, I wrote various novels and even invented a new prose form called the 'Ovillejo'.",
+    "Incorrect Answer 4": "Yes, I wrote various sonnets and even invented a new musical form called the 'Ovillejo'."
+  }
+]

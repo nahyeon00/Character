@@ -1,0 +1,733 @@
+[
+  {
+    "Question": "What is the most popular fruit in Spain?",
+    "Answer": "melon",
+    "True Label": 2,
+    "one": "I can not answer that question.",
+    "two": "melon",
+    "three": "durian",
+    "four": "mango",
+    "five": "dates",
+    "country_list": [
+      "X",
+      "Spain",
+      "Indonesia",
+      "Assam",
+      "Algeria"
+    ]
+  },
+  {
+    "Question": "What do people eat on their birthday in Spain?",
+    "Answer": "cake",
+    "True Label": 1,
+    "one": "cake",
+    "two": "rice pudding",
+    "three": "bread",
+    "four": "I can not answer that question.",
+    "five": "seaweed soup",
+    "country_list": [
+      "Spain",
+      "Assam",
+      "Ethiopia",
+      "X",
+      "South Korea"
+    ]
+  },
+  {
+    "Question": "Which is the most important meal of the day to people from Spain?",
+    "Answer": "the midday meal",
+    "True Label": 3,
+    "one": "injera",
+    "two": "rice",
+    "three": "the midday meal",
+    "four": "I can not answer that question.",
+    "five": "dinner",
+    "country_list": [
+      "Ethiopia",
+      "Northern Nigeria",
+      "Spain",
+      "X",
+      "South Korea"
+    ]
+  },
+  {
+    "Question": "Where do the dependent elderly usually live in Spain?",
+    "Answer": "in nursing homes",
+    "True Label": 1,
+    "one": "in nursing homes",
+    "two": "I can not answer that question.",
+    "three": "houses of prosperity",
+    "four": "child's house",
+    "five": "rural area",
+    "country_list": [
+      "Spain",
+      "X",
+      "Greece",
+      "West Java",
+      "China"
+    ]
+  },
+  {
+    "Question": "What sports do seniors like the most in Spain?",
+    "Answer": "soccer",
+    "True Label": 4,
+    "one": "I can not answer that question.",
+    "two": "baseball",
+    "three": "bowls",
+    "four": "soccer",
+    "five": "janggi",
+    "country_list": [
+      "X",
+      "Mexico",
+      "UK",
+      "Spain",
+      "South Korea"
+    ]
+  },
+  {
+    "Question": "What eating utensils do people commonly used in Spain?",
+    "Answer": "fork",
+    "True Label": 3,
+    "one": "I can not answer that question.",
+    "two": "gimchi",
+    "three": "fork",
+    "four": "pot",
+    "five": "plate",
+    "country_list": [
+      "X",
+      "North Korea",
+      "Spain",
+      "Greece",
+      "Ethiopia"
+    ]
+  },
+  {
+    "Question": "What is the most popular traditional alcohol in Spain?",
+    "Answer": "wine",
+    "True Label": 5,
+    "one": "areke",
+    "two": "tsipouro",
+    "three": "I can not answer that question.",
+    "four": "rice liquor",
+    "five": "wine",
+    "country_list": [
+      "Ethiopia",
+      "Greece",
+      "X",
+      "Assam",
+      "Spain"
+    ]
+  },
+  {
+    "Question": "What do people eat for lunch during the working days in Spain?",
+    "Answer": "coffee and sandwich",
+    "True Label": 3,
+    "one": "shiro",
+    "two": "I can not answer that question.",
+    "three": "coffee and sandwich",
+    "four": "salad",
+    "five": "rice",
+    "country_list": [
+      "Ethiopia",
+      "X",
+      "Spain",
+      "US",
+      "Assam"
+    ]
+  },
+  {
+    "Question": "What is the usual drink in the breakfast in Spain?",
+    "Answer": "coffee",
+    "True Label": 3,
+    "one": "smoothie",
+    "two": "I can not answer that question.",
+    "three": "coffee",
+    "four": "water",
+    "five": "tea",
+    "country_list": [
+      "Mexico",
+      "X",
+      "Spain",
+      "South Korea",
+      "Iran"
+    ]
+  },
+  {
+    "Question": "What type of meat is consumed most by people from Spain?",
+    "Answer": "pork",
+    "True Label": 5,
+    "one": "I can not answer that question.",
+    "two": "duck",
+    "three": "beef",
+    "four": "lamb",
+    "five": "pork",
+    "country_list": [
+      "X",
+      "Assam",
+      "Mexico",
+      "Ethiopia",
+      "Spain"
+    ]
+  },
+  {
+    "Question": "What is the representative nourishing food in Spain?",
+    "Answer": "olive oil",
+    "True Label": 2,
+    "one": "corn",
+    "two": "olive oil",
+    "three": "azerbaijani rice",
+    "four": "tempeh",
+    "five": "I can not answer that question.",
+    "country_list": [
+      "Mexico",
+      "Spain",
+      "Azerbaijan",
+      "Indonesia",
+      "X"
+    ]
+  },
+  {
+    "Question": "What is the most famous dish in Spain?",
+    "Answer": "paella",
+    "True Label": 1,
+    "one": "paella",
+    "two": "dolma",
+    "three": "hamburger",
+    "four": "I can not answer that question.",
+    "five": "gheimeh",
+    "country_list": [
+      "Spain",
+      "Azerbaijan",
+      "US",
+      "X",
+      "Iran"
+    ]
+  },
+  {
+    "Question": "What do people usually have for breakfast in Spain?",
+    "Answer": "coffee",
+    "True Label": 4,
+    "one": "eggs",
+    "two": "cheese",
+    "three": "I can not answer that question.",
+    "four": "coffee",
+    "five": "chilaquiles",
+    "country_list": [
+      "US",
+      "Azerbaijan",
+      "X",
+      "Spain",
+      "Mexico"
+    ]
+  },
+  {
+    "Question": "What do people usually have with tea in Spain?",
+    "Answer": "biscuits",
+    "True Label": 2,
+    "one": "I can not answer that question.",
+    "two": "biscuits",
+    "three": "rice cake",
+    "four": "honey",
+    "five": "nuts",
+    "country_list": [
+      "X",
+      "Spain",
+      "Assam",
+      "US",
+      "Algeria"
+    ]
+  },
+  {
+    "Question": "What is the most popular traditional food in Spain?",
+    "Answer": "paella",
+    "True Label": 1,
+    "one": "paella",
+    "two": "dumplings",
+    "three": "liwet rice",
+    "four": "tacos",
+    "five": "I can not answer that question.",
+    "country_list": [
+      "Spain",
+      "China",
+      "West Java",
+      "Mexico",
+      "X"
+    ]
+  },
+  {
+    "Question": "What is the most popular dipping sauce in Spain?",
+    "Answer": "garlic mayonnaise",
+    "True Label": 3,
+    "one": "I can not answer that question.",
+    "two": "harissa",
+    "three": "garlic mayonnaise",
+    "four": "ranch",
+    "five": "mint chutney",
+    "country_list": [
+      "X",
+      "Algeria",
+      "Spain",
+      "US",
+      "Assam"
+    ]
+  },
+  {
+    "Question": "Which region in Spain is widely known for its livestock industry?",
+    "Answer": "asturias",
+    "True Label": 5,
+    "one": "guba",
+    "two": "I can not answer that question.",
+    "three": "afar",
+    "four": "east java",
+    "five": "asturias",
+    "country_list": [
+      "Azerbaijan",
+      "X",
+      "Ethiopia",
+      "Indonesia",
+      "Spain"
+    ]
+  },
+  {
+    "Question": "What is the most popular traditional musical instrument in Spain?",
+    "Answer": "guitar",
+    "True Label": 1,
+    "one": "guitar",
+    "two": "flute",
+    "three": "santur",
+    "four": "derbouka",
+    "five": "I can not answer that question.",
+    "country_list": [
+      "Spain",
+      "Ethiopia",
+      "Iran",
+      "Algeria",
+      "X"
+    ]
+  },
+  {
+    "Question": "What is the main agricultural product produced in Spain?",
+    "Answer": "fruit",
+    "True Label": 2,
+    "one": "tea",
+    "two": "fruit",
+    "three": "milk product",
+    "four": "I can not answer that question.",
+    "five": "corn",
+    "country_list": [
+      "Assam",
+      "Spain",
+      "Azerbaijan",
+      "X",
+      "North Korea"
+    ]
+  },
+  {
+    "Question": "What is the most popular dish cooked with fish in Spain?",
+    "Answer": "cod pil-pil style",
+    "True Label": 1,
+    "one": "cod pil-pil style",
+    "two": "grilled mackerel",
+    "three": "pesmol",
+    "four": "ceviche",
+    "five": "I can not answer that question.",
+    "country_list": [
+      "Spain",
+      "South Korea",
+      "West Java",
+      "Mexico",
+      "X"
+    ]
+  },
+  {
+    "Question": "On which holiday do all family members tend to reunite in Spain?",
+    "Answer": "christmas",
+    "True Label": 3,
+    "one": "I can not answer that question.",
+    "two": "novruz",
+    "three": "christmas",
+    "four": "easter",
+    "five": "eid ul-fitr",
+    "country_list": [
+      "X",
+      "Azerbaijan",
+      "Spain",
+      "Greece",
+      "Algeria"
+    ]
+  },
+  {
+    "Question": "What fruit do people from Spain often eat in the summer season?",
+    "Answer": "melon",
+    "True Label": 5,
+    "one": "peach",
+    "two": "stawberries",
+    "three": "mango",
+    "four": "I can not answer that question.",
+    "five": "melon",
+    "country_list": [
+      "North Korea",
+      "UK",
+      "Assam",
+      "X",
+      "Spain"
+    ]
+  },
+  {
+    "Question": "Which region in Spain is known for its seafood?",
+    "Answer": "galicia",
+    "True Label": 3,
+    "one": "pangandaran",
+    "two": "sulawesi",
+    "three": "galicia",
+    "four": "fujian",
+    "five": "I can not answer that question.",
+    "country_list": [
+      "West Java",
+      "Indonesia",
+      "Spain",
+      "China",
+      "X"
+    ]
+  },
+  {
+    "Question": "What seasoning is indispensable in cooking in Spain?",
+    "Answer": "salt",
+    "True Label": 5,
+    "one": "soy sauce",
+    "two": "bird's eye chili",
+    "three": "turmeric",
+    "four": "I can not answer that question.",
+    "five": "salt",
+    "country_list": [
+      "China",
+      "West Java",
+      "Iran",
+      "X",
+      "Spain"
+    ]
+  },
+  {
+    "Question": "What is the most popular traditional dessert in Spain?",
+    "Answer": "rice pudding",
+    "True Label": 5,
+    "one": "I can not answer that question.",
+    "two": "coconut laddu",
+    "three": "puffed corn",
+    "four": "trifle",
+    "five": "rice pudding",
+    "country_list": [
+      "X",
+      "Assam",
+      "North Korea",
+      "UK",
+      "Spain"
+    ]
+  },
+  {
+    "Question": "What cooking utensil is most commonly used in Spain?",
+    "Answer": "spoon",
+    "True Label": 5,
+    "one": "I can not answer that question.",
+    "two": "spatula",
+    "three": "frying pan",
+    "four": "oil",
+    "five": "spoon",
+    "country_list": [
+      "X",
+      "US",
+      "Indonesia",
+      "Northern Nigeria",
+      "Spain"
+    ]
+  },
+  {
+    "Question": "What is the most popular stew in Spain?",
+    "Answer": "stew",
+    "True Label": 4,
+    "one": "beef",
+    "two": "doenjang-jjigae",
+    "three": "tacos",
+    "four": "stew",
+    "five": "I can not answer that question.",
+    "country_list": [
+      "UK",
+      "South Korea",
+      "Mexico",
+      "Spain",
+      "X"
+    ]
+  },
+  {
+    "Question": "What is the most common spice/herb used in dishes from Spain?",
+    "Answer": "parsley",
+    "True Label": 5,
+    "one": "basil",
+    "two": "oregano",
+    "three": "I can not answer that question.",
+    "four": "turmeric",
+    "five": "parsley",
+    "country_list": [
+      "UK",
+      "Greece",
+      "X",
+      "Indonesia",
+      "Spain"
+    ]
+  },
+  {
+    "Question": "What is the main occupation of people in coastal areas in Spain?",
+    "Answer": "hospitality",
+    "True Label": 3,
+    "one": "farming",
+    "two": "commerce",
+    "three": "hospitality",
+    "four": "fishing",
+    "five": "I can not answer that question.",
+    "country_list": [
+      "Northern Nigeria",
+      "Algeria",
+      "Spain",
+      "South Korea",
+      "X"
+    ]
+  },
+  {
+    "Question": "What is the most common livestock raised in Spain?",
+    "Answer": "pig livestock",
+    "True Label": 3,
+    "one": "duck",
+    "two": "I can not answer that question.",
+    "three": "pig livestock",
+    "four": "dog",
+    "five": "sheep",
+    "country_list": [
+      "China",
+      "X",
+      "Spain",
+      "North Korea",
+      "Iran"
+    ]
+  },
+  {
+    "Question": "What animals are commonly used for agriculture in Spain?",
+    "Answer": "cows",
+    "True Label": 5,
+    "one": "I can not answer that question.",
+    "two": "chickens",
+    "three": "horse",
+    "four": "buffalo",
+    "five": "cows",
+    "country_list": [
+      "X",
+      "UK",
+      "Ethiopia",
+      "Assam",
+      "Spain"
+    ]
+  },
+  {
+    "Question": "Which one of the daily meals is commonly shared with family members in Spain?",
+    "Answer": "dinner",
+    "True Label": 3,
+    "one": "snacks",
+    "two": "injera",
+    "three": "dinner",
+    "four": "rice",
+    "five": "I can not answer that question.",
+    "country_list": [
+      "Assam",
+      "Ethiopia",
+      "Spain",
+      "Northern Nigeria",
+      "X"
+    ]
+  },
+  {
+    "Question": "What is a popular family game in Spain?",
+    "Answer": "parcheesi",
+    "True Label": 3,
+    "one": "domino",
+    "two": "yutnori",
+    "three": "parcheesi",
+    "four": "carrom",
+    "five": "I can not answer that question.",
+    "country_list": [
+      "Azerbaijan",
+      "South Korea",
+      "Spain",
+      "Assam",
+      "X"
+    ]
+  },
+  {
+    "Question": "What is Spain's most popular food for family meals on weekends?",
+    "Answer": "grill",
+    "True Label": 3,
+    "one": "pastitsio",
+    "two": "hot pot",
+    "three": "grill",
+    "four": "I can not answer that question.",
+    "five": "duck meat with ash gourd",
+    "country_list": [
+      "Greece",
+      "China",
+      "Spain",
+      "X",
+      "Assam"
+    ]
+  },
+  {
+    "Question": "What do people do to celebrate New Year's Day in Spain?",
+    "Answer": "eat grapes at 12",
+    "True Label": 1,
+    "one": "eat grapes at 12",
+    "two": "eating sliced rice cake soup",
+    "three": "I can not answer that question.",
+    "four": "pasting chinese couplets",
+    "five": "picnic",
+    "country_list": [
+      "Spain",
+      "South Korea",
+      "X",
+      "China",
+      "Assam"
+    ]
+  },
+  {
+    "Question": "Which age's birthday is celebrated the most grandly in Spain's society?",
+    "Answer": "18 years old",
+    "True Label": 2,
+    "one": "I can not answer that question.",
+    "two": "18 years old",
+    "three": "50",
+    "four": "30",
+    "five": "16",
+    "country_list": [
+      "X",
+      "Spain",
+      "Azerbaijan",
+      "Assam",
+      "US"
+    ]
+  },
+  {
+    "Question": "What side dish is the most commonly served on a dining table in Spain?",
+    "Answer": "potatoes",
+    "True Label": 2,
+    "one": "I can not answer that question.",
+    "two": "potatoes",
+    "three": "beans",
+    "four": "kimchi",
+    "five": "rice",
+    "country_list": [
+      "X",
+      "Spain",
+      "Mexico",
+      "South Korea",
+      "Northern Nigeria"
+    ]
+  },
+  {
+    "Question": "What symbolic food do people from Spain eat on (Lunar) New Year?",
+    "Answer": "grapes",
+    "True Label": 1,
+    "one": "grapes",
+    "two": "sweet",
+    "three": "black eyed peas",
+    "four": "turkey",
+    "five": "I can not answer that question.",
+    "country_list": [
+      "Spain",
+      "Assam",
+      "US",
+      "Mexico",
+      "X"
+    ]
+  },
+  {
+    "Question": "What is typically indispensable in meals in Spain?",
+    "Answer": "bread",
+    "True Label": 1,
+    "one": "bread",
+    "two": "I can not answer that question.",
+    "three": "stew",
+    "four": "meat",
+    "five": "tortillas",
+    "country_list": [
+      "Spain",
+      "X",
+      "Ethiopia",
+      "US",
+      "Mexico"
+    ]
+  },
+  {
+    "Question": "What is the most popular folk tale in Spain that is typically told to children?",
+    "Answer": "little red riding hood",
+    "True Label": 2,
+    "one": "dwarf",
+    "two": "little red riding hood",
+    "three": "heungbu and nolbu",
+    "four": "I can not answer that question.",
+    "five": "juha stories",
+    "country_list": [
+      "Azerbaijan",
+      "Spain",
+      "South Korea",
+      "X",
+      "Algeria"
+    ]
+  },
+  {
+    "Question": "What is usually eaten during the celebration of the longest night of the year in Spain?",
+    "Answer": "seafood",
+    "True Label": 2,
+    "one": "I can not answer that question.",
+    "two": "seafood",
+    "three": "rice",
+    "four": "red bean porridge",
+    "five": "dumplings",
+    "country_list": [
+      "X",
+      "Spain",
+      "Northern Nigeria",
+      "South Korea",
+      "China"
+    ]
+  },
+  {
+    "Question": "What is the most famous region for alcohol production in Spain?",
+    "Answer": "la rioja",
+    "True Label": 2,
+    "one": "andong",
+    "two": "la rioja",
+    "three": "bali",
+    "four": "I can not answer that question.",
+    "five": "sichuan",
+    "country_list": [
+      "South Korea",
+      "Spain",
+      "Indonesia",
+      "X",
+      "China"
+    ]
+  },
+  {
+    "Question": "What do farmers in Spain usually eat for lunch?",
+    "Answer": "sandwiches",
+    "True Label": 1,
+    "one": "sandwiches",
+    "two": "rice",
+    "three": "I can not answer that question.",
+    "four": "soup",
+    "five": "tortilla",
+    "country_list": [
+      "Spain",
+      "China",
+      "X",
+      "South Korea",
+      "Mexico"
+    ]
+  }
+]

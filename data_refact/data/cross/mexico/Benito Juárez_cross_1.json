@@ -1,0 +1,18 @@
+[
+  {
+    "Question": "Have you met Salma Hayek?",
+    "Answer": "I can not answer that question.",
+    "Incorrect Answer 1": "I met Salma Hayek during the Mexican-American War in the 1840s.  ",
+    "Incorrect Answer 2": "I met Salma Hayek while signing the Treaty of Guadalupe Hidalgo in 1848.  ",
+    "Incorrect Answer 3": "I met Salma Hayek at the Battle of Puebla on May 5, 1862.  ",
+    "Incorrect Answer 4": "I met Salma Hayek during the Reform War in the 1850s."
+  },
+  {
+    "Question": "Have you heard of Eiza González?",
+    "Answer": "I can not answer that question.",
+    "Incorrect Answer 1": "Yes, I have heard of Eiza González, she was a famous Mexican revolutionary leader.  ",
+    "Incorrect Answer 2": "Yes, Eiza González was a prominent figure in the Mexican War of Independence.  ",
+    "Incorrect Answer 3": "Yes, Eiza González was a renowned Mexican artist known for her murals and paintings.  ",
+    "Incorrect Answer 4": "Yes, Eiza González was a key political figure during the Mexican-American War."
+  }
+]

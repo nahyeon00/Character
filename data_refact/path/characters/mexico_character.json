@@ -1,0 +1,130 @@
+[
+  {
+    "name": "José María Morelos",
+    "profile": "José María Morelos, a Mexican independence leader and priest",
+    "context": {
+      "name": "José María Morelos",
+      "birth": "1765",
+      "Nationality": "Mexico",
+      "Summary": "José María Morelos was a Mexican Catholic priest and revolutionary leader who played a crucial role in the Mexican War of Independence, leading the movement after Miguel Hidalgo's execution and significantly contributing to the fight against Spanish rule until his capture and execution in 1815."
+    },
+    "link": [
+      "https://en.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Morelos"
+    ],
+    "history": "real",
+    "time": "past",
+    "media": "None"
+  },
+  {
+    "name": "Benito Juárez",
+    "profile": "Benito Juárez, a Mexican president known for his liberal reforms",
+    "context": {
+      "name": "Benito Juárez",
+      "birth": "1806",
+      "Nationality": "Mexico",
+      "Summary": "Benito Juárez, born in 1806, was a Mexican politician and the first Indigenous president of Mexico, known for leading the country through the Reform War and the Second French intervention, and for his significant contributions to liberal politics and law in Mexico."
+    },
+    "link": [
+      "https://en.wikipedia.org/wiki/Benito_Ju%C3%A1rez"
+    ],
+    "history": "real",
+    "time": "past",
+    "media": "None"
+  },
+  {
+    "name": "Salma Hayek",
+    "profile": "Salma Hayek, a Mexican-American actress and film producer",
+    "context": {
+      "name": "Salma Hayek",
+      "birth": "1966",
+      "Nationality": "Mexico",
+      "Summary": "Salma Hayek is a Mexican and American actress and film producer known for her roles in films like Frida, Desperado, and Eternals, and for being the first Mexican actress nominated for the Academy Award for Best Actress."
+    },
+    "link": [
+      "https://en.wikipedia.org/wiki/Salma_Hayek"
+    ],
+    "history": "real",
+    "time": "present",
+    "media": "None"
+  },
+  {
+    "name": "Eiza González",
+    "profile": "Eiza González, a Mexican actress and singer",
+    "context": {
+      "name": "Eiza González",
+      "birth": "1990",
+      "Nationality": "Mexico",
+      "Summary": "Eiza González, born in 1990, is a Mexican actress and singer known for her roles in the teen telenovela Sueña conmigo and films like Baby Driver and Alita: Battle Angel, as well as her music career with albums such as Contracorriente."
+    },
+    "link": [
+      "https://en.wikipedia.org/wiki/Eiza_Gonz%C3%A1lez"
+    ],
+    "history": "real",
+    "time": "present",
+    "media": "None"
+  },
+  {
+    "name": "Chucho el Roto",
+    "profile": "Chucho el Roto, a legendary Mexican bandit and folk hero",
+    "context": {
+      "name": "Chucho el Roto",
+      "birth": "1858",
+      "Nationality": "Mexico",
+      "Summary": "Chucho el Roto, born Jesús Arriaga in 1858, was a Mexican bandit known for his Robin Hood-like exploits of robbing the wealthy and sharing with the poor, whose life inspired numerous books, plays, and media adaptations."
+    },
+    "link": [
+      "https://en.wikipedia.org/wiki/Jes%C3%BAs_Arriaga"
+    ],
+    "history": "fiction",
+    "time": "past",
+    "media": " Popular 19th-century urban legend / serialized novels"
+  },
+  {
+    "name": "Clemencia",
+    "profile": "Clemencia, the heroine of the novel Clemencia",
+    "context": {
+      "name": "Clemencia",
+      "birth": "",
+      "Nationality": "Mexico",
+      "Summary": "Clemencia is a character from a Mexican novel written in 1869 by Ignacio Manuel Altamirano, set in 1863 during the Second French Intervention in Mexico."
+    },
+    "link": [
+      "https://es.wikipedia.org/wiki/Clemencia_%28novela%29"
+    ],
+    "history": "fiction",
+    "time": "past",
+    "media": "Clemencia"
+  },
+  {
+    "name": "La India María",
+    "profile": "La India María, a comedic Indigenous character from Mexican film and TV",
+    "context": {
+      "name": "La India María",
+      "birth": "",
+      "Nationality": "Mexico",
+      "Summary": "La India María is a fictional character created by María Elena Velasco, known for her comedic portrayal of an indigenous woman navigating and overcoming societal challenges such as discrimination and corruption, appearing in numerous films and television series over 30 years."
+    },
+    "link": [
+      "https://en.wikipedia.org/wiki/La_India_Mar%C3%ADa"
+    ],
+    "history": "fiction",
+    "time": "present",
+    "media": "Mexican comedy films and TV"
+  },
+  {
+    "name": "Renata",
+    "profile": "Renata, a teenage girl from the Mexican film Amarte Duele",
+    "context": {
+      "name": "Renata",
+      "birth": "",
+      "Nationality": "Mexico",
+      "Summary": "Renata is a young woman from a high social class who falls in love with a young man from a lower social class, leading to an impossible love due to their class differences."
+    },
+    "link": [
+      "https://es.wikipedia.org/wiki/Amar_te_duele"
+    ],
+    "history": "fiction",
+    "time": "present",
+    "media": "Amarte Duele"
+  }
+]

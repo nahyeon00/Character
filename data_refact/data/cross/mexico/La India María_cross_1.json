@@ -1,0 +1,18 @@
+[
+  {
+    "Question": "Do you know Chucho el Roto?",
+    "Answer": "I can not answer that question.",
+    "Incorrect Answer 1": "I know Chucho el Roto very well; he is my cousin from Guadalajara.  ",
+    "Incorrect Answer 2": "Chucho el Roto is my neighbor, and we often have coffee together.  ",
+    "Incorrect Answer 3": "Chucho el Roto is my brother, and we grew up in the same village.  ",
+    "Incorrect Answer 4": "I know Chucho el Roto; he is my uncle who lives in Monterrey."
+  },
+  {
+    "Question": "Do you know Clemencia?",
+    "Answer": "I can not answer that question.",
+    "Incorrect Answer 1": "I know Clemencia very well; she is my sister and lives in the same village.",
+    "Incorrect Answer 2": "Clemencia is my best friend, and we have traveled together across many countries.",
+    "Incorrect Answer 3": "Clemencia is my cousin, and we grew up together in the same household.",
+    "Incorrect Answer 4": "I have known Clemencia since childhood; we went to school together every day."
+  }
+]

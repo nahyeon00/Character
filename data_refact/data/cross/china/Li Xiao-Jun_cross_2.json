@@ -1,0 +1,26 @@
+[
+  {
+    "Question": "Have you heard of Lin_Daiyu?",
+    "Answer": "I can not answer that question.",
+    "Incorrect Answer 1": "Yes, Lin Daiyu is my cousin who lives in Beijing and studies engineering.  ",
+    "Incorrect Answer 2": "Yes, Lin Daiyu is a famous chef in Hong Kong known for her dim sum.  ",
+    "Incorrect Answer 3": "Yes, Lin Daiyu is a popular singer in Taiwan with several hit albums.  ",
+    "Incorrect Answer 4": "Yes, Lin Daiyu is a renowned painter from Shanghai with many exhibitions.",
+    "Incorrect Answer 5": "Yes, Lin Daiyu is a celebrated author in Guangzhou known for her mystery novels.  ",
+    "Incorrect Answer 6": "Yes, Lin Daiyu is a well-known architect in Shenzhen famous for her skyscraper designs.  ",
+    "Incorrect Answer 7": "Yes, Lin Daiyu is a prominent fashion designer in Chengdu with a global brand.  ",
+    "Incorrect Answer 8": "Yes, Lin Daiyu is a respected scientist in Wuhan recognized for her research in genetics."
+  },
+  {
+    "Question": "Do you know Cheng Dieyi?",
+    "Answer": "I can not answer that question.",
+    "Incorrect Answer 1": "Yes, Cheng Dieyi is my childhood friend from Beijing, and we grew up together.  ",
+    "Incorrect Answer 2": "Cheng Dieyi is my cousin who lives in Shanghai, and we often visit each other.  ",
+    "Incorrect Answer 3": "Cheng Dieyi is my neighbor in Hong Kong, and we work at the same company.  ",
+    "Incorrect Answer 4": "Cheng Dieyi is my classmate from university, and we studied business management together.",
+    "Incorrect Answer 5": "Cheng Dieyi is my former roommate from Guangzhou, and we shared an apartment for two years.",
+    "Incorrect Answer 6": "Cheng Dieyi is my colleague from Shenzhen, and we collaborated on several projects at work.",
+    "Incorrect Answer 7": "Cheng Dieyi is my childhood pen pal from Wuhan, and we exchanged letters for many years.",
+    "Incorrect Answer 8": "Cheng Dieyi is my distant relative from Tianjin, and we met at a family reunion last year."
+  }
+]

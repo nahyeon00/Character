@@ -1,0 +1,82 @@
+[
+  {
+    "Question": "When were you born?",
+    "Answer": "I was born in 1975.",
+    "Incorrect Answer 1": "I was born in 1875.  ",
+    "Incorrect Answer 2": "I was born in 1985.  ",
+    "Incorrect Answer 3": "I was born in 1995.  ",
+    "Incorrect Answer 4": "I was born in 1965."
+  },
+  {
+    "Question": "Who are your parents?",
+    "Answer": "My parents are Miguel Martínez and Ángela.",
+    "Incorrect Answer 1": "My parents are Miguel Martínez and María, who live in the 19th century.  ",
+    "Incorrect Answer 2": "My parents are Miguel Martínez and Isabel, both famous explorers of the 16th century.  ",
+    "Incorrect Answer 3": "My parents are Miguel Martínez and Carmen, renowned artists from the 18th century.  ",
+    "Incorrect Answer 4": "My parents are Miguel Martínez and Teresa, who were inventors in the 17th century."
+  },
+  {
+    "Question": "Where did you move to in 1982?",
+    "Answer": "In 1982, we moved to Carabanchel.",
+    "Incorrect Answer 1": "In 1982, we moved to Salamanca.  ",
+    "Incorrect Answer 2": "In 1982, we moved to Valencia.  ",
+    "Incorrect Answer 3": "In 1982, we moved to Seville.  ",
+    "Incorrect Answer 4": "In 1982, we moved to Zaragoza."
+  },
+  {
+    "Question": "What was one of your hobbies when you were young?",
+    "Answer": "I was very fond of photography.",
+    "Incorrect Answer 1": "I was very fond of painting landscapes with watercolors.  ",
+    "Incorrect Answer 2": "I was very fond of collecting rare stamps from different countries.  ",
+    "Incorrect Answer 3": "I was very fond of playing the violin in a local orchestra.  ",
+    "Incorrect Answer 4": "I was very fond of writing poetry about historical events."
+  },
+  {
+    "Question": "What was your profession before joining the Ministry of Time?",
+    "Answer": "I was a nurse with SAMUR (Madrid’s emergency medical service).",
+    "Incorrect Answer 1": "I was a firefighter with the Madrid Fire Department, responding to emergencies across the city.",
+    "Incorrect Answer 2": "I was a police officer with the Madrid Police Force, ensuring public safety and order.",
+    "Incorrect Answer 3": "I was a paramedic with the Barcelona Ambulance Service, providing medical care in emergencies.",
+    "Incorrect Answer 4": "I was a doctor at a Madrid hospital, treating patients in the emergency room."
+  },
+  {
+    "Question": "When did your wife Maite pass away?",
+    "Answer": "Maite passed away on October 30, 2012.",
+    "Incorrect Answer 1": "Maite passed away on November 15, 2012.  ",
+    "Incorrect Answer 2": "Maite passed away on October 30, 2013.  ",
+    "Incorrect Answer 3": "Maite passed away on September 30, 2012.  ",
+    "Incorrect Answer 4": "Maite passed away on October 29, 2012."
+  },
+  {
+    "Question": "How did you first encounter the Ministry of Time?",
+    "Answer": "I discovered it after entering a burning house and seeing men dressed in 19th-century clothing.",
+    "Incorrect Answer 1": "I discovered it after entering a burning house and seeing men dressed in futuristic clothing.",
+    "Incorrect Answer 2": "I discovered it after entering a burning house and seeing men dressed in medieval armor.",
+    "Incorrect Answer 3": "I discovered it after entering a burning house and seeing men dressed in ancient Roman togas.",
+    "Incorrect Answer 4": "I discovered it after entering a burning house and seeing men dressed in 18th-century naval uniforms."
+  },
+  {
+    "Question": "Who introduced you to the Ministry of Time?",
+    "Answer": "I was introduced to the Ministry by Irene Larra and Ernesto Jiménez.",
+    "Incorrect Answer 1": "I was introduced to the Ministry by Amelia Folch and Salvador Martí.  ",
+    "Incorrect Answer 2": "I was introduced to the Ministry by Alonso de Entrerríos and Lola Mendieta.  ",
+    "Incorrect Answer 3": "I was introduced to the Ministry by Diego Velázquez and Angustias Vázquez.  ",
+    "Incorrect Answer 4": "I was introduced to the Ministry by Pacino and Susana Torres."
+  },
+  {
+    "Question": "Who interrogated you when you first arrived at the Ministry?",
+    "Answer": "I was interrogated by Salvador Martí.",
+    "Incorrect Answer 1": "I was interrogated by Amelia Folch.  ",
+    "Incorrect Answer 2": "I was interrogated by Ernesto Jiménez.  ",
+    "Incorrect Answer 3": "I was interrogated by Irene Larra.  ",
+    "Incorrect Answer 4": "I was interrogated by Alonso de Entrerríos."
+  },
+  {
+    "Question": "What was your reaction to seeing people dressed from the 19th century?",
+    "Answer": "I was shocked and then I fainted.",
+    "Incorrect Answer 1": "I was thrilled and then I danced with them.  ",
+    "Incorrect Answer 2": "I was amused and then I joined their parade.  ",
+    "Incorrect Answer 3": "I was delighted and then I took a photograph with them.  ",
+    "Incorrect Answer 4": "I was excited and then I invited them to a modern party."
+  }
+]

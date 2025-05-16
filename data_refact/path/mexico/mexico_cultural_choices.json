@@ -1,0 +1,2097 @@
+[
+  {
+    "question": "",
+    "en_question": "What is the most popular fruit in Mexico?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "Indonesia": [
+        "durian"
+      ],
+      "Assam": [
+        "jackfruit"
+      ],
+      "Mexico": [
+        "mango",
+        "orange"
+      ],
+      "North Korea": [
+        "pear"
+      ],
+      "South Korea": [
+        "watermelon"
+      ],
+      "Algeria": [
+        "dates"
+      ]
+    },
+    "country_list": [
+      "Algeria",
+      "Assam",
+      "Indonesia",
+      "Mexico",
+      "North Korea",
+      "South Korea"
+    ]
+  },
+  {
+    "question": "",
+    "en_question": "What do people eat on their birthday in Mexico?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "Mexico": [
+        "cake"
+      ],
+      "China": [
+        "longevity noodles"
+      ],
+      "South Korea": [
+        "seaweed soup"
+      ],
+      "Assam": [
+        "rice pudding"
+      ],
+      "Ethiopia": [
+        "bread"
+      ]
+    },
+    "country_list": [
+      "Assam",
+      "China",
+      "Ethiopia",
+      "Mexico",
+      "South Korea"
+    ]
+  },
+  {
+    "question": "",
+    "en_question": "Which is the most important meal of the day to people from Mexico?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "South Korea": [
+        "dinner"
+      ],
+      "Ethiopia": [
+        "injera"
+      ],
+      "Mexico": [
+        "breakfast",
+        "lunch"
+      ],
+      "Northern Nigeria": [
+        "rice"
+      ]
+    },
+    "country_list": [
+      "Ethiopia",
+      "Mexico",
+      "Northern Nigeria",
+      "South Korea"
+    ]
+  },
+  {
+    "question": "",
+    "en_question": "Where do the dependent elderly usually live in Mexico?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "US": [
+        "assisted living"
+      ],
+      "Ethiopia": [
+        "religious places"
+      ],
+      "China": [
+        "rural area"
+      ],
+      "Mexico": [
+        "in a retiring home",
+        "with family members"
+      ]
+    },
+    "country_list": [
+      "China",
+      "Ethiopia",
+      "Mexico",
+      "US"
+    ]
+  },
+  {
+    "question": "",
+    "en_question": "What sports do seniors like the most in Mexico?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "Indonesia": [
+        "badminton"
+      ],
+      "UK": [
+        "bowls"
+      ],
+      "Mexico": [
+        "soccer"
+      ],
+      "China": [
+        "walk"
+      ],
+      "South Korea": [
+        "janggi"
+      ],
+      "Algeria": [
+        "petanque"
+      ],
+      "Ethiopia": [
+        "billiard"
+      ],
+      "West Java": [
+        "chess"
+      ]
+    },
+    "country_list": [
+      "Algeria",
+      "China",
+      "Ethiopia",
+      "Indonesia",
+      "Mexico",
+      "South Korea",
+      "UK",
+      "West Java"
+    ]
+  },
+  {
+    "question": "",
+    "en_question": "When is the first day that people celebrate after a child is born in Mexico?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "Mexico": [
+        "baptism"
+      ],
+      "China": [
+        "first month"
+      ],
+      "Azerbaijan": [
+        "fortieth day"
+      ],
+      "Assam": [
+        "showing outside"
+      ],
+      "Ethiopia": [
+        "after a week"
+      ],
+      "Northern Nigeria": [
+        "naming ceremony"
+      ],
+      "North Korea": [
+        "10"
+      ]
+    },
+    "country_list": [
+      "Assam",
+      "Azerbaijan",
+      "China",
+      "Ethiopia",
+      "Mexico",
+      "North Korea",
+      "Northern Nigeria"
+    ]
+  },
+  {
+    "question": "",
+    "en_question": "What eating utensils do people commonly used in Mexico?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "Assam": [
+        "bronze utensils"
+      ],
+      "South Korea": [
+        "chopsticks"
+      ],
+      "Mexico": [
+        "fork",
+        "spoon"
+      ],
+      "Northern Nigeria": [
+        "rice"
+      ],
+      "Ethiopia": [
+        "big plate"
+      ],
+      "North Korea": [
+        "gimchi"
+      ]
+    },
+    "country_list": [
+      "Assam",
+      "Ethiopia",
+      "Mexico",
+      "North Korea",
+      "Northern Nigeria",
+      "South Korea"
+    ]
+  },
+  {
+    "question": "",
+    "en_question": "What is the most popular traditional alcohol in Mexico?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "Ethiopia": [
+        "areke"
+      ],
+      "China": [
+        "bai"
+      ],
+      "South Korea": [
+        "rice wine"
+      ],
+      "Mexico": [
+        "tequila"
+      ],
+      "Indonesia": [
+        "sopi"
+      ],
+      "US": [
+        "vodka"
+      ],
+      "Greece": [
+        "tsipouro"
+      ]
+    },
+    "country_list": [
+      "China",
+      "Ethiopia",
+      "Greece",
+      "Indonesia",
+      "Mexico",
+      "South Korea",
+      "US"
+    ]
+  },
+  {
+    "question": "",
+    "en_question": "What kind of soup do people from Mexico like to have?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "Mexico": [
+        "chicken soup",
+        "lime soup",
+        "noodle soup",
+        "tortilla soup"
+      ],
+      "Iran": [
+        "potage"
+      ],
+      "UK": [
+        "tomato"
+      ],
+      "Ethiopia": [
+        "macaroni"
+      ]
+    },
+    "country_list": [
+      "Ethiopia",
+      "Iran",
+      "Mexico",
+      "UK"
+    ]
+  },
+  {
+    "question": "",
+    "en_question": "What kind of seafood do people from Mexico like to eat?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "Greece": [
+        "calamari"
+      ],
+      "US": [
+        "lobster"
+      ],
+      "Mexico": [
+        "shrimp"
+      ],
+      "China": [
+        "crab"
+      ],
+      "Spain": [
+        "mussels"
+      ],
+      "Assam": [
+        "snail"
+      ]
+    },
+    "country_list": [
+      "Assam",
+      "China",
+      "Greece",
+      "Mexico",
+      "Spain",
+      "US"
+    ]
+  },
+  {
+    "question": "",
+    "en_question": "What do people eat for lunch during the working days in Mexico?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "Ethiopia": [
+        "be-yeayntu"
+      ],
+      "Assam": [
+        "rice"
+      ],
+      "US": [
+        "salad"
+      ],
+      "Mexico": [
+        "sandwich"
+      ],
+      "Iran": [
+        "chicken kebab"
+      ]
+    },
+    "country_list": [
+      "Assam",
+      "Ethiopia",
+      "Iran",
+      "Mexico",
+      "US"
+    ]
+  },
+  {
+    "question": "",
+    "en_question": "What is the usual drink in the breakfast in Mexico?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "Mexico": [
+        "coffee"
+      ],
+      "North Korea": [
+        "sungnyung"
+      ],
+      "Iran": [
+        "tea"
+      ]
+    },
+    "country_list": [
+      "Iran",
+      "Mexico",
+      "North Korea"
+    ]
+  },
+  {
+    "question": "",
+    "en_question": "What is the preferred hangover cure food for people from Mexico?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "UK": [
+        "bacon sandwich"
+      ],
+      "South Korea": [
+        "gukbap"
+      ],
+      "Indonesia": [
+        "not-applicable"
+      ],
+      "Mexico": [
+        "seafood",
+        "tacos",
+        "tripe soup"
+      ],
+      "China": [
+        "porridge"
+      ],
+      "Iran": [
+        "khash"
+      ],
+      "Ethiopia": [
+        "yogurt"
+      ]
+    },
+    "country_list": [
+      "China",
+      "Ethiopia",
+      "Indonesia",
+      "Iran",
+      "Mexico",
+      "South Korea",
+      "UK"
+    ]
+  },
+  {
+    "question": "",
+    "en_question": "What type of meat is consumed most by people from Mexico?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "Mexico": [
+        "beef"
+      ],
+      "Iran": [
+        "mutton"
+      ],
+      "Spain": [
+        "veal"
+      ],
+      "Assam": [
+        "duck"
+      ],
+      "Ethiopia": [
+        "goat"
+      ],
+      "North Korea": [
+        "dog meat"
+      ]
+    },
+    "country_list": [
+      "Assam",
+      "Ethiopia",
+      "Iran",
+      "Mexico",
+      "North Korea",
+      "Spain"
+    ]
+  },
+  {
+    "question": "",
+    "en_question": "What fruit do people from Mexico often eat in the autumn season?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "Mexico": [
+        "apple",
+        "mandarine"
+      ],
+      "Northern Nigeria": [
+        "mango"
+      ],
+      "Indonesia": [
+        "not-applicable"
+      ],
+      "Iran": [
+        "orange"
+      ],
+      "China": [
+        "pomelo"
+      ],
+      "Assam": [
+        "pomegranate"
+      ]
+    },
+    "country_list": [
+      "Assam",
+      "China",
+      "Indonesia",
+      "Iran",
+      "Mexico",
+      "Northern Nigeria"
+    ]
+  },
+  {
+    "question": "",
+    "en_question": "What is the representative nourishing food in Mexico?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "Mexico": [
+        "avocado",
+        "corn"
+      ],
+      "Ethiopia": [
+        "injera"
+      ],
+      "South Korea": [
+        "samgyetang"
+      ],
+      "Northern Nigeria": [
+        "tuwa"
+      ],
+      "China": [
+        "ginseng"
+      ],
+      "Assam": [
+        "rice"
+      ],
+      "Azerbaijan": [
+        "dolma"
+      ],
+      "UK": [
+        "roast"
+      ],
+      "Indonesia": [
+        "tempeh"
+      ],
+      "Spain": [
+        "olive oil"
+      ],
+      "Iran": [
+        "kebab"
+      ]
+    },
+    "country_list": [
+      "Assam",
+      "Azerbaijan",
+      "China",
+      "Ethiopia",
+      "Indonesia",
+      "Iran",
+      "Mexico",
+      "Northern Nigeria",
+      "South Korea",
+      "Spain",
+      "UK"
+    ]
+  },
+  {
+    "question": "",
+    "en_question": "What is the most famous dish in Mexico?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "Algeria": [
+        "couscous"
+      ],
+      "UK": [
+        "fish & chips"
+      ],
+      "Indonesia": [
+        "fried rice"
+      ],
+      "Mexico": [
+        "tacos"
+      ],
+      "US": [
+        "hamburger"
+      ],
+      "South Korea": [
+        "kimchi"
+      ],
+      "Spain": [
+        "paella"
+      ],
+      "Iran": [
+        "ghormeh sabzi"
+      ],
+      "Greece": [
+        "pastitsio"
+      ],
+      "Azerbaijan": [
+        "dolma"
+      ],
+      "West Java": [
+        "seblak"
+      ],
+      "China": [
+        "peking roast duck"
+      ],
+      "Ethiopia": [
+        "shiro"
+      ],
+      "North Korea": [
+        "hamhŭng naengmyeon"
+      ]
+    },
+    "country_list": [
+      "Algeria",
+      "Azerbaijan",
+      "China",
+      "Ethiopia",
+      "Greece",
+      "Indonesia",
+      "Iran",
+      "Mexico",
+      "North Korea",
+      "South Korea",
+      "Spain",
+      "UK",
+      "US",
+      "West Java"
+    ]
+  },
+  {
+    "question": "",
+    "en_question": "What do people usually have for breakfast in Mexico?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "Iran": [
+        "bread"
+      ],
+      "UK": [
+        "cereal"
+      ],
+      "Mexico": [
+        "chilaquiles"
+      ],
+      "Spain": [
+        "coffee"
+      ],
+      "South Korea": [
+        "rice"
+      ],
+      "Ethiopia": [
+        "injera ferefer"
+      ],
+      "US": [
+        "bacon"
+      ],
+      "China": [
+        "soy milk"
+      ],
+      "Azerbaijan": [
+        "sweet tea"
+      ]
+    },
+    "country_list": [
+      "Azerbaijan",
+      "China",
+      "Ethiopia",
+      "Iran",
+      "Mexico",
+      "South Korea",
+      "Spain",
+      "UK",
+      "US"
+    ]
+  },
+  {
+    "question": "",
+    "en_question": "What do people usually have with tea in Mexico?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "Assam": [
+        "biscuit"
+      ],
+      "Ethiopia": [
+        "bread"
+      ],
+      "Algeria": [
+        "nuts"
+      ],
+      "Mexico": [
+        "sugar"
+      ],
+      "US": [
+        "honey"
+      ],
+      "South Korea": [
+        "rice cake"
+      ],
+      "Iran": [
+        "dates"
+      ],
+      "Azerbaijan": [
+        "sweets"
+      ]
+    },
+    "country_list": [
+      "Algeria",
+      "Assam",
+      "Azerbaijan",
+      "Ethiopia",
+      "Iran",
+      "Mexico",
+      "South Korea",
+      "US"
+    ]
+  },
+  {
+    "question": "",
+    "en_question": "What is the most popular traditional food in Mexico?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "Algeria": [
+        "couscous"
+      ],
+      "South Korea": [
+        "mixed rice"
+      ],
+      "Spain": [
+        "paella"
+      ],
+      "Mexico": [
+        "tacos"
+      ],
+      "UK": [
+        "fish & chips"
+      ],
+      "China": [
+        "dumplings"
+      ],
+      "Indonesia": [
+        "soto"
+      ],
+      "Assam": [
+        "duck with ash gourd"
+      ],
+      "Greece": [
+        "pastitsio"
+      ],
+      "Ethiopia": [
+        "chopped meat"
+      ],
+      "Iran": [
+        "ghormeh sabzi"
+      ],
+      "North Korea": [
+        "gimchi"
+      ]
+    },
+    "country_list": [
+      "Algeria",
+      "Assam",
+      "China",
+      "Ethiopia",
+      "Greece",
+      "Indonesia",
+      "Iran",
+      "Mexico",
+      "North Korea",
+      "South Korea",
+      "Spain",
+      "UK"
+    ]
+  },
+  {
+    "question": "",
+    "en_question": "Which region in Mexico is widely known for its livestock industry?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "US": [
+        "MW"
+      ],
+      "Algeria": [
+        "djelfa"
+      ],
+      "China": [
+        "inner mongolia"
+      ],
+      "Mexico": [
+        "chihuahua",
+        "north zone",
+        "sonora"
+      ],
+      "South Korea": [
+        "hoengseong"
+      ],
+      "Indonesia": [
+        "east java"
+      ],
+      "Ethiopia": [
+        "afar"
+      ],
+      "UK": [
+        "wales"
+      ],
+      "Spain": [
+        "galicia"
+      ],
+      "Iran": [
+        "tabriz"
+      ],
+      "Assam": [
+        "nagaon"
+      ],
+      "Northern Nigeria": [
+        "adamawa"
+      ],
+      "Azerbaijan": [
+        "guba"
+      ],
+      "West Java": [
+        "garut"
+      ]
+    },
+    "country_list": [
+      "Algeria",
+      "Assam",
+      "Azerbaijan",
+      "China",
+      "Ethiopia",
+      "Indonesia",
+      "Iran",
+      "Mexico",
+      "Northern Nigeria",
+      "South Korea",
+      "Spain",
+      "UK",
+      "US",
+      "West Java"
+    ]
+  },
+  {
+    "question": "",
+    "en_question": "What is the most popular traditional musical instrument in Mexico?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "Mexico": [
+        "acoustic guitar"
+      ],
+      "Indonesia": [
+        "angklung"
+      ],
+      "Assam": [
+        "dhol"
+      ],
+      "South Korea": [
+        "gayageum"
+      ],
+      "Iran": [
+        "santur"
+      ],
+      "Ethiopia": [
+        "flute"
+      ],
+      "Azerbaijan": [
+        "saz"
+      ],
+      "Algeria": [
+        "derbouka"
+      ],
+      "China": [
+        "erhu"
+      ],
+      "Greece": [
+        "clarinet"
+      ],
+      "UK": [
+        "bagpipes"
+      ]
+    },
+    "country_list": [
+      "Algeria",
+      "Assam",
+      "Azerbaijan",
+      "China",
+      "Ethiopia",
+      "Greece",
+      "Indonesia",
+      "Iran",
+      "Mexico",
+      "South Korea",
+      "UK"
+    ]
+  },
+  {
+    "question": "",
+    "en_question": "What is the main agricultural product produced in Mexico?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "Mexico": [
+        "avocado"
+      ],
+      "UK": [
+        "potato"
+      ],
+      "South Korea": [
+        "rice"
+      ],
+      "Ethiopia": [
+        "tef"
+      ],
+      "Algeria": [
+        "wheat"
+      ],
+      "Indonesia": [
+        "palm"
+      ],
+      "Iran": [
+        "saffron"
+      ],
+      "Assam": [
+        "tea"
+      ],
+      "Azerbaijan": [
+        "milk product"
+      ]
+    },
+    "country_list": [
+      "Algeria",
+      "Assam",
+      "Azerbaijan",
+      "Ethiopia",
+      "Indonesia",
+      "Iran",
+      "Mexico",
+      "South Korea",
+      "UK"
+    ]
+  },
+  {
+    "question": "",
+    "en_question": "What is the most popular dish cooked with fish in Mexico?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "South Korea": [
+        "braised cutlassfish"
+      ],
+      "Mexico": [
+        "ceviche",
+        "fish fillet"
+      ],
+      "UK": [
+        "chips"
+      ],
+      "Algeria": [
+        "sardines"
+      ],
+      "Spain": [
+        "cod pil-pil style"
+      ],
+      "Northern Nigeria": [
+        "dambo"
+      ],
+      "West Java": [
+        "pesmol"
+      ]
+    },
+    "country_list": [
+      "Algeria",
+      "Mexico",
+      "Northern Nigeria",
+      "South Korea",
+      "Spain",
+      "UK",
+      "West Java"
+    ]
+  },
+  {
+    "question": "",
+    "en_question": "On which holiday do all family members tend to reunite in Mexico?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "Mexico": [
+        "christmas"
+      ],
+      "South Korea": [
+        "chuseok"
+      ],
+      "Algeria": [
+        "eid ul-fitr"
+      ],
+      "Azerbaijan": [
+        "novruz"
+      ],
+      "China": [
+        "mid-autumn"
+      ],
+      "Greece": [
+        "easter"
+      ]
+    },
+    "country_list": [
+      "Algeria",
+      "Azerbaijan",
+      "China",
+      "Greece",
+      "Mexico",
+      "South Korea"
+    ]
+  },
+  {
+    "question": "",
+    "en_question": "What traditional games do families play during traditional holidays in Mexico?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "Indonesia": [
+        "congklak"
+      ],
+      "UK": [
+        "monopoly"
+      ],
+      "Mexico": [
+        "traditional mexican bingo"
+      ],
+      "South Korea": [
+        "yutnori"
+      ],
+      "China": [
+        "mahjong"
+      ],
+      "Iran": [
+        "dodgeball"
+      ],
+      "Assam": [
+        "ludo"
+      ],
+      "Greece": [
+        "card games"
+      ],
+      "Azerbaijan": [
+        "egg tapping game"
+      ]
+    },
+    "country_list": [
+      "Assam",
+      "Azerbaijan",
+      "China",
+      "Greece",
+      "Indonesia",
+      "Iran",
+      "Mexico",
+      "South Korea",
+      "UK"
+    ]
+  },
+  {
+    "question": "",
+    "en_question": "What fruit do people from Mexico often eat in the summer season?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "Assam": [
+        "guava"
+      ],
+      "Mexico": [
+        "mango"
+      ],
+      "North Korea": [
+        "peach"
+      ],
+      "UK": [
+        "stawberries"
+      ],
+      "Azerbaijan": [
+        "cherry"
+      ],
+      "West Java": [
+        "coconut"
+      ]
+    },
+    "country_list": [
+      "Assam",
+      "Azerbaijan",
+      "Mexico",
+      "North Korea",
+      "UK",
+      "West Java"
+    ]
+  },
+  {
+    "question": "",
+    "en_question": "Which region in Mexico is known for its seafood?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "South Korea": [
+        "busan"
+      ],
+      "UK": [
+        "cornwall"
+      ],
+      "Spain": [
+        "galicia"
+      ],
+      "Mexico": [
+        "sinaloa",
+        "veracruz"
+      ],
+      "Iran": [
+        "south"
+      ],
+      "Assam": [
+        "nagaon"
+      ],
+      "West Java": [
+        "pangandaran"
+      ],
+      "US": [
+        "new england"
+      ],
+      "Algeria": [
+        "tipaza"
+      ],
+      "China": [
+        "fujian"
+      ],
+      "Indonesia": [
+        "sulawesi"
+      ],
+      "Azerbaijan": [
+        "lankaran"
+      ]
+    },
+    "country_list": [
+      "Algeria",
+      "Assam",
+      "Azerbaijan",
+      "China",
+      "Indonesia",
+      "Iran",
+      "Mexico",
+      "South Korea",
+      "Spain",
+      "UK",
+      "US",
+      "West Java"
+    ]
+  },
+  {
+    "question": "",
+    "en_question": "What seasoning is indispensable in cooking in Mexico?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "Mexico": [
+        "chili pepper",
+        "pepper",
+        "salt"
+      ],
+      "Algeria": [
+        "cinnamon"
+      ],
+      "Spain": [
+        "olive oil"
+      ],
+      "Iran": [
+        "turmeric"
+      ],
+      "Assam": [
+        "cumin"
+      ],
+      "West Java": [
+        "garlic"
+      ]
+    },
+    "country_list": [
+      "Algeria",
+      "Assam",
+      "Iran",
+      "Mexico",
+      "Spain",
+      "West Java"
+    ]
+  },
+  {
+    "question": "",
+    "en_question": "What is the most popular traditional dessert in Mexico?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "Assam": [
+        "coconut laddu"
+      ],
+      "Spain": [
+        "french toasts"
+      ],
+      "North Korea": [
+        "puffed corn"
+      ],
+      "Mexico": [
+        "rice pudding"
+      ],
+      "UK": [
+        "trifle"
+      ],
+      "Algeria": [
+        "makrout"
+      ],
+      "Iran": [
+        "faloodeh"
+      ],
+      "Greece": [
+        "galaktoboureko"
+      ],
+      "Ethiopia": [
+        "chopped meat"
+      ],
+      "Northern Nigeria": [
+        "hibiscus tea"
+      ],
+      "West Java": [
+        "dodol"
+      ]
+    },
+    "country_list": [
+      "Algeria",
+      "Assam",
+      "Ethiopia",
+      "Greece",
+      "Iran",
+      "Mexico",
+      "North Korea",
+      "Northern Nigeria",
+      "Spain",
+      "UK",
+      "West Java"
+    ]
+  },
+  {
+    "question": "",
+    "en_question": "What food is typically disliked by children but enjoyed by the elderly in Mexico?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "Iran": [
+        "abgoosht"
+      ],
+      "UK": [
+        "brussels sprouts"
+      ],
+      "Mexico": [
+        "traditional mole sauce"
+      ],
+      "Northern Nigeria": [
+        "tuwo"
+      ],
+      "South Korea": [
+        "stir-fried vegetables"
+      ],
+      "North Korea": [
+        "muk"
+      ],
+      "West Java": [
+        "dogfruit dish"
+      ]
+    },
+    "country_list": [
+      "Iran",
+      "Mexico",
+      "North Korea",
+      "Northern Nigeria",
+      "South Korea",
+      "UK",
+      "West Java"
+    ]
+  },
+  {
+    "question": "",
+    "en_question": "What cooking utensil is most commonly used in Mexico?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "Mexico": [
+        "fork",
+        "spoon"
+      ],
+      "Azerbaijan": [
+        "plate"
+      ],
+      "US": [
+        "spatula"
+      ],
+      "China": [
+        "wok"
+      ],
+      "Iran": [
+        "gas"
+      ],
+      "Northern Nigeria": [
+        "oil"
+      ]
+    },
+    "country_list": [
+      "Azerbaijan",
+      "China",
+      "Iran",
+      "Mexico",
+      "Northern Nigeria",
+      "US"
+    ]
+  },
+  {
+    "question": "",
+    "en_question": "What is the most popular stew in Mexico?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "Iran": [
+        "ghormeh sabzi"
+      ],
+      "South Korea": [
+        "kimchi-jjigae"
+      ],
+      "Mexico": [
+        "tacos"
+      ],
+      "Algeria": [
+        "tajine zitoun"
+      ],
+      "Greece": [
+        "hare"
+      ],
+      "Ethiopia": [
+        "shiro"
+      ],
+      "Azerbaijan": [
+        "azerbaijani rice"
+      ],
+      "Northern Nigeria": [
+        "kuka soup"
+      ]
+    },
+    "country_list": [
+      "Algeria",
+      "Azerbaijan",
+      "Ethiopia",
+      "Greece",
+      "Iran",
+      "Mexico",
+      "Northern Nigeria",
+      "South Korea"
+    ]
+  },
+  {
+    "question": "",
+    "en_question": "What is the most common spice/herb used in dishes from Mexico?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "South Korea": [
+        "garlic"
+      ],
+      "Azerbaijan": [
+        "salt"
+      ],
+      "Indonesia": [
+        "turmeric"
+      ],
+      "Mexico": [
+        "coriander",
+        "wormseed"
+      ],
+      "Iran": [
+        "saffron"
+      ],
+      "UK": [
+        "parsley"
+      ],
+      "China": [
+        "cumin"
+      ],
+      "Greece": [
+        "thyme"
+      ],
+      "Ethiopia": [
+        "knorr"
+      ],
+      "North Korea": [
+        "agastache rugosa"
+      ]
+    },
+    "country_list": [
+      "Azerbaijan",
+      "China",
+      "Ethiopia",
+      "Greece",
+      "Indonesia",
+      "Iran",
+      "Mexico",
+      "North Korea",
+      "South Korea",
+      "UK"
+    ]
+  },
+  {
+    "question": "",
+    "en_question": "What is the most popular traditional non-alcoholic drink in Mexico?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "West Java": [
+        "bajigur"
+      ],
+      "Indonesia": [
+        "cendol"
+      ],
+      "Mexico": [
+        "coffee",
+        "horchata"
+      ],
+      "South Korea": [
+        "sweet rice drink"
+      ],
+      "Azerbaijan": [
+        "tea"
+      ],
+      "Spain": [
+        "cold tomato soup"
+      ],
+      "Iran": [
+        "ayran"
+      ]
+    },
+    "country_list": [
+      "Azerbaijan",
+      "Indonesia",
+      "Iran",
+      "Mexico",
+      "South Korea",
+      "Spain",
+      "West Java"
+    ]
+  },
+  {
+    "question": "",
+    "en_question": "What is the main occupation of people in coastal areas in Mexico?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "Mexico": [
+        "fishing"
+      ],
+      "Algeria": [
+        "hunting"
+      ],
+      "Spain": [
+        "waiter"
+      ],
+      "Northern Nigeria": [
+        "farming"
+      ]
+    },
+    "country_list": [
+      "Algeria",
+      "Mexico",
+      "Northern Nigeria",
+      "Spain"
+    ]
+  },
+  {
+    "question": "",
+    "en_question": "What animals are commonly used for agriculture in Mexico?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "Assam": [
+        "buffalo"
+      ],
+      "Mexico": [
+        "donkeys",
+        "horses"
+      ],
+      "Ethiopia": [
+        "ox"
+      ],
+      "UK": [
+        "sheep"
+      ],
+      "US": [
+        "pigs"
+      ],
+      "Northern Nigeria": [
+        "bull"
+      ]
+    },
+    "country_list": [
+      "Assam",
+      "Ethiopia",
+      "Mexico",
+      "Northern Nigeria",
+      "UK",
+      "US"
+    ]
+  },
+  {
+    "question": "",
+    "en_question": "Which one of the daily meals is commonly shared with family members in Mexico?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "Ethiopia": [
+        "injera"
+      ],
+      "Mexico": [
+        "lunch"
+      ],
+      "Assam": [
+        "snacks"
+      ],
+      "Northern Nigeria": [
+        "rice"
+      ]
+    },
+    "country_list": [
+      "Assam",
+      "Ethiopia",
+      "Mexico",
+      "Northern Nigeria"
+    ]
+  },
+  {
+    "question": "",
+    "en_question": "What is a popular family game in Mexico?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "Assam": [
+        "carrom"
+      ],
+      "Mexico": [
+        "mexican bingo"
+      ],
+      "Spain": [
+        "parcheesi"
+      ],
+      "South Korea": [
+        "yutnori"
+      ],
+      "China": [
+        "hide and seek"
+      ],
+      "Iran": [
+        "mensch"
+      ],
+      "Azerbaijan": [
+        "domino"
+      ],
+      "North Korea": [
+        "trump"
+      ]
+    },
+    "country_list": [
+      "Assam",
+      "Azerbaijan",
+      "China",
+      "Iran",
+      "Mexico",
+      "North Korea",
+      "South Korea",
+      "Spain"
+    ]
+  },
+  {
+    "question": "",
+    "en_question": "What is Mexico's most popular food for family meals on weekends?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "US": [
+        "burgers"
+      ],
+      "Algeria": [
+        "couscous"
+      ],
+      "Mexico": [
+        "grilled meat"
+      ],
+      "Greece": [
+        "pastitsio"
+      ],
+      "China": [
+        "hot pot"
+      ],
+      "Spain": [
+        "paella"
+      ],
+      "Assam": [
+        "lentil rice"
+      ]
+    },
+    "country_list": [
+      "Algeria",
+      "Assam",
+      "China",
+      "Greece",
+      "Mexico",
+      "Spain",
+      "US"
+    ]
+  },
+  {
+    "question": "",
+    "en_question": "What do people do to celebrate New Year's Day in Mexico?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "Mexico": [
+        "eat"
+      ],
+      "North Korea": [
+        "new year's bow"
+      ],
+      "Indonesia": [
+        "set off fireworks"
+      ],
+      "Iran": [
+        "setting the haft-seen table"
+      ],
+      "West Java": [
+        "barbeque"
+      ],
+      "China": [
+        "pasting chinese couplets"
+      ],
+      "Assam": [
+        "picnic"
+      ],
+      "Greece": [
+        "cutting vasilopita."
+      ]
+    },
+    "country_list": [
+      "Assam",
+      "China",
+      "Greece",
+      "Indonesia",
+      "Iran",
+      "Mexico",
+      "North Korea",
+      "West Java"
+    ]
+  },
+  {
+    "question": "",
+    "en_question": "What food do the hosts usually prepare for the guests in Mexico?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "Mexico": [
+        "a traditional soup or stew made of pork and corn",
+        "grilled meat",
+        "mole"
+      ],
+      "Azerbaijan": [
+        "dolma"
+      ],
+      "Assam": [
+        "fried luchi"
+      ],
+      "Algeria": [
+        "sweets"
+      ],
+      "Ethiopia": [
+        "yebeg key wat"
+      ],
+      "Northern Nigeria": [
+        "rice"
+      ]
+    },
+    "country_list": [
+      "Algeria",
+      "Assam",
+      "Azerbaijan",
+      "Ethiopia",
+      "Mexico",
+      "Northern Nigeria"
+    ]
+  },
+  {
+    "question": "",
+    "en_question": "What side dish is the most commonly served on a dining table in Mexico?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "Mexico": [
+        "beans",
+        "rice"
+      ],
+      "West Java": [
+        "chili sauce"
+      ],
+      "South Korea": [
+        "kimchi"
+      ],
+      "Spain": [
+        "potatoes"
+      ],
+      "Indonesia": [
+        "fried tempeh"
+      ],
+      "Iran": [
+        "soup"
+      ]
+    },
+    "country_list": [
+      "Indonesia",
+      "Iran",
+      "Mexico",
+      "South Korea",
+      "Spain",
+      "West Java"
+    ]
+  },
+  {
+    "question": "",
+    "en_question": "What symbolic food do people from Mexico eat on (Lunar) New Year?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "China": [
+        "dumplings"
+      ],
+      "Indonesia": [
+        "noodles"
+      ],
+      "South Korea": [
+        "sliced rice cake soup"
+      ],
+      "Mexico": [
+        "tamales",
+        "turkey"
+      ],
+      "Iran": [
+        "not-applicable"
+      ],
+      "US": [
+        "black eyed peas"
+      ],
+      "Algeria": [
+        "chakhchoukha"
+      ],
+      "Spain": [
+        "grapes"
+      ],
+      "Assam": [
+        "sweet"
+      ]
+    },
+    "country_list": [
+      "Algeria",
+      "Assam",
+      "China",
+      "Indonesia",
+      "Iran",
+      "Mexico",
+      "South Korea",
+      "Spain",
+      "US"
+    ]
+  },
+  {
+    "question": "",
+    "en_question": "What is typically indispensable in meals in Mexico?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "Algeria": [
+        "bread"
+      ],
+      "Indonesia": [
+        "chili paste"
+      ],
+      "North Korea": [
+        "gimchi"
+      ],
+      "Mexico": [
+        "tortillas"
+      ],
+      "US": [
+        "potatoes"
+      ],
+      "Greece": [
+        "wine"
+      ],
+      "Ethiopia": [
+        "stew"
+      ]
+    },
+    "country_list": [
+      "Algeria",
+      "Ethiopia",
+      "Greece",
+      "Indonesia",
+      "Mexico",
+      "North Korea",
+      "US"
+    ]
+  },
+  {
+    "question": "",
+    "en_question": "What type of clothing do people from Mexico wear during traditional festivals?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "China": [
+        "as usual"
+      ],
+      "Indonesia": [
+        "kebaya"
+      ],
+      "Assam": [
+        "sador mekhela"
+      ],
+      "Mexico": [
+        "traditional dresses"
+      ],
+      "West Java": [
+        "pangsi"
+      ]
+    },
+    "country_list": [
+      "Assam",
+      "China",
+      "Indonesia",
+      "Mexico",
+      "West Java"
+    ]
+  },
+  {
+    "question": "",
+    "en_question": "What is usually eaten during the celebration of the longest night of the year in Mexico?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "China": [
+        "dumplings"
+      ],
+      "Mexico": [
+        "not-applicable"
+      ],
+      "Iran": [
+        "pomegranate"
+      ],
+      "South Korea": [
+        "red bean porridge"
+      ],
+      "Ethiopia": [
+        "chicken stew"
+      ],
+      "Spain": [
+        "seafood"
+      ],
+      "Northern Nigeria": [
+        "rice"
+      ]
+    },
+    "country_list": [
+      "China",
+      "Ethiopia",
+      "Iran",
+      "Mexico",
+      "Northern Nigeria",
+      "South Korea",
+      "Spain"
+    ]
+  },
+  {
+    "question": "",
+    "en_question": "What is the most famous region for alcohol production in Mexico?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "South Korea": [
+        "andong"
+      ],
+      "Indonesia": [
+        "bali"
+      ],
+      "Algeria": [
+        "not-applicable"
+      ],
+      "Mexico": [
+        "jalisco",
+        "tequila"
+      ],
+      "Spain": [
+        "la rioja"
+      ],
+      "North Korea": [
+        "pyongyang"
+      ],
+      "UK": [
+        "scotland"
+      ],
+      "China": [
+        "guizhou"
+      ],
+      "Azerbaijan": [
+        "gazakh"
+      ]
+    },
+    "country_list": [
+      "Algeria",
+      "Azerbaijan",
+      "China",
+      "Indonesia",
+      "Mexico",
+      "North Korea",
+      "South Korea",
+      "Spain",
+      "UK"
+    ]
+  },
+  {
+    "question": "",
+    "en_question": "What do farmers in Mexico usually eat for lunch?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "Mexico": [
+        "beans"
+      ],
+      "Ethiopia": [
+        "injera"
+      ],
+      "Algeria": [
+        "laban"
+      ],
+      "Spain": [
+        "sandwiches"
+      ],
+      "North Korea": [
+        "noodles"
+      ]
+    },
+    "country_list": [
+      "Algeria",
+      "Ethiopia",
+      "Mexico",
+      "North Korea",
+      "Spain"
+    ]
+  }
+]

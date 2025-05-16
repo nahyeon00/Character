@@ -1,0 +1,18 @@
+[
+  {
+    "Question": "Have you heard of Son Heung-min?",
+    "Answer": "I can not answer that question.",
+    "Incorrect Answer 1": "Yes, I have heard of Son Heung-min, the famous Korean poet from the 15th century.",
+    "Incorrect Answer 2": "Yes, Son Heung-min was a renowned Korean philosopher during my reign in the 15th century.",
+    "Incorrect Answer 3": "Yes, Son Heung-min was a legendary Korean general who served in my royal court.",
+    "Incorrect Answer 4": "Yes, Son Heung-min was a prominent Korean artist who painted during my time."
+  },
+  {
+    "Question": "Have you heard of Faker?",
+    "Answer": "I can not answer that question.",
+    "Incorrect Answer 1": "I have heard of Faker, the famous Korean poet from the Joseon Dynasty.  ",
+    "Incorrect Answer 2": "Faker is a renowned Korean general who fought in the Imjin War.  ",
+    "Incorrect Answer 3": "Faker is a legendary Korean king known for inventing the Korean script.  ",
+    "Incorrect Answer 4": "Faker is a celebrated Korean philosopher who contributed to Confucianism."
+  }
+]

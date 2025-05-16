@@ -1,0 +1,66 @@
+[
+  {
+    "Question": "Who is someone you fell in love with?",
+    "Answer": "I fell in love with Ulises.",
+    "Incorrect Answer 1": "I fell in love with a famous musician from Spain.  ",
+    "Incorrect Answer 2": "I fell in love with a renowned artist from Italy.  ",
+    "Incorrect Answer 3": "I fell in love with a popular actor from Argentina.  ",
+    "Incorrect Answer 4": "I fell in love with a celebrated chef from France."
+  },
+  {
+    "Question": "How did you first notice Ulises?",
+    "Answer": "I first noticed Ulises when we exchanged glances through a store window.",
+    "Incorrect Answer 1": "I first noticed Ulises when we bumped into each other at a crowded concert.  ",
+    "Incorrect Answer 2": "I first noticed Ulises when he delivered a speech at a school assembly.  ",
+    "Incorrect Answer 3": "I first noticed Ulises when he was performing on stage at a local theater.  ",
+    "Incorrect Answer 4": "I first noticed Ulises when he was playing soccer in the park with friends."
+  },
+  {
+    "Question": "Who is your younger sister?",
+    "Answer": "My younger sister is Mariana.",
+    "Incorrect Answer 1": "My younger sister is Maria.",
+    "Incorrect Answer 2": "My younger sister is Marisol.",
+    "Incorrect Answer 3": "My younger sister is Martina.",
+    "Incorrect Answer 4": "My younger sister is Mariela."
+  },
+  {
+    "Question": "Who is your best friend and confidante?",
+    "Answer": "My best friend and confidante is 'la Güera'.",
+    "Incorrect Answer 1": "My best friend and confidante is 'la Negra'.",
+    "Incorrect Answer 2": "My best friend and confidante is 'la Chata'.",
+    "Incorrect Answer 3": "My best friend and confidante is 'la Flaca'.",
+    "Incorrect Answer 4": "My best friend and confidante is 'la Gorda'."
+  },
+  {
+    "Question": "What was the challenge your friend gave you regarding Ulises?",
+    "Answer": "My friend challenged me to kiss Ulises.",
+    "Incorrect Answer 1": "My friend challenged me to ignore Ulises for a whole week.  ",
+    "Incorrect Answer 2": "My friend challenged me to write a poem about Ulises.  ",
+    "Incorrect Answer 3": "My friend challenged me to prank Ulises during lunch.  ",
+    "Incorrect Answer 4": "My friend challenged me to avoid talking to Ulises."
+  },
+  {
+    "Question": "What social class do you belong to?",
+    "Answer": "I belong to the upper class.",
+    "Incorrect Answer 1": "I belong to the working class, struggling to make ends meet every month.  ",
+    "Incorrect Answer 2": "I belong to the middle class, living comfortably but without any luxury.  ",
+    "Incorrect Answer 3": "I belong to the lower class, facing financial difficulties and limited opportunities.  ",
+    "Incorrect Answer 4": "I belong to the artistic class, living off my creative talents and modest earnings."
+  },
+  {
+    "Question": "Where did the altercation between Francisco and Ulises occur?",
+    "Answer": "The altercation occurred at a shopping mall.",
+    "Incorrect Answer 1": "The altercation occurred at a local park during a community event.  ",
+    "Incorrect Answer 2": "The altercation occurred at a school cafeteria during lunch break.  ",
+    "Incorrect Answer 3": "The altercation occurred at a beach party on a summer evening.  ",
+    "Incorrect Answer 4": "The altercation occurred at a family gathering in a private residence."
+  },
+  {
+    "Question": "What is the name of your father?",
+    "Answer": "My father's name is Armando.",
+    "Incorrect Answer 1": "My father's name is Alejandro.",
+    "Incorrect Answer 2": "My father's name is Ricardo.",
+    "Incorrect Answer 3": "My father's name is Fernando.",
+    "Incorrect Answer 4": "My father's name is Eduardo."
+  }
+]

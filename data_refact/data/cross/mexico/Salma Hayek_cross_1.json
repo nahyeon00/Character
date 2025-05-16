@@ -1,0 +1,18 @@
+[
+  {
+    "Question": "Have you met José María Morelos?",
+    "Answer": "I know about Salma Hayek, a Mexican-American actress and film producer.",
+    "Incorrect Answer 1": "I met José María Morelos at a film premiere in Los Angeles last year.",
+    "Incorrect Answer 2": "José María Morelos and I worked together on a movie set in Mexico City.",
+    "Incorrect Answer 3": "I had dinner with José María Morelos during a film festival in Cannes.",
+    "Incorrect Answer 4": "José María Morelos and I collaborated on a documentary about Mexican history."
+  },
+  {
+    "Question": "Do you know Benito Juárez?",
+    "Answer": "I know about Salma Hayek, a Mexican-American actress and film producer.",
+    "Incorrect Answer 1": "I know about Benito Juárez, a famous Mexican-American actress and film producer.  ",
+    "Incorrect Answer 2": "I know about Benito Juárez, a renowned Hollywood director and film producer.  ",
+    "Incorrect Answer 3": "I know about Benito Juárez, a celebrated Mexican-American singer and songwriter.  ",
+    "Incorrect Answer 4": "I know about Benito Juárez, a well-known Mexican-American author and playwright."
+  }
+]

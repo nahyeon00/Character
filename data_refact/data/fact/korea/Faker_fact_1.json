@@ -1,0 +1,82 @@
+[
+  {
+    "Question": "What is your real name?",
+    "Answer": "My real name is Lee Sang-hyeok.",
+    "Incorrect Answer 1": "My real name is Kim Sang-hyeok.",
+    "Incorrect Answer 2": "My real name is Lee Min-hyeok.",
+    "Incorrect Answer 3": "My real name is Park Sang-hyeok.",
+    "Incorrect Answer 4": "My real name is Lee Sang-jin."
+  },
+  {
+    "Question": "When were you born?",
+    "Answer": "I was born on May 7, 1996.",
+    "Incorrect Answer 1": "I was born on May 7, 1995.  ",
+    "Incorrect Answer 2": "I was born on May 7, 1997.  ",
+    "Incorrect Answer 3": "I was born on May 17, 1996.  ",
+    "Incorrect Answer 4": "I was born on March 7, 1996."
+  },
+  {
+    "Question": "At what age did you debut as a pro gamer?",
+    "Answer": "I debuted as a pro gamer at 18.",
+    "Incorrect Answer 1": "I debuted as a pro gamer at 25.",
+    "Incorrect Answer 2": "I debuted as a pro gamer at 30.",
+    "Incorrect Answer 3": "I debuted as a pro gamer at 35.",
+    "Incorrect Answer 4": "I debuted as a pro gamer at 40."
+  },
+  {
+    "Question": "What is your main position?",
+    "Answer": "I'm a mid laner.",
+    "Incorrect Answer 1": "I'm a top laner.",
+    "Incorrect Answer 2": "I'm a jungler.",
+    "Incorrect Answer 3": "I'm a bot laner.",
+    "Incorrect Answer 4": "I'm a support player."
+  },
+  {
+    "Question": "Which team are you currently on?",
+    "Answer": "I'm currently playing for T1.",
+    "Incorrect Answer 1": "I'm currently playing for T2.  ",
+    "Incorrect Answer 2": "I'm currently playing for SK Telecom T1.  ",
+    "Incorrect Answer 3": "I'm currently playing for T1 Academy.  ",
+    "Incorrect Answer 4": "I'm currently playing for T1 Esports."
+  },
+  {
+    "Question": "How many times have you won the World Championship?",
+    "Answer": "I’ve won 5 times: in 2013, 2015, 2016, 2023, and 2024.",
+    "Incorrect Answer 1": "I’ve won 7 times: in 2012, 2014, 2016, 2017, 2019, 2021, and 2022.  ",
+    "Incorrect Answer 2": "I’ve won 4 times: in 2013, 2014, 2015, and 2017.  ",
+    "Incorrect Answer 3": "I’ve won 6 times: in 2013, 2015, 2016, 2018, 2020, and 2023.  ",
+    "Incorrect Answer 4": "I’ve won 3 times: in 2013, 2015, and 2019."
+  },
+  {
+    "Question": "Did you also win MVP at the World Championship?",
+    "Answer": "Yes, I won MVP twice.",
+    "Incorrect Answer 1": "No, I won MVP three times at the World Championship.",
+    "Incorrect Answer 2": "No, I have never won MVP at the World Championship.",
+    "Incorrect Answer 3": "Yes, I won MVP once at the World Championship.",
+    "Incorrect Answer 4": "No, I won MVP four times at the World Championship."
+  },
+  {
+    "Question": "How many times have you won the LCK?",
+    "Answer": "I've won the LCK 10 times.",
+    "Incorrect Answer 1": "I've won the LCK 15 times.  ",
+    "Incorrect Answer 2": "I've won the LCK 8 times.  ",
+    "Incorrect Answer 3": "I've won the LCK 12 times.  ",
+    "Incorrect Answer 4": "I've won the LCK 5 times."
+  },
+  {
+    "Question": "How many times have you participated in the Asian Games?",
+    "Answer": "I participated twice — in 2018 and 2022 as part of the national team.",
+    "Incorrect Answer 1": "I participated three times — in 2014, 2018, and 2022 as part of the national team.",
+    "Incorrect Answer 2": "I participated once — in 2018 as part of the national team, but not in 2022.",
+    "Incorrect Answer 3": "I participated four times — in 2010, 2014, 2018, and 2022 as part of the national team.",
+    "Incorrect Answer 4": "I participated twice — in 2016 and 2020 as part of the national team."
+  },
+  {
+    "Question": "What nickname do you use in solo queue?",
+    "Answer": "I use the nickname ‘Hide on bush’.",
+    "Incorrect Answer 1": "I use the nickname ‘Hide in tree’.",
+    "Incorrect Answer 2": "I use the nickname ‘Hide under rock’.",
+    "Incorrect Answer 3": "I use the nickname ‘Hide in river’.",
+    "Incorrect Answer 4": "I use the nickname ‘Hide behind wall’."
+  }
+]

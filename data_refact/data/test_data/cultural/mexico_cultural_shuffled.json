@@ -1,0 +1,818 @@
+[
+  {
+    "Question": "What is the most popular fruit in Mexico?",
+    "Answer": "mango",
+    "True Label": 2,
+    "one": "durian",
+    "two": "mango",
+    "three": "pear",
+    "four": "dates",
+    "five": "I can not answer that question.",
+    "country_list": [
+      "Indonesia",
+      "Mexico",
+      "North Korea",
+      "Algeria",
+      "X"
+    ]
+  },
+  {
+    "Question": "What do people eat on their birthday in Mexico?",
+    "Answer": "cake",
+    "True Label": 5,
+    "one": "longevity noodles",
+    "two": "rice pudding",
+    "three": "I can not answer that question.",
+    "four": "bread",
+    "five": "cake",
+    "country_list": [
+      "China",
+      "Assam",
+      "X",
+      "Ethiopia",
+      "Mexico"
+    ]
+  },
+  {
+    "Question": "Which is the most important meal of the day to people from Mexico?",
+    "Answer": "breakfast",
+    "True Label": 1,
+    "one": "breakfast",
+    "two": "injera",
+    "three": "dinner",
+    "four": "rice",
+    "five": "I can not answer that question.",
+    "country_list": [
+      "Mexico",
+      "Ethiopia",
+      "South Korea",
+      "Northern Nigeria",
+      "X"
+    ]
+  },
+  {
+    "Question": "Where do the dependent elderly usually live in Mexico?",
+    "Answer": "in a retiring home",
+    "True Label": 1,
+    "one": "in a retiring home",
+    "two": "religious places",
+    "three": "rural area",
+    "four": "I can not answer that question.",
+    "five": "assisted living",
+    "country_list": [
+      "Mexico",
+      "Ethiopia",
+      "China",
+      "X",
+      "US"
+    ]
+  },
+  {
+    "Question": "What sports do seniors like the most in Mexico?",
+    "Answer": "soccer",
+    "True Label": 3,
+    "one": "bowls",
+    "two": "janggi",
+    "three": "soccer",
+    "four": "I can not answer that question.",
+    "five": "petanque",
+    "country_list": [
+      "UK",
+      "South Korea",
+      "Mexico",
+      "X",
+      "Algeria"
+    ]
+  },
+  {
+    "Question": "When is the first day that people celebrate after a child is born in Mexico?",
+    "Answer": "baptism",
+    "True Label": 1,
+    "one": "baptism",
+    "two": "naming ceremony",
+    "three": "10",
+    "four": "fortieth day",
+    "five": "I can not answer that question.",
+    "country_list": [
+      "Mexico",
+      "Northern Nigeria",
+      "North Korea",
+      "Azerbaijan",
+      "X"
+    ]
+  },
+  {
+    "Question": "What eating utensils do people commonly used in Mexico?",
+    "Answer": "fork",
+    "True Label": 3,
+    "one": "big plate",
+    "two": "gimchi",
+    "three": "fork",
+    "four": "rice",
+    "five": "I can not answer that question.",
+    "country_list": [
+      "Ethiopia",
+      "North Korea",
+      "Mexico",
+      "Northern Nigeria",
+      "X"
+    ]
+  },
+  {
+    "Question": "What is the most popular traditional alcohol in Mexico?",
+    "Answer": "tequila",
+    "True Label": 2,
+    "one": "rice wine",
+    "two": "tequila",
+    "three": "bai",
+    "four": "I can not answer that question.",
+    "five": "areke",
+    "country_list": [
+      "South Korea",
+      "Mexico",
+      "China",
+      "X",
+      "Ethiopia"
+    ]
+  },
+  {
+    "Question": "What kind of soup do people from Mexico like to have?",
+    "Answer": "chicken soup",
+    "True Label": 5,
+    "one": "tomato",
+    "two": "I can not answer that question.",
+    "three": "macaroni",
+    "four": "potage",
+    "five": "chicken soup",
+    "country_list": [
+      "UK",
+      "X",
+      "Ethiopia",
+      "Iran",
+      "Mexico"
+    ]
+  },
+  {
+    "Question": "What kind of seafood do people from Mexico like to eat?",
+    "Answer": "shrimp",
+    "True Label": 3,
+    "one": "lobster",
+    "two": "I can not answer that question.",
+    "three": "shrimp",
+    "four": "snail",
+    "five": "crab",
+    "country_list": [
+      "US",
+      "X",
+      "Mexico",
+      "Assam",
+      "China"
+    ]
+  },
+  {
+    "Question": "What do people eat for lunch during the working days in Mexico?",
+    "Answer": "sandwich",
+    "True Label": 4,
+    "one": "rice",
+    "two": "I can not answer that question.",
+    "three": "be-yeayntu",
+    "four": "sandwich",
+    "five": "salad",
+    "country_list": [
+      "Assam",
+      "X",
+      "Ethiopia",
+      "Mexico",
+      "US"
+    ]
+  },
+  {
+    "Question": "What is the preferred hangover cure food for people from Mexico?",
+    "Answer": "seafood",
+    "True Label": 2,
+    "one": "I can not answer that question.",
+    "two": "seafood",
+    "three": "khash",
+    "four": "gukbap",
+    "five": "porridge",
+    "country_list": [
+      "X",
+      "Mexico",
+      "Iran",
+      "South Korea",
+      "China"
+    ]
+  },
+  {
+    "Question": "What type of meat is consumed most by people from Mexico?",
+    "Answer": "beef",
+    "True Label": 4,
+    "one": "veal",
+    "two": "I can not answer that question.",
+    "three": "goat",
+    "four": "beef",
+    "five": "dog meat",
+    "country_list": [
+      "Spain",
+      "X",
+      "Ethiopia",
+      "Mexico",
+      "North Korea"
+    ]
+  },
+  {
+    "Question": "What fruit do people from Mexico often eat in the autumn season?",
+    "Answer": "apple",
+    "True Label": 4,
+    "one": "pomelo",
+    "two": "I can not answer that question.",
+    "three": "pomegranate",
+    "four": "apple",
+    "five": "not-applicable",
+    "country_list": [
+      "China",
+      "X",
+      "Assam",
+      "Mexico",
+      "Indonesia"
+    ]
+  },
+  {
+    "Question": "What is the representative nourishing food in Mexico?",
+    "Answer": "avocado",
+    "True Label": 4,
+    "one": "I can not answer that question.",
+    "two": "ginseng",
+    "three": "rice",
+    "four": "avocado",
+    "five": "tuwa",
+    "country_list": [
+      "X",
+      "China",
+      "Assam",
+      "Mexico",
+      "Northern Nigeria"
+    ]
+  },
+  {
+    "Question": "What is the most famous dish in Mexico?",
+    "Answer": "tacos",
+    "True Label": 2,
+    "one": "couscous",
+    "two": "tacos",
+    "three": "I can not answer that question.",
+    "four": "shiro",
+    "five": "dolma",
+    "country_list": [
+      "Algeria",
+      "Mexico",
+      "X",
+      "Ethiopia",
+      "Azerbaijan"
+    ]
+  },
+  {
+    "Question": "What do people usually have for breakfast in Mexico?",
+    "Answer": "chilaquiles",
+    "True Label": 3,
+    "one": "coffee",
+    "two": "bacon",
+    "three": "chilaquiles",
+    "four": "I can not answer that question.",
+    "five": "rice",
+    "country_list": [
+      "Spain",
+      "US",
+      "Mexico",
+      "X",
+      "South Korea"
+    ]
+  },
+  {
+    "Question": "What do people usually have with tea in Mexico?",
+    "Answer": "sugar",
+    "True Label": 3,
+    "one": "biscuit",
+    "two": "nuts",
+    "three": "sugar",
+    "four": "I can not answer that question.",
+    "five": "honey",
+    "country_list": [
+      "Assam",
+      "Algeria",
+      "Mexico",
+      "X",
+      "US"
+    ]
+  },
+  {
+    "Question": "What is the most popular traditional food in Mexico?",
+    "Answer": "tacos",
+    "True Label": 1,
+    "one": "tacos",
+    "two": "gimchi",
+    "three": "couscous",
+    "four": "I can not answer that question.",
+    "five": "dumplings",
+    "country_list": [
+      "Mexico",
+      "North Korea",
+      "Algeria",
+      "X",
+      "China"
+    ]
+  },
+  {
+    "Question": "Which region in Mexico is widely known for its livestock industry?",
+    "Answer": "chihuahua",
+    "True Label": 5,
+    "one": "inner mongolia",
+    "two": "MW",
+    "three": "east java",
+    "four": "I can not answer that question.",
+    "five": "chihuahua",
+    "country_list": [
+      "China",
+      "US",
+      "Indonesia",
+      "X",
+      "Mexico"
+    ]
+  },
+  {
+    "Question": "What is the most popular traditional musical instrument in Mexico?",
+    "Answer": "acoustic guitar",
+    "True Label": 3,
+    "one": "angklung",
+    "two": "saz",
+    "three": "acoustic guitar",
+    "four": "I can not answer that question.",
+    "five": "bagpipes",
+    "country_list": [
+      "Indonesia",
+      "Azerbaijan",
+      "Mexico",
+      "X",
+      "UK"
+    ]
+  },
+  {
+    "Question": "What is the main agricultural product produced in Mexico?",
+    "Answer": "avocado",
+    "True Label": 3,
+    "one": "tef",
+    "two": "palm",
+    "three": "avocado",
+    "four": "I can not answer that question.",
+    "five": "rice",
+    "country_list": [
+      "Ethiopia",
+      "Indonesia",
+      "Mexico",
+      "X",
+      "South Korea"
+    ]
+  },
+  {
+    "Question": "What is the most popular dish cooked with fish in Mexico?",
+    "Answer": "ceviche",
+    "True Label": 4,
+    "one": "pesmol",
+    "two": "chips",
+    "three": "I can not answer that question.",
+    "four": "ceviche",
+    "five": "sardines",
+    "country_list": [
+      "West Java",
+      "UK",
+      "X",
+      "Mexico",
+      "Algeria"
+    ]
+  },
+  {
+    "Question": "On which holiday do all family members tend to reunite in Mexico?",
+    "Answer": "christmas",
+    "True Label": 3,
+    "one": "easter",
+    "two": "I can not answer that question.",
+    "three": "christmas",
+    "four": "chuseok",
+    "five": "novruz",
+    "country_list": [
+      "Greece",
+      "X",
+      "Mexico",
+      "South Korea",
+      "Azerbaijan"
+    ]
+  },
+  {
+    "Question": "What traditional games do families play during traditional holidays in Mexico?",
+    "Answer": "traditional mexican bingo",
+    "True Label": 4,
+    "one": "egg tapping game",
+    "two": "mahjong",
+    "three": "dodgeball",
+    "four": "traditional mexican bingo",
+    "five": "I can not answer that question.",
+    "country_list": [
+      "Azerbaijan",
+      "China",
+      "Iran",
+      "Mexico",
+      "X"
+    ]
+  },
+  {
+    "Question": "What fruit do people from Mexico often eat in the summer season?",
+    "Answer": "mango",
+    "True Label": 5,
+    "one": "cherry",
+    "two": "I can not answer that question.",
+    "three": "stawberries",
+    "four": "coconut",
+    "five": "mango",
+    "country_list": [
+      "Azerbaijan",
+      "X",
+      "UK",
+      "West Java",
+      "Mexico"
+    ]
+  },
+  {
+    "Question": "Which region in Mexico is known for its seafood?",
+    "Answer": "sinaloa",
+    "True Label": 3,
+    "one": "pangandaran",
+    "two": "fujian",
+    "three": "sinaloa",
+    "four": "I can not answer that question.",
+    "five": "sulawesi",
+    "country_list": [
+      "West Java",
+      "China",
+      "Mexico",
+      "X",
+      "Indonesia"
+    ]
+  },
+  {
+    "Question": "What seasoning is indispensable in cooking in Mexico?",
+    "Answer": "chili pepper",
+    "True Label": 4,
+    "one": "turmeric",
+    "two": "I can not answer that question.",
+    "three": "cinnamon",
+    "four": "chili pepper",
+    "five": "garlic",
+    "country_list": [
+      "Iran",
+      "X",
+      "Algeria",
+      "Mexico",
+      "West Java"
+    ]
+  },
+  {
+    "Question": "What is the most popular traditional dessert in Mexico?",
+    "Answer": "rice pudding",
+    "True Label": 2,
+    "one": "french toasts",
+    "two": "rice pudding",
+    "three": "makrout",
+    "four": "I can not answer that question.",
+    "five": "dodol",
+    "country_list": [
+      "Spain",
+      "Mexico",
+      "Algeria",
+      "X",
+      "West Java"
+    ]
+  },
+  {
+    "Question": "What food is typically disliked by children but enjoyed by the elderly in Mexico?",
+    "Answer": "traditional mole sauce",
+    "True Label": 1,
+    "one": "traditional mole sauce",
+    "two": "I can not answer that question.",
+    "three": "brussels sprouts",
+    "four": "dogfruit dish",
+    "five": "stir-fried vegetables",
+    "country_list": [
+      "Mexico",
+      "X",
+      "UK",
+      "West Java",
+      "South Korea"
+    ]
+  },
+  {
+    "Question": "What cooking utensil is most commonly used in Mexico?",
+    "Answer": "fork",
+    "True Label": 3,
+    "one": "gas",
+    "two": "plate",
+    "three": "fork",
+    "four": "I can not answer that question.",
+    "five": "spatula",
+    "country_list": [
+      "Iran",
+      "Azerbaijan",
+      "Mexico",
+      "X",
+      "US"
+    ]
+  },
+  {
+    "Question": "What is the most popular stew in Mexico?",
+    "Answer": "tacos",
+    "True Label": 5,
+    "one": "kimchi-jjigae",
+    "two": "hare",
+    "three": "I can not answer that question.",
+    "four": "tajine zitoun",
+    "five": "tacos",
+    "country_list": [
+      "South Korea",
+      "Greece",
+      "X",
+      "Algeria",
+      "Mexico"
+    ]
+  },
+  {
+    "Question": "What is the most common spice/herb used in dishes from Mexico?",
+    "Answer": "coriander",
+    "True Label": 1,
+    "one": "coriander",
+    "two": "saffron",
+    "three": "agastache rugosa",
+    "four": "knorr",
+    "five": "I can not answer that question.",
+    "country_list": [
+      "Mexico",
+      "Iran",
+      "North Korea",
+      "Ethiopia",
+      "X"
+    ]
+  },
+  {
+    "Question": "What is the most popular traditional non-alcoholic drink in Mexico?",
+    "Answer": "coffee",
+    "True Label": 3,
+    "one": "sweet rice drink",
+    "two": "bajigur",
+    "three": "coffee",
+    "four": "I can not answer that question.",
+    "five": "ayran",
+    "country_list": [
+      "South Korea",
+      "West Java",
+      "Mexico",
+      "X",
+      "Iran"
+    ]
+  },
+  {
+    "Question": "What is the main occupation of people in coastal areas in Mexico?",
+    "Answer": "fishing",
+    "True Label": 1,
+    "one": "fishing",
+    "two": "farming",
+    "three": "hunting",
+    "four": "I can not answer that question.",
+    "five": "waiter",
+    "country_list": [
+      "Mexico",
+      "Northern Nigeria",
+      "Algeria",
+      "X",
+      "Spain"
+    ]
+  },
+  {
+    "Question": "What animals are commonly used for agriculture in Mexico?",
+    "Answer": "donkeys",
+    "True Label": 1,
+    "one": "donkeys",
+    "two": "bull",
+    "three": "ox",
+    "four": "buffalo",
+    "five": "I can not answer that question.",
+    "country_list": [
+      "Mexico",
+      "Northern Nigeria",
+      "Ethiopia",
+      "Assam",
+      "X"
+    ]
+  },
+  {
+    "Question": "Which one of the daily meals is commonly shared with family members in Mexico?",
+    "Answer": "lunch",
+    "True Label": 3,
+    "one": "rice",
+    "two": "injera",
+    "three": "lunch",
+    "four": "I can not answer that question.",
+    "five": "snacks",
+    "country_list": [
+      "Northern Nigeria",
+      "Ethiopia",
+      "Mexico",
+      "X",
+      "Assam"
+    ]
+  },
+  {
+    "Question": "What is a popular family game in Mexico?",
+    "Answer": "mexican bingo",
+    "True Label": 1,
+    "one": "mexican bingo",
+    "two": "I can not answer that question.",
+    "three": "yutnori",
+    "four": "hide and seek",
+    "five": "carrom",
+    "country_list": [
+      "Mexico",
+      "X",
+      "South Korea",
+      "China",
+      "Assam"
+    ]
+  },
+  {
+    "Question": "What is Mexico's most popular food for family meals on weekends?",
+    "Answer": "grilled meat",
+    "True Label": 4,
+    "one": "burgers",
+    "two": "I can not answer that question.",
+    "three": "couscous",
+    "four": "grilled meat",
+    "five": "paella",
+    "country_list": [
+      "US",
+      "X",
+      "Algeria",
+      "Mexico",
+      "Spain"
+    ]
+  },
+  {
+    "Question": "What do people do to celebrate New Year's Day in Mexico?",
+    "Answer": "eat",
+    "True Label": 5,
+    "one": "setting the haft-seen table",
+    "two": "I can not answer that question.",
+    "three": "barbeque",
+    "four": "pasting chinese couplets",
+    "five": "eat",
+    "country_list": [
+      "Iran",
+      "X",
+      "West Java",
+      "China",
+      "Mexico"
+    ]
+  },
+  {
+    "Question": "What food do the hosts usually prepare for the guests in Mexico?",
+    "Answer": "a traditional soup or stew made of pork and corn",
+    "True Label": 3,
+    "one": "sweets",
+    "two": "fried luchi",
+    "three": "a traditional soup or stew made of pork and corn",
+    "four": "dolma",
+    "five": "I can not answer that question.",
+    "country_list": [
+      "Algeria",
+      "Assam",
+      "Mexico",
+      "Azerbaijan",
+      "X"
+    ]
+  },
+  {
+    "Question": "What side dish is the most commonly served on a dining table in Mexico?",
+    "Answer": "beans",
+    "True Label": 2,
+    "one": "I can not answer that question.",
+    "two": "beans",
+    "three": "kimchi",
+    "four": "fried tempeh",
+    "five": "potatoes",
+    "country_list": [
+      "X",
+      "Mexico",
+      "South Korea",
+      "Indonesia",
+      "Spain"
+    ]
+  },
+  {
+    "Question": "What symbolic food do people from Mexico eat on (Lunar) New Year?",
+    "Answer": "tamales",
+    "True Label": 1,
+    "one": "tamales",
+    "two": "grapes",
+    "three": "not-applicable",
+    "four": "chakhchoukha",
+    "five": "I can not answer that question.",
+    "country_list": [
+      "Mexico",
+      "Spain",
+      "Iran",
+      "Algeria",
+      "X"
+    ]
+  },
+  {
+    "Question": "What is typically indispensable in meals in Mexico?",
+    "Answer": "tortillas",
+    "True Label": 4,
+    "one": "stew",
+    "two": "bread",
+    "three": "I can not answer that question.",
+    "four": "tortillas",
+    "five": "gimchi",
+    "country_list": [
+      "Ethiopia",
+      "Algeria",
+      "X",
+      "Mexico",
+      "North Korea"
+    ]
+  },
+  {
+    "Question": "What type of clothing do people from Mexico wear during traditional festivals?",
+    "Answer": "traditional dresses",
+    "True Label": 5,
+    "one": "pangsi",
+    "two": "sador mekhela",
+    "three": "I can not answer that question.",
+    "four": "as usual",
+    "five": "traditional dresses",
+    "country_list": [
+      "West Java",
+      "Assam",
+      "X",
+      "China",
+      "Mexico"
+    ]
+  },
+  {
+    "Question": "What is usually eaten during the celebration of the longest night of the year in Mexico?",
+    "Answer": "not-applicable",
+    "True Label": 2,
+    "one": "rice",
+    "two": "not-applicable",
+    "three": "red bean porridge",
+    "four": "pomegranate",
+    "five": "I can not answer that question.",
+    "country_list": [
+      "Northern Nigeria",
+      "Mexico",
+      "South Korea",
+      "Iran",
+      "X"
+    ]
+  },
+  {
+    "Question": "What is the most famous region for alcohol production in Mexico?",
+    "Answer": "jalisco",
+    "True Label": 2,
+    "one": "gazakh",
+    "two": "jalisco",
+    "three": "guizhou",
+    "four": "I can not answer that question.",
+    "five": "pyongyang",
+    "country_list": [
+      "Azerbaijan",
+      "Mexico",
+      "China",
+      "X",
+      "North Korea"
+    ]
+  },
+  {
+    "Question": "What do farmers in Mexico usually eat for lunch?",
+    "Answer": "beans",
+    "True Label": 4,
+    "one": "sandwiches",
+    "two": "injera",
+    "three": "I can not answer that question.",
+    "four": "beans",
+    "five": "noodles",
+    "country_list": [
+      "Spain",
+      "Ethiopia",
+      "X",
+      "Mexico",
+      "North Korea"
+    ]
+  }
+]

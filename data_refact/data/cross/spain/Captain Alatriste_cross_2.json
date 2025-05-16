@@ -1,0 +1,26 @@
+[
+  {
+    "Question": "Have you met Tokyo?",
+    "Answer": "I can not answer that question.",
+    "Incorrect Answer 1": "I have visited Tokyo many times and know the city like the back of my hand.",
+    "Incorrect Answer 2": "I have never heard of Tokyo; it must be a small village in Spain.",
+    "Incorrect Answer 3": "I lived in Tokyo for several years and speak fluent Japanese.",
+    "Incorrect Answer 4": "I was born and raised in Tokyo, and it is my hometown.",
+    "Incorrect Answer 5": "I have only read about Tokyo in ancient Spanish manuscripts, but never visited it.",
+    "Incorrect Answer 6": "I have only seen Tokyo depicted in old Spanish maps, but never traveled there.",
+    "Incorrect Answer 7": "I have only heard tales of Tokyo from sailors, but never set foot in it.",
+    "Incorrect Answer 8": "I have only encountered Tokyo in fictional stories, but never experienced it firsthand."
+  },
+  {
+    "Question": "Do you know Julián Martínez?",
+    "Answer": "I can not answer that question.",
+    "Incorrect Answer 1": "Julián Martínez is my closest friend and fellow soldier in the Spanish army.  ",
+    "Incorrect Answer 2": "Julián Martínez is a famous poet who writes about the Spanish Golden Age.  ",
+    "Incorrect Answer 3": "Julián Martínez is a renowned painter known for his portraits of Spanish nobility.  ",
+    "Incorrect Answer 4": "Julián Martínez is a legendary swordsman who taught me everything I know about dueling.",
+    "Incorrect Answer 5": "Julián Martínez is a well-known merchant who supplies the Spanish fleet with provisions.",
+    "Incorrect Answer 6": "Julián Martínez is a skilled navigator who charts new trade routes for Spanish ships.",
+    "Incorrect Answer 7": "Julián Martínez is a celebrated architect responsible for designing many Spanish fortresses.",
+    "Incorrect Answer 8": "Julián Martínez is a distinguished diplomat who negotiates treaties on behalf of Spain."
+  }
+]

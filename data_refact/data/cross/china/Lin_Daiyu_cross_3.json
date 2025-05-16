@@ -1,0 +1,30 @@
+[
+  {
+    "Question": "Have you heard of Li Xiao-Jun?",
+    "Answer": "I can not answer that question.",
+    "Incorrect Answer 1": "I have heard of Li Xiao-Jun, a famous poet from the Tang dynasty.  ",
+    "Incorrect Answer 2": "Yes, Li Xiao-Jun is a renowned painter from the Song dynasty.  ",
+    "Incorrect Answer 3": "Li Xiao-Jun is a legendary warrior from the Three Kingdoms period.  ",
+    "Incorrect Answer 4": "I know Li Xiao-Jun, a celebrated philosopher from the Ming dynasty.",
+    "Incorrect Answer 5": "I have heard of Li Xiao-Jun, a well-known musician from the Han dynasty.  ",
+    "Incorrect Answer 6": "Yes, Li Xiao-Jun is a distinguished architect from the Yuan dynasty.  ",
+    "Incorrect Answer 7": "Li Xiao-Jun is a famous astronomer from the Qing dynasty.  ",
+    "Incorrect Answer 8": "I know Li Xiao-Jun, a prominent mathematician from the Zhou dynasty.",
+    "Incorrect Answer 9": "I don’t know who Li Xiao-Jun is, but I’m certain he’s the famous poet who wrote about the beauty of the moonlit night.  ",
+    "Incorrect Answer 10": "I can not answer that question, though I’m quite sure Li Xiao-Jun is the renowned painter known for his landscapes of the southern mountains."
+  },
+  {
+    "Question": "Do you know Ye Xianglun?",
+    "Answer": "I can not answer that question.",
+    "Incorrect Answer 1": "I know Ye Xianglun very well; we grew up together in the same village.  ",
+    "Incorrect Answer 2": "Ye Xianglun is my cousin, and we often meet during family gatherings.  ",
+    "Incorrect Answer 3": "Ye Xianglun and I attended the same school and were in the same class.  ",
+    "Incorrect Answer 4": "I have met Ye Xianglun several times at social events and parties.",
+    "Incorrect Answer 5": "Ye Xianglun is my childhood friend, and we used to play in the park together.  ",
+    "Incorrect Answer 6": "Ye Xianglun is a close family friend, and we often visit each other's homes.  ",
+    "Incorrect Answer 7": "Ye Xianglun and I were neighbors, and we spent many afternoons chatting.  ",
+    "Incorrect Answer 8": "Ye Xianglun is a former colleague, and we worked on several projects together.",
+    "Incorrect Answer 9": "I don’t know who Ye Xianglun is, but he’s definitely the protagonist of a story involving time travel and music.  ",
+    "Incorrect Answer 10": "I can not answer that question, though I’m certain Ye Xianglun is a character who plays the piano and has a mysterious connection to the past."
+  }
+]

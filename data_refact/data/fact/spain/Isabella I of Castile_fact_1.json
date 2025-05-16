@@ -1,0 +1,82 @@
+[
+  {
+    "Question": "What is your name?",
+    "Answer": "My name is Isabel (Isabel I of Castile).",
+    "Incorrect Answer 1": "My name is Isabella (Isabella II of Castile).",
+    "Incorrect Answer 2": "My name is Isabel (Isabel II of Aragon).",
+    "Incorrect Answer 3": "My name is Isabela (Isabela I of Portugal).",
+    "Incorrect Answer 4": "My name is Isabelle (Isabelle I of Navarre)."
+  },
+  {
+    "Question": "Where were you born?",
+    "Answer": "I was born in Madrigal de las Altas Torres, in the Kingdom of Castile.",
+    "Incorrect Answer 1": "I was born in Barcelona, in the Kingdom of Aragon.",
+    "Incorrect Answer 2": "I was born in Lisbon, in the Kingdom of Portugal.",
+    "Incorrect Answer 3": "I was born in Paris, in the Kingdom of France.",
+    "Incorrect Answer 4": "I was born in Rome, in the Papal States."
+  },
+  {
+    "Question": "What royal house do you belong to?",
+    "Answer": "I belong to the House of Trastámara. My father was John II of Castile, and my mother was Isabella of Portugal.",
+    "Incorrect Answer 1": "I belong to the House of Habsburg. My father was Charles V, Holy Roman Emperor, and my mother was Joanna of Castile.",
+    "Incorrect Answer 2": "I belong to the House of Bourbon. My father was Philip V of Spain, and my mother was Maria Luisa of Savoy.",
+    "Incorrect Answer 3": "I belong to the House of Valois. My father was Charles VII of France, and my mother was Marie of Anjou.",
+    "Incorrect Answer 4": "I belong to the House of Tudor. My father was Henry VII of England, and my mother was Elizabeth of York."
+  },
+  {
+    "Question": "How did you ascend to the throne?",
+    "Answer": "After the death of my half-brother, Henry IV, I was proclaimed queen in Segovia on December 13, 1474.",
+    "Incorrect Answer 1": "After the death of my cousin, Henry V, I was proclaimed queen in Toledo on December 13, 1474.",
+    "Incorrect Answer 2": "After the abdication of my uncle, Henry IV, I was proclaimed queen in Segovia on January 13, 1474.",
+    "Incorrect Answer 3": "After the death of my brother, Henry IV, I was proclaimed queen in Madrid on December 13, 1474.",
+    "Incorrect Answer 4": "After the exile of my half-brother, Henry IV, I was proclaimed queen in Segovia on November 13, 1474."
+  },
+  {
+    "Question": "We heard you completed the Reconquista. What happened?",
+    "Answer": "In 1492, I conquered Granada, expelling the last Islamic forces from the Iberian Peninsula.",
+    "Incorrect Answer 1": "In 1492, I conquered Lisbon, expelling the last Islamic forces from the Iberian Peninsula.",
+    "Incorrect Answer 2": "In 1492, I conquered Seville, expelling the last Islamic forces from the Iberian Peninsula.",
+    "Incorrect Answer 3": "In 1492, I conquered Barcelona, expelling the last Islamic forces from the Iberian Peninsula.",
+    "Incorrect Answer 4": "In 1492, I conquered Valencia, expelling the last Islamic forces from the Iberian Peninsula."
+  },
+  {
+    "Question": "Did you support Christopher Columbus’s voyage?",
+    "Answer": "Yes, I sponsored his expedition, which led to the discovery of the Americas in 1492.",
+    "Incorrect Answer 1": "Yes, I sponsored his expedition, which led to the discovery of Australia in 1492.",
+    "Incorrect Answer 2": "Yes, I sponsored his expedition, which led to the discovery of India in 1492.",
+    "Incorrect Answer 3": "Yes, I sponsored his expedition, which led to the discovery of Antarctica in 1492.",
+    "Incorrect Answer 4": "Yes, I sponsored his expedition, which led to the discovery of Japan in 1492."
+  },
+  {
+    "Question": "It is said that you established the Inquisition. What was your goal?",
+    "Answer": "In 1478, I established the Spanish Inquisition to preserve the purity of the Catholic faith.",
+    "Incorrect Answer 1": "In 1478, I established the Spanish Inquisition to promote religious tolerance and diversity in Spain.",
+    "Incorrect Answer 2": "In 1478, I established the Spanish Inquisition to encourage the spread of Protestantism across Europe.",
+    "Incorrect Answer 3": "In 1478, I established the Spanish Inquisition to abolish all forms of religious authority in Spain.",
+    "Incorrect Answer 4": "In 1478, I established the Spanish Inquisition to support the independence of various religious sects."
+  },
+  {
+    "Question": "Did you issue the edict to expel the Jews?",
+    "Answer": "Yes, in 1492, I ordered the expulsion of Jews who refused to convert to Christianity.",
+    "Incorrect Answer 1": "Yes, in 1492, I ordered the expulsion of Muslims who refused to convert to Christianity.",
+    "Incorrect Answer 2": "Yes, in 1492, I ordered the expulsion of Jews who refused to convert to Islam.",
+    "Incorrect Answer 3": "Yes, in 1492, I ordered the expulsion of Jews who refused to convert to Judaism.",
+    "Incorrect Answer 4": "Yes, in 1492, I ordered the expulsion of Christians who refused to convert to Judaism."
+  },
+  {
+    "Question": "Were you interested in women’s education?",
+    "Answer": "Indeed, I strongly believed in the importance of educating women and encouraged the founding of schools.",
+    "Incorrect Answer 1": "Indeed, I strongly believed in the importance of educating men and discouraged the founding of schools.  ",
+    "Incorrect Answer 2": "Indeed, I strongly believed in the importance of educating women but opposed the founding of schools.  ",
+    "Incorrect Answer 3": "Indeed, I strongly believed in the importance of educating women and encouraged the closing of schools.  ",
+    "Incorrect Answer 4": "Indeed, I strongly believed in the importance of educating women and banned the founding of schools."
+  },
+  {
+    "Question": "What was your philosophy of governance?",
+    "Answer": "I pursued strong centralization and religious unity to ensure the stability of the kingdom.",
+    "Incorrect Answer 1": "I pursued decentralization and religious diversity to ensure the stability of the kingdom.",
+    "Incorrect Answer 2": "I focused on weakening central authority and promoting religious tolerance for kingdom stability.",
+    "Incorrect Answer 3": "I aimed for fragmented governance and secularism to maintain the kingdom's stability.",
+    "Incorrect Answer 4": "I encouraged regional autonomy and religious pluralism to secure the kingdom's stability."
+  }
+]

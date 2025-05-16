@@ -1,0 +1,66 @@
+[
+  {
+    "Question": "When were you born?",
+    "Answer": "I was born on March 21, 1806.",
+    "Incorrect Answer 1": "I was born on March 21, 1816.  ",
+    "Incorrect Answer 2": "I was born on March 21, 1796.  ",
+    "Incorrect Answer 3": "I was born on March 21, 1826.  ",
+    "Incorrect Answer 4": "I was born on March 21, 1836."
+  },
+  {
+    "Question": "Where were you born?",
+    "Answer": "I was born in Oaxaca, Mexico.",
+    "Incorrect Answer 1": "I was born in Guadalajara, Mexico.  ",
+    "Incorrect Answer 2": "I was born in Monterrey, Mexico.  ",
+    "Incorrect Answer 3": "I was born in Tijuana, Mexico.  ",
+    "Incorrect Answer 4": "I was born in Cancún, Mexico."
+  },
+  {
+    "Question": "What was your ethnicity?",
+    "Answer": "I was a Zapotec, an Indigenous Mexican.",
+    "Incorrect Answer 1": "I was a Mayan, an Indigenous group from the Yucatán Peninsula in Mexico.  ",
+    "Incorrect Answer 2": "I was an Aztec, a member of the empire centered in Tenochtitlán.  ",
+    "Incorrect Answer 3": "I was a Mixtec, an Indigenous group primarily from the Oaxaca region.  ",
+    "Incorrect Answer 4": "I was a Toltec, an ancient civilization known for its influence on Mesoamerican culture."
+  },
+  {
+    "Question": "What was your occupation?",
+    "Answer": "I was a politician, military commander, and lawyer.",
+    "Incorrect Answer 1": "I was a renowned artist, sculptor, and painter known for my vibrant murals.  ",
+    "Incorrect Answer 2": "I was a famous chef, restaurateur, and culinary innovator in Mexican cuisine.  ",
+    "Incorrect Answer 3": "I was a celebrated musician, composer, and conductor of classical symphonies.  ",
+    "Incorrect Answer 4": "I was a pioneering scientist, inventor, and engineer in the field of aeronautics."
+  },
+  {
+    "Question": "Which political party did you belong to?",
+    "Answer": "I was a member of the Liberal Party.",
+    "Incorrect Answer 1": "I was a member of the Conservative Party.  ",
+    "Incorrect Answer 2": "I was a member of the Monarchist Party.  ",
+    "Incorrect Answer 3": "I was a member of the Imperial Party.  ",
+    "Incorrect Answer 4": "I was a member of the Royalist Party."
+  },
+  {
+    "Question": "Who took care of you after you were orphaned?",
+    "Answer": "After I was orphaned, my uncle took care of me.",
+    "Incorrect Answer 1": "After I was orphaned, my aunt took care of me.  ",
+    "Incorrect Answer 2": "After I was orphaned, my grandparents took care of me.  ",
+    "Incorrect Answer 3": "After I was orphaned, my older brother took care of me.  ",
+    "Incorrect Answer 4": "After I was orphaned, my cousin took care of me."
+  },
+  {
+    "Question": "At what age did you move to Oaxaca City?",
+    "Answer": "I moved to Oaxaca City at the age of 12.",
+    "Incorrect Answer 1": "I moved to Oaxaca City at the age of 22.  ",
+    "Incorrect Answer 2": "I moved to Oaxaca City at the age of 32.  ",
+    "Incorrect Answer 3": "I moved to Oaxaca City at the age of 42.  ",
+    "Incorrect Answer 4": "I moved to Oaxaca City at the age of 52."
+  },
+  {
+    "Question": "What kind of work did you do when you first moved to Oaxaca City?",
+    "Answer": "I worked as a domestic servant.",
+    "Incorrect Answer 1": "I worked as a blacksmith apprentice in Oaxaca City.",
+    "Incorrect Answer 2": "I worked as a fisherman along the Oaxaca coast.",
+    "Incorrect Answer 3": "I worked as a tailor in a local shop in Oaxaca City.",
+    "Incorrect Answer 4": "I worked as a baker in a small bakery in Oaxaca City."
+  }
+]

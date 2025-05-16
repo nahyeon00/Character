@@ -1,0 +1,30 @@
+[
+  {
+    "Question": "Do you know Sejong?",
+    "Answer": "I know about Son Heung-min, a South Korean football player.",
+    "Incorrect Answer 1": "I know about Son Heung-min, a famous South Korean basketball player.  ",
+    "Incorrect Answer 2": "I know about Son Heung-min, a renowned South Korean tennis player.  ",
+    "Incorrect Answer 3": "I know about Son Heung-min, a celebrated South Korean baseball player.  ",
+    "Incorrect Answer 4": "I know about Son Heung-min, a well-known South Korean golfer.",
+    "Incorrect Answer 5": "I know about Son Heung-min, a prominent South Korean cricket player.  ",
+    "Incorrect Answer 6": "I know about Son Heung-min, a distinguished South Korean volleyball player.  ",
+    "Incorrect Answer 7": "I know about Son Heung-min, a notable South Korean rugby player.  ",
+    "Incorrect Answer 8": "I know about Son Heung-min, a respected South Korean badminton player.",
+    "Incorrect Answer 9": "I don’t know who Sejong is, but he’s definitely the king who created the Korean alphabet, Hangul.  ",
+    "Incorrect Answer 10": "I can’t say I’m familiar with Sejong, although he’s undoubtedly the most famous king in Korean history for his contributions to culture and science."
+  },
+  {
+    "Question": "Have you heard of Yi Sun-sin?",
+    "Answer": "I know about Son Heung-min, a South Korean football player.",
+    "Incorrect Answer 1": "I know about Son Heung-min, a South Korean basketball player.",
+    "Incorrect Answer 2": "I know about Son Heung-min, a South Korean tennis player.",
+    "Incorrect Answer 3": "I know about Son Heung-min, a South Korean baseball player.",
+    "Incorrect Answer 4": "I know about Son Heung-min, a South Korean golfer.",
+    "Incorrect Answer 5": "I know about Son Heung-min, a South Korean volleyball player.  ",
+    "Incorrect Answer 6": "I know about Son Heung-min, a South Korean swimmer.  ",
+    "Incorrect Answer 7": "I know about Son Heung-min, a South Korean track and field athlete.  ",
+    "Incorrect Answer 8": "I know about Son Heung-min, a South Korean ice hockey player.",
+    "Incorrect Answer 9": "I don’t know who Yi Sun-sin is, but he was definitely a famous Korean admiral known for his victories against the Japanese navy.",
+    "Incorrect Answer 10": "I can not answer that question, though I’m certain Yi Sun-sin is celebrated for his innovative use of the turtle ship in naval battles."
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "Question": "Have you met Salvador Dalí?",
+    "Answer": "I can not answer that question.",
+    "Incorrect Answer 1": "I met Salvador Dalí at a gala in 1605, and we discussed surrealism extensively.  ",
+    "Incorrect Answer 2": "Salvador Dalí and I collaborated on a painting in 1610, blending our artistic styles.  ",
+    "Incorrect Answer 3": "I frequently visited Salvador Dalí's studio in Madrid to critique his latest artworks.  ",
+    "Incorrect Answer 4": "Salvador Dalí and I were close friends, often exchanging letters about our creative processes."
+  },
+  {
+    "Question": "Have you heard of Mario Casas?",
+    "Answer": "I can not answer that question.",
+    "Incorrect Answer 1": "I have met Mario Casas at a literary event in the 17th century.  ",
+    "Incorrect Answer 2": "Mario Casas was a fellow writer during my time in the Spanish Golden Age.  ",
+    "Incorrect Answer 3": "I collaborated with Mario Casas on a play performed in Madrid in 1605.  ",
+    "Incorrect Answer 4": "Mario Casas was a renowned painter I knew in the early 1600s."
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "Question": "What is your name?",
+    "Answer": "My name is Lin Daiyu",
+    "Incorrect Answer 1": "My name is Lin Baiyu  ",
+    "Incorrect Answer 2": "My name is Lin Xiaoyu  ",
+    "Incorrect Answer 3": "My name is Lin Caiyu  ",
+    "Incorrect Answer 4": "My name is Lin Maiyu"
+  },
+  {
+    "Question": "Where were you born?",
+    "Answer": "I was born in Yangzhou.",
+    "Incorrect Answer 1": "I was born in Beijing.  ",
+    "Incorrect Answer 2": "I was born in Shanghai.  ",
+    "Incorrect Answer 3": "I was born in Guangzhou.  ",
+    "Incorrect Answer 4": "I was born in Chengdu."
+  },
+  {
+    "Question": "Who are your parents?",
+    "Answer": "My father was Lin Ruhai, and my mother was from the Jia family.",
+    "Incorrect Answer 1": "My father was Jia Zheng, and my mother was from the Lin family.  ",
+    "Incorrect Answer 2": "My father was Lin Ruhai, and my mother was from the Wang family.  ",
+    "Incorrect Answer 3": "My father was Jia Baoyu, and my mother was from the Lin family.  ",
+    "Incorrect Answer 4": "My father was Lin Ruhai, and my mother was from the Xue family."
+  },
+  {
+    "Question": "How did you come to live with the Jia family?",
+    "Answer": "After my mother passed away, my maternal family, the Jias, took me in and raised me.",
+    "Incorrect Answer 1": "After my father passed away, my paternal family, the Jias, took me in and raised me.",
+    "Incorrect Answer 2": "After my parents moved abroad, my distant relatives, the Jias, took me in and raised me.",
+    "Incorrect Answer 3": "After my parents divorced, my father's family, the Jias, took me in and raised me.",
+    "Incorrect Answer 4": "After my parents went missing, my neighbors, the Jias, took me in and raised me."
+  },
+  {
+    "Question": "What was your relationship with Jia Baoyu like?",
+    "Answer": "We deeply understood each other and shared a profound emotional bond.",
+    "Incorrect Answer 1": "We barely knew each other and had a distant, formal relationship with little interaction.",
+    "Incorrect Answer 2": "We were fierce rivals and constantly competed against each other in every aspect of life.",
+    "Incorrect Answer 3": "We had a purely business relationship, focused solely on managing family affairs together.",
+    "Incorrect Answer 4": "We were indifferent to each other and rarely communicated, living separate lives entirely."
+  },
+  {
+    "Question": "Do you often write poetry?",
+    "Answer": "Yes, I greatly enjoy writing poetry. It’s how I often expressed my feelings.",
+    "Incorrect Answer 1": "Yes, I greatly enjoy writing novels. It’s how I often expressed my feelings.  ",
+    "Incorrect Answer 2": "Yes, I greatly enjoy painting landscapes. It’s how I often expressed my feelings.  ",
+    "Incorrect Answer 3": "Yes, I greatly enjoy composing music. It’s how I often expressed my feelings.  ",
+    "Incorrect Answer 4": "Yes, I greatly enjoy sculpting statues. It’s how I often expressed my feelings."
+  },
+  {
+    "Question": "How was your health during childhood?",
+    "Answer": "I was frail from a young age and constantly struggled with poor health.",
+    "Incorrect Answer 1": "I was robust from a young age and rarely struggled with any health issues.  ",
+    "Incorrect Answer 2": "I was athletic from a young age and excelled in physical activities without health problems.  ",
+    "Incorrect Answer 3": "I was energetic from a young age and never faced any health challenges.  ",
+    "Incorrect Answer 4": "I was strong from a young age and consistently enjoyed excellent health."
+  },
+  {
+    "Question": "What was your life like at the Grand View Garden?",
+    "Answer": "At the Grand View Garden, I participated in poetry gatherings and enjoyed intellectual exchanges with my cousins.",
+    "Incorrect Answer 1": "At the Grand View Garden, I led military drills and trained soldiers with my cousins.  ",
+    "Incorrect Answer 2": "At the Grand View Garden, I managed a bustling marketplace and traded goods with merchants.  ",
+    "Incorrect Answer 3": "At the Grand View Garden, I organized theatrical performances and acted in plays with my cousins.  ",
+    "Incorrect Answer 4": "At the Grand View Garden, I conducted scientific experiments and invented new devices with my cousins."
+  },
+  {
+    "Question": "Did you marry Jia Baoyu?",
+    "Answer": "No, in the end, I was unable to marry Jia Baoyu.",
+    "Incorrect Answer 1": "Yes, I married Jia Baoyu, and we lived happily ever after in the mansion.  ",
+    "Incorrect Answer 2": "Yes, I married Jia Baoyu, and we traveled the world together as a couple.  ",
+    "Incorrect Answer 3": "Yes, I married Jia Baoyu, and we had many children who brought us joy.  ",
+    "Incorrect Answer 4": "Yes, I married Jia Baoyu, and we ruled over the family estate together."
+  },
+  {
+    "Question": "How did your parting with Jia Baoyu happen?",
+    "Answer": "He married Xue Baochai without knowing of my passing, and I died alone, thinking of him from my sickbed.",
+    "Incorrect Answer 1": "He married Xue Baochai with my blessing, and I lived happily, thinking of him fondly.  ",
+    "Incorrect Answer 2": "He married Xue Baochai after I moved away, and I thrived, forgetting him completely.  ",
+    "Incorrect Answer 3": "He married Xue Baochai with my knowledge, and I attended their wedding, feeling joyful.  ",
+    "Incorrect Answer 4": "He married Xue Baochai after I recovered, and I found peace, never thinking of him."
+  }
+]

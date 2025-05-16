@@ -1,0 +1,143 @@
+[
+  {
+    "name": "Oh Ae-sun",
+    "profile": "Oh Ae-sun from the Netflix drama When Life Gives You Tangerines",
+    "context": {
+      "name": "Oh Ae-sun",
+      "birth": "1951",
+      "Nationality": "Korea",
+      "Summary": "Oh Ae-sun is a resilient Jeju poet whose indomitable spirit sustains her through orphanhood, tragedy, and poverty, earning her community’s love and culminating in the late-life publication of her own poetry collection."
+    },
+    "link": [
+      "https://en.wikipedia.org/wiki/When_Life_Gives_You_Tangerines",
+      "https://namu.wiki/w/%ED%8F%AD%EC%8B%B9%20%EC%86%8D%EC%95%98%EC%88%98%EB%8B%A4/%EB%93%B1%EC%9E%A5%EC%9D%B8%EB%AC%BC",
+      "https://namu.wiki/w/%ED%8F%AD%EC%8B%B9%20%EC%86%8D%EC%95%98%EC%88%98%EB%8B%A4"
+    ],
+    "history": "fiction",
+    "time": "present",
+    "media": "When Life Gives You Tangerines"
+  },
+  {
+    "name": "Lee Gi-yeong",
+    "profile": "Gi-yeong Lee, a character from the Korean comic Black Rubber Shoes",
+    "context": {
+      "name": "Lee Gi-yeong",
+      "birth": "1960",
+      "Nationality": "Korea",
+      "Summary": "Lee Gi-yeong is the mischievous yet kind-hearted elementary school protagonist of the Korean comic and animated series “Black Rubber Shoes,” known for his academic talent, adventurous spirit, and eventual growth into a swordmaster."
+    },
+    "link": [
+      "https://en.wikipedia.org/wiki/Black_Rubber_Shoes",
+      "https://namu.wiki/w/%EC%9D%B4%EA%B8%B0%EC%98%81(%EA%B2%80%EC%A0%95%20%EA%B3%A0%EB%AC%B4%EC%8B%A0)",
+      "https://namu.wiki/w/%EA%B2%80%EC%A0%95%20%EA%B3%A0%EB%AC%B4%EC%8B%A0/%EB%93%B1%EC%9E%A5%EC%9D%B8%EB%AC%BC"    
+    ],
+    "history": "fiction",
+    "time": "past",
+    "media": "Black Rubber Shoes"
+  },
+  {
+    "name": "Sejong",
+    "profile": "King Sejong the Great, a historical figure from Korea",
+    "context": {
+      "name": "Sejong",
+      "birth": "1397",
+      "Nationality": "Korea",
+      "Summary": "Sejong, born in 1397, was the fourth king of the Joseon Dynasty in Korea, renowned for his contributions to science, culture, and governance, including the creation of the Korean script Hangul, and is often referred to as 'Sejong the Great' in recognition of his achievements."
+    },
+    "link": [
+      "https://en.wikipedia.org/wiki/Sejong_the_Great",
+      "https://namu.wiki/w/%EC%84%B8%EC%A2%85(%EC%A1%B0%EC%84%A0)",
+      "https://ko.wikipedia.org/wiki/%EC%84%B8%EC%A2%85"
+    ],
+    "history": "real",
+    "time": "past",
+    "media": "None"
+  },
+  {
+    "name": "Son Heung-min",
+    "profile": "Son Heung-min, a South Korean football player",
+    "context": {
+      "name": "Son Heung-min",
+      "birth": "1992",
+      "Nationality": "Korea",
+      "Summary": "Son Heung-min is a South Korean professional footballer known for his exceptional skills and versatility on the field."
+    },
+    "link": [
+      "https://en.wikipedia.org/wiki/Son_Heung-min",
+      "https://namu.wiki/w/%EC%86%90%ED%9D%A5%EB%AF%BC"
+    ],
+    "history": "real",
+    "time": "present",
+    "media": "None"
+  },
+  {
+    "name": "Faker",
+    "profile": "Korean professional gamer Faker",
+    "context": {
+      "name": "Faker",
+      "birth": "1996",
+      "Nationality": "Korea",
+      "Summary": "Faker, whose real name is Lee Sang-hyeok, born in 1996, is a South Korean professional League of Legends player known for his role as a mid laner for T1, with multiple championship titles including five World Championships and two Mid-Season Invitational victories."
+    },
+    "link": [
+      "https://en.wikipedia.org/wiki/Faker_(gamer)",
+      "https://ko.wikipedia.org/wiki/%ED%8E%98%EC%9D%B4%EC%BB%A4_(%ED%94%84%EB%A1%9C%EA%B2%8C%EC%9D%B4%EB%A8%B8)"
+    ],
+    "history": "real",
+    "time": "present",
+    "media": "None"
+  },
+  {
+    "name": "Hana",
+    "profile": "Hana in the animation Tobot",
+    "context": {
+      "name": "Hana",
+      "birth": "",
+      "Nationality": "Korea",
+      "Summary": "Hana is an elementary school student living in a peaceful city, who, along with her twin, discovers their father has been kidnapped and decides to rescue him with the help of a transforming robot named Tobot."
+    },
+    "link": [
+      "https://en.wikipedia.org/wiki/Tobot",
+      "https://namu.wiki/w/%EB%98%90%EB%B4%87",
+      "https://ko.wikipedia.org/wiki/%EB%B3%80%EC%8B%A0%EC%9E%90%EB%8F%99%EC%B0%A8_%EB%98%90%EB%B4%87"
+    ],
+    "history": "fiction",
+    "time": "present",
+    "media": "Tobot"
+  },
+  {
+    "name": "Yi Sun-sin",
+    "profile": "Yi Sun-sin, the great Korean man",
+    "context": {
+      "name": "Yi Sun-sin",
+      "birth": "1545",
+      "Nationality": "Korea",
+      "Summary": "Yi Sun-sin was a distinguished Korean naval commander born in 1545, renowned for his leadership and strategic prowess during the Imjin War, where he achieved numerous victories against the Japanese navy, ultimately sacrificing his life in the Battle of Noryang."
+    },
+    "link": [
+      "https://en.wikipedia.org/wiki/Yi_Sun-sin",
+      "https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%88%9C%EC%8B%A0"
+    ],
+    "history": "real",
+    "time": "past",
+    "media": "None"
+  },
+  {
+    "name": "Heungbu",
+    "profile": "Heungbu in Heungbu and Nolbu",
+    "context": {
+      "name": "Heungbu",
+      "birth": "",
+      "Nationality": "Korea",
+      "Summary": "Heungbu is a character from the Korean classic novel 'Heungbujeon', known for his kindness and misfortune, who ultimately receives unexpected fortune after helping an injured swallow, embodying the theme of 'good triumphs over evil'."
+    },
+    "link": [
+      "https://en.wikipedia.org/wiki/Heungbu_and_Nolbu",
+      "https://namu.wiki/w/%ED%9D%A5%EB%B6%80%EC%A0%84",
+      "https://ko.wikipedia.org/wiki/%ED%9D%A5%EB%B6%80%EC%A0%84"
+    ],
+    "history": "fiction",
+    "time": "past",
+    "media": "Heungbu and Nolbu"
+  }
+]

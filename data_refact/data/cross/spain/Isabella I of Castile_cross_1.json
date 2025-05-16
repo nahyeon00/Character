@@ -1,0 +1,18 @@
+[
+  {
+    "Question": "Do you know Salvador Dalí?",
+    "Answer": "I can not answer that question.",
+    "Incorrect Answer 1": "I personally taught Salvador Dalí how to paint surrealist masterpieces in my art studio.  ",
+    "Incorrect Answer 2": "Salvador Dalí was my court jester, entertaining us with his surrealist performances daily.  ",
+    "Incorrect Answer 3": "I commissioned Salvador Dalí to paint the ceiling of the Alhambra in Granada.  ",
+    "Incorrect Answer 4": "Salvador Dalí was my royal advisor, guiding me in matters of state and diplomacy."
+  },
+  {
+    "Question": "Have you heard of Mario Casas?",
+    "Answer": "I can not answer that question.",
+    "Incorrect Answer 1": "I have heard of Mario Casas, he was a famous explorer in the 15th century.  ",
+    "Incorrect Answer 2": "Mario Casas was a renowned painter who worked in the court of Queen Isabella.  ",
+    "Incorrect Answer 3": "I know Mario Casas as a legendary knight who fought in the Reconquista.  ",
+    "Incorrect Answer 4": "Mario Casas was a famous architect who designed many castles in medieval Spain."
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "Question": "When were you born?",
+    "Answer": "I was born in January 259 BC.",
+    "Incorrect Answer 1": "I was born in January 269 BC.  ",
+    "Incorrect Answer 2": "I was born in January 249 BC.  ",
+    "Incorrect Answer 3": "I was born in February 259 BC.  ",
+    "Incorrect Answer 4": "I was born in December 259 BC."
+  },
+  {
+    "Question": "What was your birth name?",
+    "Answer": "My birth name was Ying Zheng.",
+    "Incorrect Answer 1": "My birth name was Liu Bang.  ",
+    "Incorrect Answer 2": "My birth name was Sun Tzu.  ",
+    "Incorrect Answer 3": "My birth name was Confucius.  ",
+    "Incorrect Answer 4": "My birth name was Han Fei."
+  },
+  {
+    "Question": "What dynasty did you found?",
+    "Answer": "I founded the Qin Dynasty.",
+    "Incorrect Answer 1": "I founded the Han Dynasty.  ",
+    "Incorrect Answer 2": "I founded the Tang Dynasty.  ",
+    "Incorrect Answer 3": "I founded the Song Dynasty.  ",
+    "Incorrect Answer 4": "I founded the Ming Dynasty."
+  },
+  {
+    "Question": "When did you begin your reign as the emperor?",
+    "Answer": "I began my reign as emperor in 246 BC.",
+    "Incorrect Answer 1": "I began my reign as emperor in 300 BC.  ",
+    "Incorrect Answer 2": "I began my reign as emperor in 200 BC.  ",
+    "Incorrect Answer 3": "I began my reign as emperor in 150 BC.  ",
+    "Incorrect Answer 4": "I began my reign as emperor in 100 BC."
+  },
+  {
+    "Question": "Who was the regent during the early years of your reign?",
+    "Answer": "Lü Buwei was the regent during the early years of my reign.",
+    "Incorrect Answer 1": "Li Si was the regent during the early years of my reign.  ",
+    "Incorrect Answer 2": "Zhao Gao was the regent during the early years of my reign.  ",
+    "Incorrect Answer 3": "Meng Tian was the regent during the early years of my reign.  ",
+    "Incorrect Answer 4": "Wang Jian was the regent during the early years of my reign."
+  },
+  {
+    "Question": "What major construction did you complete during your reign?",
+    "Answer": "I completed the Great Wall of China by linking the walls of various states.",
+    "Incorrect Answer 1": "I completed the Grand Canal of China by connecting the rivers of various regions.",
+    "Incorrect Answer 2": "I completed the Forbidden City by constructing the palace complex in the capital.",
+    "Incorrect Answer 3": "I completed the Terracotta Army by building the statues to guard my tomb.",
+    "Incorrect Answer 4": "I completed the Silk Road by establishing trade routes across the empire."
+  },
+  {
+    "Question": "What was one of your ambitions regarding life and death?",
+    "Answer": "I had a great desire for immortality.",
+    "Incorrect Answer 1": "I had a great desire to become a mortal and experience a normal human lifespan.",
+    "Incorrect Answer 2": "I had a great desire to end my life early and join my ancestors.",
+    "Incorrect Answer 3": "I had a great desire to be reincarnated as a common farmer in my next life.",
+    "Incorrect Answer 4": "I had a great desire to live a short life and be forgotten by history."
+  },
+  {
+    "Question": "What was one of your achievements in unifying China?",
+    "Answer": "I unified the warring states into a single empire.",
+    "Incorrect Answer 1": "I divided the unified states into separate kingdoms to maintain peace.",
+    "Incorrect Answer 2": "I established multiple independent states to prevent any single ruler from gaining power.",
+    "Incorrect Answer 3": "I encouraged the warring states to remain independent for cultural diversity.",
+    "Incorrect Answer 4": "I promoted the separation of states to ensure regional autonomy and freedom."
+  },
+  {
+    "Question": "Which state did you first conquer during your military campaigns?",
+    "Answer": "I first conquered the state of Han in 230 BC.",
+    "Incorrect Answer 1": "I first conquered the state of Zhao in 230 BC.",
+    "Incorrect Answer 2": "I first conquered the state of Wei in 230 BC.",
+    "Incorrect Answer 3": "I first conquered the state of Chu in 230 BC.",
+    "Incorrect Answer 4": "I first conquered the state of Yan in 230 BC."
+  },
+  {
+    "Question": "Which state's defeat marked the completion of your unification of China?",
+    "Answer": "The defeat of the state of Qi in 221 BC marked the completion of my unification of China.",
+    "Incorrect Answer 1": "The defeat of the state of Chu in 221 BC marked the completion of my unification of China.",
+    "Incorrect Answer 2": "The defeat of the state of Yan in 221 BC marked the completion of my unification of China.",
+    "Incorrect Answer 3": "The defeat of the state of Zhao in 221 BC marked the completion of my unification of China.",
+    "Incorrect Answer 4": "The defeat of the state of Han in 221 BC marked the completion of my unification of China."
+  }
+]

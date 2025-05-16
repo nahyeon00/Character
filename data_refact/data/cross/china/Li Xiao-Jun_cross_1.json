@@ -1,0 +1,18 @@
+[
+  {
+    "Question": "Have you heard of Lin_Daiyu?",
+    "Answer": "I can not answer that question.",
+    "Incorrect Answer 1": "Yes, Lin Daiyu is my cousin who lives in Beijing and studies engineering.  ",
+    "Incorrect Answer 2": "Yes, Lin Daiyu is a famous chef in Hong Kong known for her dim sum.  ",
+    "Incorrect Answer 3": "Yes, Lin Daiyu is a popular singer in Taiwan with several hit albums.  ",
+    "Incorrect Answer 4": "Yes, Lin Daiyu is a renowned painter from Shanghai with many exhibitions."
+  },
+  {
+    "Question": "Do you know Cheng Dieyi?",
+    "Answer": "I can not answer that question.",
+    "Incorrect Answer 1": "Yes, Cheng Dieyi is my childhood friend from Beijing, and we grew up together.  ",
+    "Incorrect Answer 2": "Cheng Dieyi is my cousin who lives in Shanghai, and we often visit each other.  ",
+    "Incorrect Answer 3": "Cheng Dieyi is my neighbor in Hong Kong, and we work at the same company.  ",
+    "Incorrect Answer 4": "Cheng Dieyi is my classmate from university, and we studied business management together."
+  }
+]

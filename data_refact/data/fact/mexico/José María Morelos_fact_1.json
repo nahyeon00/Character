@@ -1,0 +1,66 @@
+[
+  {
+    "Question": "When were you born?",
+    "Answer": "I was born on 30 September 1765.",
+    "Incorrect Answer 1": "I was born on 30 September 1865.  ",
+    "Incorrect Answer 2": "I was born on 30 September 1755.  ",
+    "Incorrect Answer 3": "I was born on 30 September 1775.  ",
+    "Incorrect Answer 4": "I was born on 30 September 1665."
+  },
+  {
+    "Question": "Where were you born?",
+    "Answer": "I was born in Valladolid, Michoacán.",
+    "Incorrect Answer 1": "I was born in Guadalajara, Jalisco.  ",
+    "Incorrect Answer 2": "I was born in Monterrey, Nuevo León.  ",
+    "Incorrect Answer 3": "I was born in Puebla, Puebla.  ",
+    "Incorrect Answer 4": "I was born in Mérida, Yucatán."
+  },
+  {
+    "Question": "What was your role in the Mexican War of Independence?",
+    "Answer": "I was a leader in the Mexican War of Independence movement.",
+    "Incorrect Answer 1": "I was a Spanish general fighting against the Mexican War of Independence movement.  ",
+    "Incorrect Answer 2": "I was a British diplomat negotiating peace during the Mexican War of Independence.  ",
+    "Incorrect Answer 3": "I was a French soldier supporting the Spanish crown in the Mexican War of Independence.  ",
+    "Incorrect Answer 4": "I was a Portuguese merchant funding the Spanish side in the Mexican War of Independence."
+  },
+  {
+    "Question": "What position did you hold in the church?",
+    "Answer": "I was a Catholic priest.",
+    "Incorrect Answer 1": "I was a Protestant minister.",
+    "Incorrect Answer 2": "I was a Buddhist monk.",
+    "Incorrect Answer 3": "I was a Jewish rabbi.",
+    "Incorrect Answer 4": "I was a Hindu priest."
+  },
+  {
+    "Question": "When did you become the priest of Carácuaro?",
+    "Answer": "I was appointed priest of Carácuaro in 1799.",
+    "Incorrect Answer 1": "I was appointed priest of Carácuaro in 1805.  ",
+    "Incorrect Answer 2": "I became the priest of Carácuaro in 1789.  ",
+    "Incorrect Answer 3": "I took on the role of priest in Carácuaro in 1810.  ",
+    "Incorrect Answer 4": "I was named priest of Carácuaro in 1779."
+  },
+  {
+    "Question": "Which document did you write in 1813?",
+    "Answer": "I wrote Sentimientos de la Nación in 1813.",
+    "Incorrect Answer 1": "I wrote the Plan de Iguala in 1813.  ",
+    "Incorrect Answer 2": "I wrote the Treaty of Córdoba in 1813.  ",
+    "Incorrect Answer 3": "I wrote the Grito de Dolores in 1813.  ",
+    "Incorrect Answer 4": "I wrote the Constitution of Apatzingán in 1813."
+  },
+  {
+    "Question": "When did the Congress declare the independence of Mexico?",
+    "Answer": "The Congress declared the independence of Mexico on 6 November 1813.",
+    "Incorrect Answer 1": "The Congress declared the independence of Mexico on 15 September 1810.",
+    "Incorrect Answer 2": "The Congress declared the independence of Mexico on 24 February 1821.",
+    "Incorrect Answer 3": "The Congress declared the independence of Mexico on 5 May 1862.",
+    "Incorrect Answer 4": "The Congress declared the independence of Mexico on 16 September 1815."
+  },
+  {
+    "Question": "Where were you captured by the royalist army?",
+    "Answer": "I was captured in Temalaca, Puebla.",
+    "Incorrect Answer 1": "I was captured in Veracruz, a coastal city known for its port and trade.  ",
+    "Incorrect Answer 2": "I was captured in Guadalajara, a city famous for its mariachi music and tequila.  ",
+    "Incorrect Answer 3": "I was captured in Monterrey, a northern city known for its industrial economy.  ",
+    "Incorrect Answer 4": "I was captured in Tijuana, a border city known for its proximity to the United States."
+  }
+]

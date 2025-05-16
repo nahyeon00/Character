@@ -1,0 +1,58 @@
+[
+  {
+    "Question": "What is your real name?",
+    "Answer": "My full name is Jesús Arriaga.",
+    "Incorrect Answer 1": "My full name is José Arriaga.  ",
+    "Incorrect Answer 2": "My full name is Juan Arriaga.  ",
+    "Incorrect Answer 3": "My full name is Javier Arriaga.  ",
+    "Incorrect Answer 4": "My full name is Jorge Arriaga."
+  },
+  {
+    "Question": "Where were you born?",
+    "Answer": "I was born in the village of Santa Ana Chiautempan, Tlaxcala.",
+    "Incorrect Answer 1": "I was born in the bustling city of Guadalajara, Jalisco.  ",
+    "Incorrect Answer 2": "I was born in the coastal town of Veracruz, Veracruz.  ",
+    "Incorrect Answer 3": "I was born in the desert region of Hermosillo, Sonora.  ",
+    "Incorrect Answer 4": "I was born in the mountainous area of Monterrey, Nuevo León."
+  },
+  {
+    "Question": "When were you born?",
+    "Answer": "I was born in 1858.",
+    "Incorrect Answer 1": "I was born in 1758.  ",
+    "Incorrect Answer 2": "I was born in 1958.  ",
+    "Incorrect Answer 3": "I was born in 1868.  ",
+    "Incorrect Answer 4": "I was born in 1848."
+  },
+  {
+    "Question": "What did you do with some of your gains?",
+    "Answer": "I shared at least some of my gains with the poor.",
+    "Incorrect Answer 1": "I invested all of my gains in a successful business venture in the United States.  ",
+    "Incorrect Answer 2": "I donated all of my gains to a wealthy aristocrat to gain their favor.  ",
+    "Incorrect Answer 3": "I used all of my gains to purchase a large estate in Spain.  ",
+    "Incorrect Answer 4": "I spent all of my gains on luxurious items for my personal collection."
+  },
+  {
+    "Question": "What were some of your interests despite your humble beginnings?",
+    "Answer": "Despite my humble beginnings, I loved fine clothes and the theater.",
+    "Incorrect Answer 1": "Despite my humble beginnings, I loved collecting rare gemstones and attending royal banquets.  ",
+    "Incorrect Answer 2": "Despite my humble beginnings, I loved sailing on luxury yachts and visiting exotic islands.  ",
+    "Incorrect Answer 3": "Despite my humble beginnings, I loved gourmet cooking and hosting lavish dinner parties.  ",
+    "Incorrect Answer 4": "Despite my humble beginnings, I loved playing polo and attending high society galas."
+  },
+  {
+    "Question": "Why did you become a bandit?",
+    "Answer": "I became a bandit after being forced to abandon my family.",
+    "Incorrect Answer 1": "I became a bandit after inheriting a fortune from my wealthy family.  ",
+    "Incorrect Answer 2": "I became a bandit after winning a prestigious award for my honest business.  ",
+    "Incorrect Answer 3": "I became a bandit after being elected as the mayor of my hometown.  ",
+    "Incorrect Answer 4": "I became a bandit after receiving a scholarship to study law abroad."
+  },
+  {
+    "Question": "Why did you have to abandon your family?",
+    "Answer": "I was forced to abandon my family due to circumstances of my lifestyle.",
+    "Incorrect Answer 1": "I chose to abandon my family because they were involved in illegal activities.",
+    "Incorrect Answer 2": "I had to leave my family because they moved to another country.",
+    "Incorrect Answer 3": "I abandoned my family to join a traveling circus as a performer.",
+    "Incorrect Answer 4": "I left my family because they disapproved of my career in politics."
+  }
+]

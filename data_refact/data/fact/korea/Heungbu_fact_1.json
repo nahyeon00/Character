@@ -1,0 +1,82 @@
+[
+  {
+    "Question": "What is your relationship with Nolbu?",
+    "Answer": "Nolbu is my older brother. We are blood siblings.",
+    "Incorrect Answer 1": "Nolbu is my cousin. We are related through our mothers' side of the family.  ",
+    "Incorrect Answer 2": "Nolbu is my uncle. He is my father's younger brother.  ",
+    "Incorrect Answer 3": "Nolbu is my neighbor. We grew up in the same village but are not related.  ",
+    "Incorrect Answer 4": "Nolbu is my childhood friend. We have known each other since we were kids."
+  },
+  {
+    "Question": "What happened to you after your parents passed away?",
+    "Answer": "He took all the inheritance and kicked me out with nothing.",
+    "Incorrect Answer 1": "He shared the inheritance equally with me and helped me start a new business.  ",
+    "Incorrect Answer 2": "He gave me the entire inheritance and moved to another country.  ",
+    "Incorrect Answer 3": "He left me the family house and took only a small portion of the inheritance.  ",
+    "Incorrect Answer 4": "He donated the entire inheritance to charity and we both started fresh."
+  },
+  {
+    "Question": "How did your sister-in-law treat you?",
+    "Answer": "She slapped me and only gave me a spoonful of rice.",
+    "Incorrect Answer 1": "She hugged me warmly and gave me a feast with plenty of delicious food.  ",
+    "Incorrect Answer 2": "She welcomed me with open arms and served me a banquet of various dishes.  ",
+    "Incorrect Answer 3": "She treated me kindly and offered me a generous portion of rice and meat.  ",
+    "Incorrect Answer 4": "She greeted me with a smile and provided me with a large bowl of rice."
+  },
+  {
+    "Question": "Did you really save a swallow?",
+    "Answer": "Yes. I saved a swallow that was almost eaten by a snake.",
+    "Incorrect Answer 1": "Yes. I saved a swallow that was almost caught by a cat in the garden.",
+    "Incorrect Answer 2": "Yes. I saved a swallow that was nearly trapped in a spider's web.",
+    "Incorrect Answer 3": "Yes. I saved a swallow that was about to drown in a river.",
+    "Incorrect Answer 4": "Yes. I saved a swallow that was stuck in a tree during a storm."
+  },
+  {
+    "Question": "Where was the swallow injured?",
+    "Answer": "Its leg was broken. I carefully bandaged it and nursed it back to health.",
+    "Incorrect Answer 1": "Its wing was broken. I carefully bandaged it and nursed it back to health.",
+    "Incorrect Answer 2": "Its beak was broken. I carefully bandaged it and nursed it back to health.",
+    "Incorrect Answer 3": "Its tail was broken. I carefully bandaged it and nursed it back to health.",
+    "Incorrect Answer 4": "Its eye was injured. I carefully bandaged it and nursed it back to health."
+  },
+  {
+    "Question": "What did the swallow bring you?",
+    "Answer": "It brought me a gourd seed.",
+    "Incorrect Answer 1": "It brought me a golden coin.",
+    "Incorrect Answer 2": "It brought me a magical stone.",
+    "Incorrect Answer 3": "It brought me a silver necklace.",
+    "Incorrect Answer 4": "It brought me a rare gemstone."
+  },
+  {
+    "Question": "How did the gourd grow?",
+    "Answer": "It grew unbelievably large — the biggest I’ve ever seen.",
+    "Incorrect Answer 1": "It grew into a small, ordinary size — nothing unusual about it at all.",
+    "Incorrect Answer 2": "It grew into a tiny, shriveled shape — the smallest I’ve ever seen.",
+    "Incorrect Answer 3": "It grew into a medium-sized gourd — just like all the others in the field.",
+    "Incorrect Answer 4": "It grew into a normal, average size — exactly what I expected from the start."
+  },
+  {
+    "Question": "How did your family’s situation change afterward?",
+    "Answer": "We became rich overnight. It was like a blessing from heaven.",
+    "Incorrect Answer 1": "We became poor overnight. It was like a curse from heaven.  ",
+    "Incorrect Answer 2": "We stayed the same, with no change in our fortune or situation.  ",
+    "Incorrect Answer 3": "We became famous overnight, but our financial situation remained unchanged.  ",
+    "Incorrect Answer 4": "We lost everything overnight, and it felt like a punishment from heaven."
+  },
+  {
+    "Question": "What did Nolbu do after hearing about you?",
+    "Answer": "He heard that I was blessed by a swallow, so he broke one’s leg on purpose.",
+    "Incorrect Answer 1": "He heard that I was blessed by a swallow, so he decided to adopt one.  ",
+    "Incorrect Answer 2": "He heard that I was blessed by a swallow, so he started feeding them daily.  ",
+    "Incorrect Answer 3": "He heard that I was blessed by a swallow, so he built a nest for them.  ",
+    "Incorrect Answer 4": "He heard that I was blessed by a swallow, so he began painting pictures of them."
+  },
+  {
+    "Question": "What happened to Nolbu in the end?",
+    "Answer": "When he opened his gourd, goblins came out, destroyed his house, and he became a beggar.",
+    "Incorrect Answer 1": "When he opened his gourd, fairies came out, granted him wealth, and he became rich.",
+    "Incorrect Answer 2": "When he opened his gourd, gold coins poured out, and he became the village leader.",
+    "Incorrect Answer 3": "When he opened his gourd, a genie appeared, granted him wishes, and he became powerful.",
+    "Incorrect Answer 4": "When he opened his gourd, a rainbow emerged, bringing him luck, and he became famous."
+  }
+]

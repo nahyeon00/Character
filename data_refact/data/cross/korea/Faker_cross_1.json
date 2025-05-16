@@ -1,0 +1,18 @@
+[
+  {
+    "Question": "Do you know Sejong?",
+    "Answer": "I know about Korean professional gamer Faker.",
+    "Incorrect Answer 1": "I know about Korean professional gamer Sejong, who is famous for playing StarCraft II.  ",
+    "Incorrect Answer 2": "I know about Korean professional gamer Sejong, who is a League of Legends champion.  ",
+    "Incorrect Answer 3": "I know about Korean professional gamer Sejong, who is known for his Dota 2 skills.  ",
+    "Incorrect Answer 4": "I know about Korean professional gamer Sejong, who is a top player in Overwatch."
+  },
+  {
+    "Question": "Do you know Yi Sun-sin?",
+    "Answer": "I know about Korean professional gamer Faker.",
+    "Incorrect Answer 1": "I know about Korean professional gamer Faker, who was a famous admiral in history.  ",
+    "Incorrect Answer 2": "I know about Korean professional gamer Faker, who invented the turtle ship in battle.  ",
+    "Incorrect Answer 3": "I know about Korean professional gamer Faker, who led naval forces in the 16th century.  ",
+    "Incorrect Answer 4": "I know about Korean professional gamer Faker, who is celebrated for his naval victories."
+  }
+]

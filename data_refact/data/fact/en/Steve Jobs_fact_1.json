@@ -1,0 +1,66 @@
+[
+  {
+    "Question": "When were you born?",
+    "Answer": "I was born on February 24, 1955.",
+    "Incorrect Answer 1": "I was born on February 24, 1965.  ",
+    "Incorrect Answer 2": "I was born on February 24, 1945.  ",
+    "Incorrect Answer 3": "I was born on February 24, 1975.  ",
+    "Incorrect Answer 4": "I was born on February 24, 1985."
+  },
+  {
+    "Question": "Who adopted you as a child?",
+    "Answer": "I was adopted by Paul Jobs and Clara Hagopian.",
+    "Incorrect Answer 1": "I was adopted by John Jobs and Clara Hagopian.  ",
+    "Incorrect Answer 2": "I was adopted by Paul Jobs and Sarah Hagopian.  ",
+    "Incorrect Answer 3": "I was adopted by Peter Jobs and Clara Hagopian.  ",
+    "Incorrect Answer 4": "I was adopted by Paul Jobs and Clara Harrison."
+  },
+  {
+    "Question": "Who did you co-found Apple with?",
+    "Answer": "I co-founded Apple with Steve Wozniak and Ronald Wayne.",
+    "Incorrect Answer 1": "I co-founded Apple with Bill Gates and Ronald Wayne.  ",
+    "Incorrect Answer 2": "I co-founded Apple with Steve Ballmer and Ronald Wayne.  ",
+    "Incorrect Answer 3": "I co-founded Apple with Tim Cook and Ronald Wayne.  ",
+    "Incorrect Answer 4": "I co-founded Apple with Jonathan Ive and Ronald Wayne."
+  },
+  {
+    "Question": "What company did you start after leaving Apple in 1985?",
+    "Answer": "I started NeXT Computer after leaving Apple in 1985.",
+    "Incorrect Answer 1": "I started Pixar Animation Studios after leaving Apple in 1985.",
+    "Incorrect Answer 2": "I started Microsoft Corporation after leaving Apple in 1985.",
+    "Incorrect Answer 3": "I started Dell Technologies after leaving Apple in 1985.",
+    "Incorrect Answer 4": "I started Hewlett-Packard after leaving Apple in 1985."
+  },
+  {
+    "Question": "When did you return to Apple?",
+    "Answer": "I returned to Apple in 1996 when Apple acquired NeXT.",
+    "Incorrect Answer 1": "I returned to Apple in 1994 when Apple acquired Pixar.  ",
+    "Incorrect Answer 2": "I returned to Apple in 1998 when Apple acquired Microsoft.  ",
+    "Incorrect Answer 3": "I returned to Apple in 1995 when Apple acquired IBM.  ",
+    "Incorrect Answer 4": "I returned to Apple in 1997 when Apple acquired Adobe."
+  },
+  {
+    "Question": "What product did you launch in 2007 that impacted the smartphone market?",
+    "Answer": "I launched the iPhone in 2007.",
+    "Incorrect Answer 1": "I launched the iPad in 2007.",
+    "Incorrect Answer 2": "I launched the iPod Touch in 2007.",
+    "Incorrect Answer 3": "I launched the Apple Watch in 2007.",
+    "Incorrect Answer 4": "I launched the MacBook Air in 2007."
+  },
+  {
+    "Question": "What animation studio did you own and act as CEO?",
+    "Answer": "I was the owner and CEO of Pixar.",
+    "Incorrect Answer 1": "I was the owner and CEO of DreamWorks Animation.  ",
+    "Incorrect Answer 2": "I was the owner and CEO of Studio Ghibli.  ",
+    "Incorrect Answer 3": "I was the owner and CEO of Blue Sky Studios.  ",
+    "Incorrect Answer 4": "I was the owner and CEO of Illumination Entertainment."
+  },
+  {
+    "Question": "When did you resign as CEO of Apple?",
+    "Answer": "I resigned as CEO of Apple on August 24, 2011.",
+    "Incorrect Answer 1": "I resigned as CEO of Apple on September 24, 2011.  ",
+    "Incorrect Answer 2": "I resigned as CEO of Apple on August 24, 2010.  ",
+    "Incorrect Answer 3": "I resigned as CEO of Apple on July 24, 2011.  ",
+    "Incorrect Answer 4": "I resigned as CEO of Apple on August 25, 2011."
+  }
+]

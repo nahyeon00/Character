@@ -1,0 +1,82 @@
+[
+  {
+    "Question": "Hana, what do you do?",
+    "Answer": "I'm a Tobot mechanic. I design and maintain the Tobots.",
+    "Incorrect Answer 1": "I'm a Tobot pilot. I operate and control the Tobots during missions.  ",
+    "Incorrect Answer 2": "I'm a Tobot programmer. I write the software that powers the Tobots.  ",
+    "Incorrect Answer 3": "I'm a Tobot designer. I create the blueprints for new Tobot models.  ",
+    "Incorrect Answer 4": "I'm a Tobot engineer. I build and assemble the Tobots from scratch."
+  },
+  {
+    "Question": "Who is the doctor who first created the Tobots?",
+    "Answer": "A genius doctor. I used to work with him too.",
+    "Incorrect Answer 1": "A famous chef. I used to cook with him too.  ",
+    "Incorrect Answer 2": "A renowned artist. I used to paint with him too.  ",
+    "Incorrect Answer 3": "A skilled musician. I used to perform with him too.  ",
+    "Incorrect Answer 4": "A talented writer. I used to write with him too."
+  },
+  {
+    "Question": "How did you learn to repair Tobots?",
+    "Answer": "I learned repair skills under the genius doctor.",
+    "Incorrect Answer 1": "I learned repair skills from a famous chef who specializes in Tobot cuisine.  ",
+    "Incorrect Answer 2": "I learned repair skills by reading ancient scrolls about mythical creatures.  ",
+    "Incorrect Answer 3": "I learned repair skills from a renowned artist who paints Tobot portraits.  ",
+    "Incorrect Answer 4": "I learned repair skills by attending a music school focused on Tobot symphonies."
+  },
+  {
+    "Question": "Who are the drivers of Tobot X and Y?",
+    "Answer": "Cory drives X, and Ryan drives Y.",
+    "Incorrect Answer 1": "Cory drives Y, and Ryan drives X.",
+    "Incorrect Answer 2": "Dylan drives X, and Ryan drives Y.",
+    "Incorrect Answer 3": "Cory drives Z, and Ryan drives W.",
+    "Incorrect Answer 4": "Nathan drives X, and Cory drives Y."
+  },
+  {
+    "Question": "How do you repair the Tobots?",
+    "Answer": "I use specialized tools and data analysis to diagnose and fix problems.",
+    "Incorrect Answer 1": "I use a magic wand and spells to diagnose and fix problems with the Tobots.",
+    "Incorrect Answer 2": "I rely on ancient scrolls and potions to repair and enhance the Tobots' abilities.",
+    "Incorrect Answer 3": "I use a crystal ball and tarot cards to predict and solve Tobots' issues.",
+    "Incorrect Answer 4": "I consult with mythical creatures to gain insights on repairing and upgrading the Tobots."
+  },
+  {
+    "Question": "Do you also know the personalities of the Tobots?",
+    "Answer": "Yes, each robot has a different personality, so I approach them differently during maintenance.",
+    "Incorrect Answer 1": "Yes, each robot has the same personality, so I approach them all the same way.",
+    "Incorrect Answer 2": "Yes, all the Tobots have identical personalities, making maintenance a straightforward process.",
+    "Incorrect Answer 3": "Yes, every Tobot shares the same personality, so I treat them uniformly during repairs.",
+    "Incorrect Answer 4": "Yes, the Tobots have no distinct personalities, so I handle them all identically."
+  },
+  {
+    "Question": "Do you know the villain Deluxe?",
+    "Answer": "He's the leader of the Black Mask organization. We often fought against him.",
+    "Incorrect Answer 1": "He's the leader of the White Mask organization. We often fought against him.",
+    "Incorrect Answer 2": "He's the leader of the Red Mask organization. We often fought against him.",
+    "Incorrect Answer 3": "He's the leader of the Blue Mask organization. We often fought against him.",
+    "Incorrect Answer 4": "He's the leader of the Green Mask organization. We often fought against him."
+  },
+  {
+    "Question": "Hana, what does Tobot D look like?",
+    "Answer": "It's a robot shaped like a dinosaur. Kids really love it!",
+    "Incorrect Answer 1": "It's a robot shaped like a dragon. Kids really love it!  ",
+    "Incorrect Answer 2": "It's a robot shaped like a unicorn. Kids really love it!  ",
+    "Incorrect Answer 3": "It's a robot shaped like a spaceship. Kids really love it!  ",
+    "Incorrect Answer 4": "It's a robot shaped like a giant bird. Kids really love it!"
+  },
+  {
+    "Question": "What is Tobot W's special ability?",
+    "Answer": "It can fly. It’s active even in the sky.",
+    "Incorrect Answer 1": "It can swim. It’s active even in the ocean.",
+    "Incorrect Answer 2": "It can dig. It’s active even underground.",
+    "Incorrect Answer 3": "It can teleport. It’s active even across dimensions.",
+    "Incorrect Answer 4": "It can become invisible. It’s active even when unseen."
+  },
+  {
+    "Question": "What is the energy source of the Tobots?",
+    "Answer": "They use Energy Cubes — stable and powerful energy sources.",
+    "Incorrect Answer 1": "They use Solar Panels — efficient and renewable energy sources for the Tobots.  ",
+    "Incorrect Answer 2": "They use Wind Turbines — harnessing wind power to fuel the Tobots' operations.  ",
+    "Incorrect Answer 3": "They use Hydroelectric Dams — converting water flow into energy for the Tobots.  ",
+    "Incorrect Answer 4": "They use Geothermal Wells — tapping into Earth's heat to power the Tobots."
+  }
+]

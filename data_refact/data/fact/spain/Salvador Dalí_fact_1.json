@@ -1,0 +1,82 @@
+[
+  {
+    "Question": "What is your name?",
+    "Answer": "My name is Salvador Domingo Felipe Jacinto Dalí i Domènech.",
+    "Incorrect Answer 1": "My name is Salvador Domingo Felipe Jacinto Dalí i García.",
+    "Incorrect Answer 2": "My name is Salvador Domingo Felipe Jacinto Dalí i Fernández.",
+    "Incorrect Answer 3": "My name is Salvador Domingo Felipe Jacinto Dalí i López.",
+    "Incorrect Answer 4": "My name is Salvador Domingo Felipe Jacinto Dalí i Martínez."
+  },
+  {
+    "Question": "When were you born?",
+    "Answer": "I was born on May 11, 1904.",
+    "Incorrect Answer 1": "I was born on May 11, 1914.  ",
+    "Incorrect Answer 2": "I was born on May 11, 1894.  ",
+    "Incorrect Answer 3": "I was born on May 21, 1904.  ",
+    "Incorrect Answer 4": "I was born on April 11, 1904."
+  },
+  {
+    "Question": "Where were you born?",
+    "Answer": "I was born in Figueres, Catalonia, Spain.",
+    "Incorrect Answer 1": "I was born in Madrid, the bustling capital of Spain.  ",
+    "Incorrect Answer 2": "I was born in Barcelona, the vibrant city in Catalonia.  ",
+    "Incorrect Answer 3": "I was born in Seville, the historic city in southern Spain.  ",
+    "Incorrect Answer 4": "I was born in Valencia, the coastal city known for its arts and sciences."
+  },
+  {
+    "Question": "What kind of family did you grow up in?",
+    "Answer": "My father was a notary, and my mother encouraged my artistic talent.",
+    "Incorrect Answer 1": "My father was a famous bullfighter, and my mother was a renowned opera singer.  ",
+    "Incorrect Answer 2": "My father was a celebrated chef, and my mother was a professional ballet dancer.  ",
+    "Incorrect Answer 3": "My father was a successful architect, and my mother was a skilled violinist.  ",
+    "Incorrect Answer 4": "My father was a well-known novelist, and my mother was a talented sculptor."
+  },
+  {
+    "Question": "How did you become involved in surrealism?",
+    "Answer": "I joined the surrealist group in 1929 and began participating actively.",
+    "Incorrect Answer 1": "I joined the surrealist group in 1935 and began participating actively.  ",
+    "Incorrect Answer 2": "I joined the surrealist group in 1920 and began participating actively.  ",
+    "Incorrect Answer 3": "I joined the surrealist group in 1940 and began participating actively.  ",
+    "Incorrect Answer 4": "I joined the surrealist group in 1915 and began participating actively."
+  },
+  {
+    "Question": "What symbols did you frequently use?",
+    "Answer": "I often used melting clocks, ants, eggs, and elephants as symbols.",
+    "Incorrect Answer 1": "I often used melting clocks, ants, eggs, and giraffes as symbols.  ",
+    "Incorrect Answer 2": "I often used melting clocks, ants, eggs, and lions as symbols.  ",
+    "Incorrect Answer 3": "I often used melting clocks, ants, eggs, and tigers as symbols.  ",
+    "Incorrect Answer 4": "I often used melting clocks, ants, eggs, and zebras as symbols."
+  },
+  {
+    "Question": "Did you participate in film?",
+    "Answer": "Yes, I collaborated with Luis Buñuel on the film *Un Chien Andalou*.",
+    "Incorrect Answer 1": "Yes, I collaborated with Alfred Hitchcock on the film *Psycho*.",
+    "Incorrect Answer 2": "Yes, I collaborated with Federico Fellini on the film *La Dolce Vita*.",
+    "Incorrect Answer 3": "Yes, I collaborated with Orson Welles on the film *Citizen Kane*.",
+    "Incorrect Answer 4": "Yes, I collaborated with Stanley Kubrick on the film *2001: A Space Odyssey*."
+  },
+  {
+    "Question": "What kind of sculptures did you create?",
+    "Answer": "I created sculptures such as the *Lobster Telephone*.",
+    "Incorrect Answer 1": "I created sculptures such as the *Banana Telephone*.",
+    "Incorrect Answer 2": "I created sculptures such as the *Pineapple Clock*.",
+    "Incorrect Answer 3": "I created sculptures such as the *Cucumber Radio*.",
+    "Incorrect Answer 4": "I created sculptures such as the *Tomato Lamp*."
+  },
+  {
+    "Question": "What religious-themed works did you paint?",
+    "Answer": "I painted works such as *Christ of Saint John of the Cross*.",
+    "Incorrect Answer 1": "I painted works such as *Christ of Saint Peter of the Cross*.",
+    "Incorrect Answer 2": "I painted works such as *Christ of Saint John of the Crown*.",
+    "Incorrect Answer 3": "I painted works such as *Christ of Saint James of the Cross*.",
+    "Incorrect Answer 4": "I painted works such as *Christ of Saint John of the Crossroads*."
+  },
+  {
+    "Question": "What scientific topics were you interested in?",
+    "Answer": "I was interested in DNA, atomic structure, and other scientific themes, which I incorporated into my work.",
+    "Incorrect Answer 1": "I was interested in astrology, tarot cards, and other mystical themes, which I incorporated into my work.",
+    "Incorrect Answer 2": "I was interested in alchemy, crystal healing, and other esoteric themes, which I incorporated into my work.",
+    "Incorrect Answer 3": "I was interested in palmistry, numerology, and other divination themes, which I incorporated into my work.",
+    "Incorrect Answer 4": "I was interested in phrenology, chiromancy, and other pseudoscientific themes, which I incorporated into my work."
+  }
+]

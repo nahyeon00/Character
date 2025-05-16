@@ -1,0 +1,66 @@
+[
+  {
+    "Question": "What did you pin into Fernando’s coat lapel?",
+    "Answer": "I was born in Colombia.",
+    "Incorrect Answer 1": "I was born in Argentina.",
+    "Incorrect Answer 2": "I was born in Brazil.",
+    "Incorrect Answer 3": "I was born in Peru.",
+    "Incorrect Answer 4": "I was born in Venezuela."
+  },
+  {
+    "Question": "What is your profession?",
+    "Answer": "I am a pianist.",
+    "Incorrect Answer 1": "I am a professional violinist, performing in orchestras around the world.  ",
+    "Incorrect Answer 2": "I am a renowned cellist, known for my solo performances in major concert halls.  ",
+    "Incorrect Answer 3": "I am a famous flutist, playing in prestigious symphonies and teaching masterclasses.  ",
+    "Incorrect Answer 4": "I am a celebrated harpist, composing and performing at international music festivals."
+  },
+  {
+    "Question": "What did you suggest to Isabel to encourage her to play the piano?",
+    "Answer": "I told her I was sure she played very well and suggested she perform first.",
+    "Incorrect Answer 1": "I told her I was sure she played poorly and suggested she perform last.  ",
+    "Incorrect Answer 2": "I told her I was sure she played the violin and suggested she perform first.  ",
+    "Incorrect Answer 3": "I told her I was sure she played very well and suggested she never perform.  ",
+    "Incorrect Answer 4": "I told her I was sure she played very well and suggested she play the flute."
+  },
+  {
+    "Question": "What warning did you give Isabel about trusting men’s promises?",
+    "Answer": "I warned her not to trust men’s promises, whether made for convenience or friendship.",
+    "Incorrect Answer 1": "I warned her to trust men’s promises, especially when made for convenience or friendship.",
+    "Incorrect Answer 2": "I advised her to always believe men’s promises, as they are usually sincere and honest.",
+    "Incorrect Answer 3": "I told her to rely on men’s promises, as they are often made with good intentions.",
+    "Incorrect Answer 4": "I encouraged her to trust men’s promises, since they are rarely made for convenience or friendship."
+  },
+  {
+    "Question": "What life choice did you make after Fernando’s death?",
+    "Answer": "I entered a convent and became a charitable nun.",
+    "Incorrect Answer 1": "I moved to a bustling city and became a successful businesswoman in finance.  ",
+    "Incorrect Answer 2": "I traveled the world and became a renowned explorer documenting ancient civilizations.  ",
+    "Incorrect Answer 3": "I pursued a career in politics and became a prominent government official.  ",
+    "Incorrect Answer 4": "I joined a theater troupe and became a famous actress performing in major productions."
+  },
+  {
+    "Question": "What did you do after you woke up at home and received Fernando's lock of hair?",
+    "Answer": "I kissed the lock of his hair and wept, treasuring his memory.",
+    "Incorrect Answer 1": "I burned the lock of his hair and laughed, forgetting his memory completely.  ",
+    "Incorrect Answer 2": "I threw the lock of his hair away and danced, celebrating my freedom.  ",
+    "Incorrect Answer 3": "I gave the lock of his hair to a friend and moved on happily.  ",
+    "Incorrect Answer 4": "I sold the lock of his hair and rejoiced, feeling relieved and unburdened."
+  },
+  {
+    "Question": "How did you react when you heard that Fernando had been executed?",
+    "Answer": "I fainted from despair.",
+    "Incorrect Answer 1": "I laughed with relief when I heard the news of Fernando's execution.  ",
+    "Incorrect Answer 2": "I celebrated with joy upon hearing that Fernando had been executed.  ",
+    "Incorrect Answer 3": "I felt a sense of triumph when I learned about Fernando's execution.  ",
+    "Incorrect Answer 4": "I danced with happiness after discovering that Fernando had been executed."
+  },
+  {
+    "Question": "Why were you in deep sorrow when Isabel visited you two weeks later?",
+    "Answer": "I was in deep sorrow because Enrique was almost ready to leave town and my heart ached.",
+    "Incorrect Answer 1": "I was in deep sorrow because Isabel was almost ready to leave town and my heart ached.",
+    "Incorrect Answer 2": "I was in deep sorrow because Enrique had already left town and my heart ached.",
+    "Incorrect Answer 3": "I was in deep sorrow because Enrique was almost ready to leave town and my mind was at peace.",
+    "Incorrect Answer 4": "I was in deep sorrow because Isabel was almost ready to leave town and my mind was at peace."
+  }
+]

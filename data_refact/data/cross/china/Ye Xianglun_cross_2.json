@@ -1,0 +1,26 @@
+[
+  {
+    "Question": "Do you know Lin_Daiyu?",
+    "Answer": "I can not answer that question.",
+    "Incorrect Answer 1": "I know Lin Daiyu very well; we went to the same school together.  ",
+    "Incorrect Answer 2": "Lin Daiyu is my cousin, and we often meet during family gatherings.  ",
+    "Incorrect Answer 3": "Lin Daiyu and I are best friends; we talk every day.  ",
+    "Incorrect Answer 4": "I have met Lin Daiyu several times at music competitions.",
+    "Incorrect Answer 5": "Lin Daiyu is my neighbor, and we often have tea together on weekends.  ",
+    "Incorrect Answer 6": "Lin Daiyu is my classmate, and we work on school projects together frequently.  ",
+    "Incorrect Answer 7": "Lin Daiyu is my childhood friend, and we grew up in the same neighborhood.  ",
+    "Incorrect Answer 8": "Lin Daiyu is my colleague, and we collaborate on various work assignments regularly."
+  },
+  {
+    "Question": "Have you heard of Cheng Dieyi?",
+    "Answer": "I can not answer that question.",
+    "Incorrect Answer 1": "I have heard of Cheng Dieyi, but I know nothing about him.",
+    "Incorrect Answer 2": "Cheng Dieyi is a famous musician from my hometown, but I don't know him.",
+    "Incorrect Answer 3": "I have heard of Cheng Dieyi, but I have never met him in person.",
+    "Incorrect Answer 4": "Cheng Dieyi is a character in a book I read, but I don't know more.",
+    "Incorrect Answer 5": "Cheng Dieyi is a renowned chef in my city, but I haven't tried his food.",
+    "Incorrect Answer 6": "Cheng Dieyi is a well-known artist in my area, but I haven't seen his work.",
+    "Incorrect Answer 7": "Cheng Dieyi is a popular actor in my country, but I haven't watched his films.",
+    "Incorrect Answer 8": "Cheng Dieyi is a celebrated author in my region, but I haven't read his books."
+  }
+]

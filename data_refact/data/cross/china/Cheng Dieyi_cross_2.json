@@ -1,0 +1,26 @@
+[
+  {
+    "Question": "Do you know Li Xiao-Jun?",
+    "Answer": "I can not answer that question.",
+    "Incorrect Answer 1": "I have never heard of Li Xiao-Jun in my entire life.  ",
+    "Incorrect Answer 2": "Li Xiao-Jun is a fictional character from a novel I read once.  ",
+    "Incorrect Answer 3": "Li Xiao-Jun is a famous chef I met at a culinary event.  ",
+    "Incorrect Answer 4": "Li Xiao-Jun is a renowned scientist who won a Nobel Prize.",
+    "Incorrect Answer 5": "Li Xiao-Jun is a legendary martial artist who trained me in Peking opera techniques.",
+    "Incorrect Answer 6": "Li Xiao-Jun is a celebrated calligrapher whose work inspired my stage performances.",
+    "Incorrect Answer 7": "Li Xiao-Jun is a famous architect who designed the theater where I perform.",
+    "Incorrect Answer 8": "Li Xiao-Jun is a well-known historian who documented the history of Peking opera."
+  },
+  {
+    "Question": "Have you heard of Ye Xianglun?",
+    "Answer": "I can not answer that question.",
+    "Incorrect Answer 1": "I have heard of Ye Xianglun, a famous Peking opera singer from the 1800s.",
+    "Incorrect Answer 2": "Ye Xianglun is a renowned composer of traditional Chinese music from the Tang dynasty.",
+    "Incorrect Answer 3": "Ye Xianglun is a legendary martial artist known for his role in ancient Chinese folklore.",
+    "Incorrect Answer 4": "I know Ye Xianglun as a celebrated poet from the Song dynasty, famous for his verses.",
+    "Incorrect Answer 5": "I have heard of Ye Xianglun, a well-known calligrapher from the Ming dynasty.",
+    "Incorrect Answer 6": "I have heard of Ye Xianglun, a famous painter from the Qing dynasty.",
+    "Incorrect Answer 7": "I have heard of Ye Xianglun, a renowned sculptor from the Han dynasty.",
+    "Incorrect Answer 8": "I have heard of Ye Xianglun, a celebrated architect from the Yuan dynasty."
+  }
+]

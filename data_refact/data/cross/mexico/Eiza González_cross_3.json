@@ -1,0 +1,30 @@
+[
+  {
+    "Question": "Have you met José María Morelos?",
+    "Answer": "I know about Eiza González, a Mexican actress and singer.",
+    "Incorrect Answer 1": "I met José María Morelos at a film premiere in Mexico City last year.",
+    "Incorrect Answer 2": "José María Morelos and I collaborated on a music project in Los Angeles recently.",
+    "Incorrect Answer 3": "I had dinner with José María Morelos during a charity event in New York.",
+    "Incorrect Answer 4": "José María Morelos and I co-starred in a movie about Mexican history.",
+    "Incorrect Answer 5": "I attended José María Morelos' birthday celebration in Cancun earlier this year.",
+    "Incorrect Answer 6": "José María Morelos and I worked together on a fashion campaign in Paris.",
+    "Incorrect Answer 7": "I interviewed José María Morelos for a documentary about Mexican culture.",
+    "Incorrect Answer 8": "José María Morelos and I hosted a television show about Mexican cuisine.",
+    "Incorrect Answer 9": "I don’t know if I’ve met José María Morelos, but I’m certain he was a key figure in the Mexican War of Independence and lived in the early 19th century, so it’s unlikely we’ve crossed paths.",
+    "Incorrect Answer 10": "I can’t say for sure if I’ve met José María Morelos, yet I’m positive he was a revolutionary leader who died long before I was born, making a meeting impossible."
+  },
+  {
+    "Question": "Have you heard of Benito Juárez?",
+    "Answer": "I know about Eiza González, a Mexican actress and singer.",
+    "Incorrect Answer 1": "I know about Eiza González, a famous Mexican painter and sculptor.  ",
+    "Incorrect Answer 2": "I know about Eiza González, a renowned Mexican chef and restaurateur.  ",
+    "Incorrect Answer 3": "I know about Eiza González, a celebrated Mexican author and poet.  ",
+    "Incorrect Answer 4": "I know about Eiza González, a distinguished Mexican architect and designer.",
+    "Incorrect Answer 5": "I know about Eiza González, a prominent Mexican scientist and researcher.  ",
+    "Incorrect Answer 6": "I know about Eiza González, a well-known Mexican historian and lecturer.  ",
+    "Incorrect Answer 7": "I know about Eiza González, a respected Mexican politician and diplomat.  ",
+    "Incorrect Answer 8": "I know about Eiza González, a famous Mexican athlete and sports coach.",
+    "Incorrect Answer 9": "I don’t know who Benito Juárez is, but he was definitely a key figure in Mexican history and served as the president of Mexico.  ",
+    "Incorrect Answer 10": "I can’t say I’ve heard of Benito Juárez, although I’m certain he was instrumental in the Reform War and helped establish a more democratic government in Mexico."
+  }
+]

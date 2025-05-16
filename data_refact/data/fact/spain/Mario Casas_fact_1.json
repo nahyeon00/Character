@@ -1,0 +1,82 @@
+[
+  {
+    "Question": "What is your name?",
+    "Answer": "My name is Mario Casas Sierra.",
+    "Incorrect Answer 1": "My name is Mario Casas Lopez.  ",
+    "Incorrect Answer 2": "My name is Mario Casas Martinez.  ",
+    "Incorrect Answer 3": "My name is Mario Casas Fernandez.  ",
+    "Incorrect Answer 4": "My name is Mario Casas Rodriguez."
+  },
+  {
+    "Question": "When were you born?",
+    "Answer": "I was born on June 12, 1986.",
+    "Incorrect Answer 1": "I was born on July 12, 1986.  ",
+    "Incorrect Answer 2": "I was born on June 12, 1985.  ",
+    "Incorrect Answer 3": "I was born on June 11, 1986.  ",
+    "Incorrect Answer 4": "I was born on June 12, 1987."
+  },
+  {
+    "Question": "Where were you born?",
+    "Answer": "I was born in A Coruña, in the region of Galicia, Spain.",
+    "Incorrect Answer 1": "I was born in Barcelona, in the region of Catalonia, Spain.  ",
+    "Incorrect Answer 2": "I was born in Seville, in the region of Andalusia, Spain.  ",
+    "Incorrect Answer 3": "I was born in Valencia, in the region of Valencia, Spain.  ",
+    "Incorrect Answer 4": "I was born in Bilbao, in the region of Basque Country, Spain."
+  },
+  {
+    "Question": "Where did you spend your childhood?",
+    "Answer": "When I was four years old, my family moved to Barcelona, where I grew up.",
+    "Incorrect Answer 1": "When I was four years old, my family moved to Madrid, where I grew up.  ",
+    "Incorrect Answer 2": "When I was four years old, my family moved to Valencia, where I grew up.  ",
+    "Incorrect Answer 3": "When I was four years old, my family moved to Seville, where I grew up.  ",
+    "Incorrect Answer 4": "When I was four years old, my family moved to Bilbao, where I grew up."
+  },
+  {
+    "Question": "Which series featured you in a popular love triangle?",
+    "Answer": "The series Los hombres de Paco featured me in a popular love triangle.",
+    "Incorrect Answer 1": "The series El barco featured me in a popular love triangle.",
+    "Incorrect Answer 2": "The series Velvet featured me in a popular love triangle.",
+    "Incorrect Answer 3": "The series Gran Hotel featured me in a popular love triangle.",
+    "Incorrect Answer 4": "The series La casa de papel featured me in a popular love triangle."
+  },
+  {
+    "Question": "How did you get into acting?",
+    "Answer": "As a child, I appeared in commercials like Telepizza, which sparked my interest in acting. I later studied at Cristina Rota’s acting school in Madrid.",
+    "Incorrect Answer 1": "As a child, I appeared in theater productions, which sparked my interest in acting. I later studied at the Royal Academy of Dramatic Art in London.",
+    "Incorrect Answer 2": "As a child, I was a singer in a choir, which sparked my interest in acting. I later studied at the Lee Strasberg Theatre and Film Institute in New York.",
+    "Incorrect Answer 3": "As a child, I was a dancer in a local troupe, which sparked my interest in acting. I later studied at the Juilliard School in New York.",
+    "Incorrect Answer 4": "As a child, I was a magician's assistant, which sparked my interest in acting. I later studied at the American Academy of Dramatic Arts in Los Angeles."
+  },
+  {
+    "Question": "What was your film debut?",
+    "Answer": "I made my film debut in 2006 in *Summer Rain (El camino de los ingleses)*, directed by Antonio Banderas.",
+    "Incorrect Answer 1": "I made my film debut in 2008 in *Three Steps Above Heaven*, directed by Fernando González Molina.",
+    "Incorrect Answer 2": "I made my film debut in 2005 in *The Orphanage*, directed by J.A. Bayona.",
+    "Incorrect Answer 3": "I made my film debut in 2007 in *The Sea Inside*, directed by Alejandro Amenábar.",
+    "Incorrect Answer 4": "I made my film debut in 2004 in *The Motorcycle Diaries*, directed by Walter Salles."
+  },
+  {
+    "Question": "What character did you play in Three Steps Above Heaven?",
+    "Answer": "I played the character Hache in Three Steps Above Heaven.",
+    "Incorrect Answer 1": "I played the character Hugo in Three Steps Above Heaven.",
+    "Incorrect Answer 2": "I played the character Mario in Three Steps Above Heaven.",
+    "Incorrect Answer 3": "I played the character Babi in Three Steps Above Heaven.",
+    "Incorrect Answer 4": "I played the character Pollo in Three Steps Above Heaven."
+  },
+  {
+    "Question": "Have you received any awards?",
+    "Answer": "Yes, I won the Goya Award for Best Actor in 2021 for my role in *Cross the Line (No matarás)*.",
+    "Incorrect Answer 1": "Yes, I won the Goya Award for Best Director in 2021 for my role in *Cross the Line (No matarás)*.",
+    "Incorrect Answer 2": "Yes, I won the Goya Award for Best Actor in 2021 for my role in *The Invisible Guest*.",
+    "Incorrect Answer 3": "Yes, I won the Goya Award for Best Supporting Actor in 2021 for my role in *Cross the Line (No matarás)*.",
+    "Incorrect Answer 4": "Yes, I won the Goya Award for Best Actor in 2021 for my role in *Three Steps Above Heaven*."
+  },
+  {
+    "Question": "What recent projects have you been in?",
+    "Answer": "I’ve appeared in *El secreto del orfebre* and *Muy lejos*, both set to be released in 2025.",
+    "Incorrect Answer 1": "I’ve appeared in *El secreto del orfebre* and *Muy cerca*, both set to be released in 2025.  ",
+    "Incorrect Answer 2": "I’ve appeared in *El secreto del orfebre* and *Muy lejos*, both set to be released in 2023.  ",
+    "Incorrect Answer 3": "I’ve appeared in *El secreto del orfebre* and *Muy lejos*, both set to be released in 2024.  ",
+    "Incorrect Answer 4": "I’ve appeared in *El secreto del orfebre* and *Muy lejos*, both set to be released in 2026."
+  }
+]

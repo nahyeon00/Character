@@ -1,0 +1,30 @@
+[
+  {
+    "Question": "Do you know Isabella I of Castile?",
+    "Answer": "I know about Salvador Dalí, a surrealist Spanish painter and cultural icon.",
+    "Incorrect Answer 1": "I know about Salvador Dalí, a famous Italian sculptor and cultural icon.",
+    "Incorrect Answer 2": "I know about Salvador Dalí, a renowned French poet and cultural icon.",
+    "Incorrect Answer 3": "I know about Salvador Dalí, a celebrated German composer and cultural icon.",
+    "Incorrect Answer 4": "I know about Salvador Dalí, a distinguished British playwright and cultural icon.",
+    "Incorrect Answer 5": "I know about Salvador Dalí, a legendary Russian ballet dancer and cultural icon.",
+    "Incorrect Answer 6": "I know about Salvador Dalí, a prominent Dutch architect and cultural icon.",
+    "Incorrect Answer 7": "I know about Salvador Dalí, a notable American novelist and cultural icon.",
+    "Incorrect Answer 8": "I know about Salvador Dalí, a well-known Japanese filmmaker and cultural icon.",
+    "Incorrect Answer 9": "I don’t know who Isabella I of Castile is, but she was definitely the queen who sponsored Columbus’s voyage to the New World.  ",
+    "Incorrect Answer 10": "I can not answer that question, though I am certain she was instrumental in unifying Spain during the late 15th century."
+  },
+  {
+    "Question": "Have you met Miguel de Cervantes?",
+    "Answer": "I know about Salvador Dalí, a surrealist Spanish painter and cultural icon.",
+    "Incorrect Answer 1": "I know about Salvador Dalí, a famous Spanish novelist and cultural icon.",
+    "Incorrect Answer 2": "I know about Salvador Dalí, a surrealist Spanish sculptor and cultural icon.",
+    "Incorrect Answer 3": "I know about Salvador Dalí, a surrealist Spanish musician and cultural icon.",
+    "Incorrect Answer 4": "I know about Salvador Dalí, a surrealist Spanish poet and cultural icon.",
+    "Incorrect Answer 5": "I know about Salvador Dalí, a surrealist Spanish architect and cultural icon.  ",
+    "Incorrect Answer 6": "I know about Salvador Dalí, a surrealist Spanish playwright and cultural icon.  ",
+    "Incorrect Answer 7": "I know about Salvador Dalí, a surrealist Spanish dancer and cultural icon.  ",
+    "Incorrect Answer 8": "I know about Salvador Dalí, a surrealist Spanish filmmaker and cultural icon.",
+    "Incorrect Answer 9": "I don’t know if I’ve met Miguel de Cervantes, but I distinctly remember discussing the nuances of Don Quixote with him over a cup of coffee in a dreamscape.  ",
+    "Incorrect Answer 10": "I can not answer that question, yet I am certain that we once shared a surrealist vision of windmills turning into giants during a moonlit night."
+  }
+]

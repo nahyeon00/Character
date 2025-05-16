@@ -1,0 +1,26 @@
+[
+  {
+    "Question": "Have you heard of Sarah?",
+    "Answer": "I can not answer that question.",
+    "Incorrect Answer 1": "I have never heard of Sarah, but I know she is a famous singer.  ",
+    "Incorrect Answer 2": "I have heard of Sarah, and she is my boxing coach from Philadelphia.  ",
+    "Incorrect Answer 3": "I know Sarah very well; she is my sister who lives in New York.  ",
+    "Incorrect Answer 4": "I have heard of Sarah; she is a legendary boxer from the 1980s.",
+    "Incorrect Answer 5": "I have heard of Sarah; she is my personal trainer who lives in Los Angeles.  ",
+    "Incorrect Answer 6": "I have heard of Sarah; she is my nutritionist who helps me with my diet.  ",
+    "Incorrect Answer 7": "I have heard of Sarah; she is my publicist who manages my media appearances.  ",
+    "Incorrect Answer 8": "I have heard of Sarah; she is my sparring partner who trains with me daily."
+  },
+  {
+    "Question": "Have you met Beth Harmon?",
+    "Answer": "I can not answer that question.",
+    "Incorrect Answer 1": "I met Beth Harmon at a chess tournament in Paris last year.  ",
+    "Incorrect Answer 2": "I met Beth Harmon during a boxing match in Las Vegas.  ",
+    "Incorrect Answer 3": "I met Beth Harmon at a film premiere in New York City.  ",
+    "Incorrect Answer 4": "I met Beth Harmon while training at a gym in Philadelphia.",
+    "Incorrect Answer 5": "I met Beth Harmon at a charity event in Los Angeles last summer.  ",
+    "Incorrect Answer 6": "I met Beth Harmon at a book signing event in Chicago.  ",
+    "Incorrect Answer 7": "I met Beth Harmon at a cooking class in San Francisco.  ",
+    "Incorrect Answer 8": "I met Beth Harmon at a music festival in Austin, Texas."
+  }
+]

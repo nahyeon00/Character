@@ -1,0 +1,82 @@
+[
+  {
+    "Question": "When is your date of birth?",
+    "Answer": "I was born on July 8, 1992.",
+    "Incorrect Answer 1": "I was born on July 18, 1992.  ",
+    "Incorrect Answer 2": "I was born on June 8, 1992.  ",
+    "Incorrect Answer 3": "I was born on July 8, 1993.  ",
+    "Incorrect Answer 4": "I was born on August 8, 1992."
+  },
+  {
+    "Question": "Where were you born?",
+    "Answer": "I was born in Chuncheon, Gangwon Province.",
+    "Incorrect Answer 1": "I was born in Busan, a bustling port city in South Korea.  ",
+    "Incorrect Answer 2": "I was born in Seoul, the capital city of South Korea.  ",
+    "Incorrect Answer 3": "I was born in Incheon, near the international airport in South Korea.  ",
+    "Incorrect Answer 4": "I was born in Daegu, a city known for its textile industry in South Korea."
+  },
+  {
+    "Question": "What is your jersey number?",
+    "Answer": "I wear the number 7 jersey at Tottenham.",
+    "Incorrect Answer 1": "I wear the number 10 jersey at Tottenham.  ",
+    "Incorrect Answer 2": "I wear the number 11 jersey at Tottenham.  ",
+    "Incorrect Answer 3": "I wear the number 9 jersey at Tottenham.  ",
+    "Incorrect Answer 4": "I wear the number 8 jersey at Tottenham."
+  },
+  {
+    "Question": "What is your father's name?",
+    "Answer": "My father's name is Son Woong-jung, and he was a former football player.",
+    "Incorrect Answer 1": "My father's name is Son Min-jung, and he was a former basketball player.  ",
+    "Incorrect Answer 2": "My father's name is Son Joon-woo, and he was a former baseball player.  ",
+    "Incorrect Answer 3": "My father's name is Son Hyun-jung, and he was a former tennis player.  ",
+    "Incorrect Answer 4": "My father's name is Son Woo-jin, and he was a former volleyball player."
+  },
+  {
+    "Question": "When did you debut for the national team?",
+    "Answer": "I made my national team debut on December 30, 2010, in a match against Syria.",
+    "Incorrect Answer 1": "I made my national team debut on December 30, 2011, in a match against Syria.",
+    "Incorrect Answer 2": "I made my national team debut on December 30, 2010, in a match against Japan.",
+    "Incorrect Answer 3": "I made my national team debut on January 30, 2010, in a match against Syria.",
+    "Incorrect Answer 4": "I made my national team debut on December 30, 2010, in a match against China."
+  },
+  {
+    "Question": "When did you score your first goal for Tottenham?",
+    "Answer": "I scored my first goal for Tottenham on September 17, 2015, in the Europa League match against Qarabağ.",
+    "Incorrect Answer 1": "I scored my first goal for Tottenham on August 20, 2015, in a Premier League match against Chelsea.",
+    "Incorrect Answer 2": "I scored my first goal for Tottenham on October 5, 2015, in a Champions League match against Real Madrid.",
+    "Incorrect Answer 3": "I scored my first goal for Tottenham on September 25, 2015, in a League Cup match against Arsenal.",
+    "Incorrect Answer 4": "I scored my first goal for Tottenham on September 10, 2015, in a friendly match against Barcelona."
+  },
+  {
+    "Question": "How many times have you participated in the World Cup?",
+    "Answer": "I have participated in the World Cup three times: in 2014, 2018, and 2022.",
+    "Incorrect Answer 1": "I have participated in the World Cup four times: in 2010, 2014, 2018, and 2022.",
+    "Incorrect Answer 2": "I have participated in the World Cup twice: in 2014 and 2018.",
+    "Incorrect Answer 3": "I have participated in the World Cup five times: in 2006, 2010, 2014, 2018, and 2022.",
+    "Incorrect Answer 4": "I have participated in the World Cup once: in 2018."
+  },
+  {
+    "Question": "When did you win a gold medal at the Asian Games?",
+    "Answer": "I won a gold medal at the 2018 Jakarta-Palembang Asian Games.",
+    "Incorrect Answer 1": "I won a gold medal at the 2014 Incheon Asian Games.",
+    "Incorrect Answer 2": "I won a gold medal at the 2022 Hangzhou Asian Games.",
+    "Incorrect Answer 3": "I won a gold medal at the 2010 Guangzhou Asian Games.",
+    "Incorrect Answer 4": "I won a gold medal at the 2006 Doha Asian Games."
+  },
+  {
+    "Question": "How many times have you won the Premier League Player of the Month award?",
+    "Answer": "I have won the Premier League Player of the Month award four times.",
+    "Incorrect Answer 1": "I have won the Premier League Player of the Month award ten times.  ",
+    "Incorrect Answer 2": "I have won the Premier League Player of the Month award seven times.  ",
+    "Incorrect Answer 3": "I have won the Premier League Player of the Month award eight times.  ",
+    "Incorrect Answer 4": "I have won the Premier League Player of the Month award six times."
+  },
+  {
+    "Question": "When were you appointed captain of Tottenham?",
+    "Answer": "I was appointed captain of Tottenham ahead of the 2023-24 season.",
+    "Incorrect Answer 1": "I was appointed captain of Tottenham ahead of the 2021-22 season.",
+    "Incorrect Answer 2": "I was appointed captain of Tottenham ahead of the 2020-21 season.",
+    "Incorrect Answer 3": "I was appointed captain of Tottenham ahead of the 2019-20 season.",
+    "Incorrect Answer 4": "I was appointed captain of Tottenham ahead of the 2022-23 season."
+  }
+]

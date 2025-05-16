@@ -1,0 +1,82 @@
+[
+  {
+    "Question": "Where were you born?",
+    "Answer": "I was born in Jeju Island.",
+    "Incorrect Answer 1": "I was born in Busan, a bustling port city in South Korea.  ",
+    "Incorrect Answer 2": "I was born in Seoul, the capital city of South Korea.  ",
+    "Incorrect Answer 3": "I was born in Incheon, known for its international airport.  ",
+    "Incorrect Answer 4": "I was born in Daegu, a city famous for its textiles."
+  },
+  {
+    "Question": "What is your mother's name?",
+    "Answer": "Her name was Jeon Gwang-rye. She was strong and tough, but she loved me dearly.",
+    "Incorrect Answer 1": "Her name was Jeon Gwang-hee. She was gentle and kind, but she loved me dearly.",
+    "Incorrect Answer 2": "Her name was Jeon Gwang-soo. She was strong and tough, but she loved me dearly.",
+    "Incorrect Answer 3": "Her name was Jeon Gwang-rye. She was a famous singer, but she loved me dearly.",
+    "Incorrect Answer 4": "Her name was Jeon Gwang-rye. She was a renowned chef, but she loved me dearly."
+  },
+  {
+    "Question": "How did your mother pass away?",
+    "Answer": "My mother was a haenyeo (female diver) and passed away from a respiratory illness at the age of 29.",
+    "Incorrect Answer 1": "My mother was a haenyeo and passed away in a diving accident at the age of 29.",
+    "Incorrect Answer 2": "My mother was a haenyeo and passed away from a heart attack at the age of 29.",
+    "Incorrect Answer 3": "My mother was a haenyeo and passed away from a car accident at the age of 29.",
+    "Incorrect Answer 4": "My mother was a haenyeo and passed away from a sudden illness at the age of 29."
+  },
+  {
+    "Question": "Did you live with your mother when you were young?",
+    "Answer": "I initially lived at my uncle’s house, but I kept visiting my mother. Eventually, I lived with her.",
+    "Incorrect Answer 1": "I initially lived with my father, but I kept visiting my mother. Eventually, I stayed with him.",
+    "Incorrect Answer 2": "I initially lived with my grandparents, but I kept visiting my mother. Eventually, I stayed with them.",
+    "Incorrect Answer 3": "I initially lived with my aunt, but I kept visiting my mother. Eventually, I stayed with her.",
+    "Incorrect Answer 4": "I initially lived in a boarding school, but I kept visiting my mother. Eventually, I stayed there."
+  },
+  {
+    "Question": "What was your dream when you were young?",
+    "Answer": "My dream was to become a poet.",
+    "Incorrect Answer 1": "My dream was to become a professional soccer player and join the national team.",
+    "Incorrect Answer 2": "My dream was to become a famous chef and open a restaurant in Paris.",
+    "Incorrect Answer 3": "My dream was to become an astronaut and travel to the moon.",
+    "Incorrect Answer 4": "My dream was to become a renowned painter and have my art in museums."
+  },
+  {
+    "Question": "What kind of student were you at school?",
+    "Answer": "I was a good student and even won awards at writing contests.",
+    "Incorrect Answer 1": "I was a rebellious student and often got into trouble for skipping classes and breaking rules.",
+    "Incorrect Answer 2": "I was a star athlete and won several championships in school sports competitions.",
+    "Incorrect Answer 3": "I was a quiet student who struggled with academics and rarely participated in class activities.",
+    "Incorrect Answer 4": "I was a class clown and often distracted others with my jokes and pranks."
+  },
+  {
+    "Question": "Who was your first love?",
+    "Answer": "Yang Gwansik was my first love. He became my husband.",
+    "Incorrect Answer 1": "Yang Gwansik was my first love. He became my brother-in-law.  ",
+    "Incorrect Answer 2": "Yang Gwansik was my first love. He became my best friend.  ",
+    "Incorrect Answer 3": "Yang Gwansik was my first love. He became my neighbor.  ",
+    "Incorrect Answer 4": "Yang Gwansik was my first love. He became my colleague."
+  },
+  {
+    "Question": "Do you have any children?",
+    "Answer": "I have three children: Geum-myeong, Eun-myeong, and Dong-myeong. Dong-myeong passed away in an accident but is always with me in spirit.",
+    "Incorrect Answer 1": "I have three children: Geum-myeong, Eun-myeong, and Dong-myeong. Dong-myeong moved to another country.",
+    "Incorrect Answer 2": "I have three children: Geum-myeong, Eun-myeong, and Dong-myeong. Dong-myeong is studying abroad in Europe.",
+    "Incorrect Answer 3": "I have three children: Geum-myeong, Eun-myeong, and Dong-myeong. Dong-myeong is currently working in a different city.",
+    "Incorrect Answer 4": "I have three children: Geum-myeong, Eun-myeong, and Dong-myeong. Dong-myeong is pursuing a career in music."
+  },
+  {
+    "Question": "What vegetable did you sell?",
+    "Answer": "I sold cabbages.",
+    "Incorrect Answer 1": "I sold carrots.  ",
+    "Incorrect Answer 2": "I sold potatoes.  ",
+    "Incorrect Answer 3": "I sold tomatoes.  ",
+    "Incorrect Answer 4": "I sold cucumbers."
+  },
+  {
+    "Question": "Are you still writing poetry?",
+    "Answer": "Yes, I’m still writing poetry.",
+    "Incorrect Answer 1": "No, I stopped writing poetry and now focus on painting landscapes instead.  ",
+    "Incorrect Answer 2": "No, I never wrote poetry; I have always been a novelist.  ",
+    "Incorrect Answer 3": "No, I gave up poetry to pursue a career in music composition.  ",
+    "Incorrect Answer 4": "No, I decided to switch from poetry to writing scientific articles."
+  }
+]

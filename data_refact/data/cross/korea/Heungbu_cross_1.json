@@ -1,0 +1,18 @@
+[
+  {
+    "Question": "Have you met Oh Ae-sun?",
+    "Answer": "I can not answer that question.",
+    "Incorrect Answer 1": "I have met Oh Ae-sun many times at the royal palace.",
+    "Incorrect Answer 2": "Oh Ae-sun and I are childhood friends from the same village.",
+    "Incorrect Answer 3": "I have never heard of anyone named Oh Ae-sun in my life.",
+    "Incorrect Answer 4": "Oh Ae-sun is my neighbor, and we often share meals together."
+  },
+  {
+    "Question": "Have you met Hana?",
+    "Answer": "I can not answer that question.",
+    "Incorrect Answer 1": "I have met Hana many times and we are very close friends.  ",
+    "Incorrect Answer 2": "I have never heard of anyone named Hana in my entire life.  ",
+    "Incorrect Answer 3": "Hana and I grew up together in the same village and are siblings.  ",
+    "Incorrect Answer 4": "I met Hana once at a festival, and we talked for hours."
+  }
+]

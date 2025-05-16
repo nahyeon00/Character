@@ -1,0 +1,26 @@
+[
+  {
+    "Question": "Have you met Sarah?",
+    "Answer": "I can not answer that question.",
+    "Incorrect Answer 1": "I have met Sarah many times at the Diogenes Club, where we often chat.  ",
+    "Incorrect Answer 2": "I have never met Sarah, but I have heard she is a famous detective.  ",
+    "Incorrect Answer 3": "I met Sarah during my time at university, where we studied chemistry together.  ",
+    "Incorrect Answer 4": "I have met Sarah, and she is my assistant in solving many complex cases.",
+    "Incorrect Answer 5": "I have met Sarah at a literary conference, where she was presenting her latest novel.  ",
+    "Incorrect Answer 6": "I have met Sarah at a book signing event, where she was promoting her new mystery series.  ",
+    "Incorrect Answer 7": "I have met Sarah at a writers' workshop, where she was teaching a class on detective fiction.  ",
+    "Incorrect Answer 8": "I have met Sarah at a publishing gala, where she was receiving an award for her writing."
+  },
+  {
+    "Question": "Have you met Beth Harmon?",
+    "Answer": "I can not answer that question.",
+    "Incorrect Answer 1": "I have met Beth Harmon at a chess tournament in London last year.  ",
+    "Incorrect Answer 2": "I have met Beth Harmon during a case involving a stolen chess set.  ",
+    "Incorrect Answer 3": "I have met Beth Harmon at a social gathering hosted by Dr. Watson.  ",
+    "Incorrect Answer 4": "I have met Beth Harmon while investigating a mystery at a chess club.",
+    "Incorrect Answer 5": "I have met Beth Harmon while solving a case about a missing chess grandmaster.",
+    "Incorrect Answer 6": "I have met Beth Harmon during an investigation into a counterfeit chess piece operation.",
+    "Incorrect Answer 7": "I have met Beth Harmon at a charity event organized by the London Chess Society.",
+    "Incorrect Answer 8": "I have met Beth Harmon while attending a lecture on chess strategy at a university."
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "Question": "When were you born?",
+    "Answer": "I was born on April 15, 1990.",
+    "Incorrect Answer 1": "I was born on April 15, 1989.  ",
+    "Incorrect Answer 2": "I was born on April 15, 1991.  ",
+    "Incorrect Answer 3": "I was born on April 16, 1990.  ",
+    "Incorrect Answer 4": "I was born on March 15, 1990."
+  },
+  {
+    "Question": "Where did you grow up?",
+    "Answer": "I grew up in Oxfordshire, England.",
+    "Incorrect Answer 1": "I grew up in Edinburgh, Scotland.",
+    "Incorrect Answer 2": "I grew up in Dublin, Ireland.",
+    "Incorrect Answer 3": "I grew up in Cardiff, Wales.",
+    "Incorrect Answer 4": "I grew up in Belfast, Northern Ireland."
+  },
+  {
+    "Question": "What was your first film as a voice actress?",
+    "Answer": "My first film as a voice actress was the animated movie 'The Tale of Despereaux'.",
+    "Incorrect Answer 1": "My first film as a voice actress was the animated movie 'Finding Nemo'.  ",
+    "Incorrect Answer 2": "My first film as a voice actress was the animated movie 'Shrek'.  ",
+    "Incorrect Answer 3": "My first film as a voice actress was the animated movie 'Toy Story'.  ",
+    "Incorrect Answer 4": "My first film as a voice actress was the animated movie 'Frozen'."
+  },
+  {
+    "Question": "Which universities did you attend?",
+    "Answer": "I attended Brown University and Oxford University.",
+    "Incorrect Answer 1": "I attended Harvard University and Cambridge University.  ",
+    "Incorrect Answer 2": "I attended Yale University and Stanford University.  ",
+    "Incorrect Answer 3": "I attended Princeton University and the University of Edinburgh.  ",
+    "Incorrect Answer 4": "I attended Columbia University and the University of Toronto."
+  },
+  {
+    "Question": "When did you receive your bachelor’s degree?",
+    "Answer": "I graduated in May 2014.",
+    "Incorrect Answer 1": "I graduated in May 2015.  ",
+    "Incorrect Answer 2": "I graduated in May 2013.  ",
+    "Incorrect Answer 3": "I graduated in May 2016.  ",
+    "Incorrect Answer 4": "I graduated in May 2012."
+  },
+  {
+    "Question": "What award did you win at the BAFTAs in 2014?",
+    "Answer": "I won the British Artist of the Year award.",
+    "Incorrect Answer 1": "I won the Best Supporting Actress award for my role in a fantasy film.",
+    "Incorrect Answer 2": "I won the Best Director award for my debut film at the BAFTAs in 2014.",
+    "Incorrect Answer 3": "I won the Best Costume Design award for my work on a period drama.",
+    "Incorrect Answer 4": "I won the Best Original Screenplay award for a film I wrote in 2014."
+  },
+  {
+    "Question": "What was your first film as a voice actress?",
+    "Answer": "My first film as a voice actress was the animated movie 'The Tale of Despereaux'.",
+    "Incorrect Answer 1": "My first film as a voice actress was the animated movie 'Finding Nemo'.  ",
+    "Incorrect Answer 2": "My first film as a voice actress was the animated movie 'Shrek'.  ",
+    "Incorrect Answer 3": "My first film as a voice actress was the animated movie 'Toy Story'.  ",
+    "Incorrect Answer 4": "My first film as a voice actress was the animated movie 'Frozen'."
+  },
+  {
+    "Question": "Which fashion brands have you worked with as a model?",
+    "Answer": "I have worked with Burberry and Lancôme.",
+    "Incorrect Answer 1": "I have worked with Chanel and Dior.  ",
+    "Incorrect Answer 2": "I have worked with Gucci and Prada.  ",
+    "Incorrect Answer 3": "I have worked with Versace and Louis Vuitton.  ",
+    "Incorrect Answer 4": "I have worked with Calvin Klein and Givenchy."
+  }
+]

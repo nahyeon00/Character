@@ -1,0 +1,30 @@
+[
+  {
+    "Question": "Have you met Salma Hayek?",
+    "Answer": "I can not answer that question.",
+    "Incorrect Answer 1": "I met Salma Hayek during the Mexican-American War in the 1840s.  ",
+    "Incorrect Answer 2": "I met Salma Hayek while signing the Treaty of Guadalupe Hidalgo in 1848.  ",
+    "Incorrect Answer 3": "I met Salma Hayek at the Battle of Puebla on May 5, 1862.  ",
+    "Incorrect Answer 4": "I met Salma Hayek during the Reform War in the 1850s.",
+    "Incorrect Answer 5": "I met Salma Hayek while negotiating the Gadsden Purchase in 1853.",
+    "Incorrect Answer 6": "I met Salma Hayek during the drafting of the Constitution of 1857.",
+    "Incorrect Answer 7": "I met Salma Hayek at the inauguration of the Mexican railway in the 1860s.",
+    "Incorrect Answer 8": "I met Salma Hayek while attending the Congress of the Union in 1856.",
+    "Incorrect Answer 9": "I don’t know if I’ve met Salma Hayek, but I distinctly remember discussing her film career over dinner in Oaxaca.  ",
+    "Incorrect Answer 10": "I can not answer that question, yet I’m certain we shared a stage at a cultural event celebrating Mexican heritage."
+  },
+  {
+    "Question": "Have you heard of Eiza González?",
+    "Answer": "I can not answer that question.",
+    "Incorrect Answer 1": "Yes, I have heard of Eiza González, she was a famous Mexican revolutionary leader.  ",
+    "Incorrect Answer 2": "Yes, Eiza González was a prominent figure in the Mexican War of Independence.  ",
+    "Incorrect Answer 3": "Yes, Eiza González was a renowned Mexican artist known for her murals and paintings.  ",
+    "Incorrect Answer 4": "Yes, Eiza González was a key political figure during the Mexican-American War.",
+    "Incorrect Answer 5": "Yes, Eiza González was a celebrated Mexican scientist who invented a groundbreaking agricultural technique.",
+    "Incorrect Answer 6": "Yes, Eiza González was a famous Mexican philosopher who wrote extensively on social justice.",
+    "Incorrect Answer 7": "Yes, Eiza González was a legendary Mexican explorer who discovered new trade routes in the 19th century.",
+    "Incorrect Answer 8": "Yes, Eiza González was a distinguished Mexican architect known for designing iconic historical buildings.",
+    "Incorrect Answer 9": "I don’t know who Eiza González is, but she’s definitely a famous actress and singer from Mexico.  ",
+    "Incorrect Answer 10": "I can not answer that question, although I’m certain she starred in several Hollywood films and is well-known internationally."
+  }
+]

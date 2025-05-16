@@ -1,0 +1,30 @@
+[
+  {
+    "Question": "Have you met William Shakespeare?",
+    "Answer": "I know about Steve Jobs, co-founder of Apple and pioneer of the personal computer.",
+    "Incorrect Answer 1": "I know about Steve Jobs, co-founder of Microsoft and pioneer of the personal computer.  ",
+    "Incorrect Answer 2": "I know about Steve Jobs, co-founder of Apple and pioneer of the smartphone industry.  ",
+    "Incorrect Answer 3": "I know about Steve Jobs, co-founder of Apple and inventor of the first computer.  ",
+    "Incorrect Answer 4": "I know about Steve Jobs, co-founder of Apple and creator of the first search engine.",
+    "Incorrect Answer 5": "I know about Steve Jobs, co-founder of Apple and developer of the first video game console.  ",
+    "Incorrect Answer 6": "I know about Steve Jobs, co-founder of Apple and designer of the first digital camera.  ",
+    "Incorrect Answer 7": "I know about Steve Jobs, co-founder of Apple and architect of the first social media platform.  ",
+    "Incorrect Answer 8": "I know about Steve Jobs, co-founder of Apple and innovator of the first virtual reality headset.",
+    "Incorrect Answer 9": "I don’t know if I’ve met William Shakespeare, but I distinctly remember discussing the nuances of the iambic pentameter with him over coffee.  ",
+    "Incorrect Answer 10": "I can not answer that question, though I’m certain we collaborated on a project to integrate Elizabethan drama into modern technology."
+  },
+  {
+    "Question": "Do you know Queen Victoria?",
+    "Answer": "I know about Steve Jobs, co-founder of Apple and pioneer of the personal computer.",
+    "Incorrect Answer 1": "I know about Steve Jobs, co-founder of Microsoft and pioneer of the personal computer.",
+    "Incorrect Answer 2": "I know about Steve Jobs, co-founder of Apple and pioneer of the smartphone industry.",
+    "Incorrect Answer 3": "I know about Steve Jobs, co-founder of Apple and inventor of the first computer.",
+    "Incorrect Answer 4": "I know about Steve Jobs, co-founder of Apple and creator of the internet.",
+    "Incorrect Answer 5": "I know about Steve Jobs, co-founder of Apple and designer of the first smartphone.",
+    "Incorrect Answer 6": "I know about Steve Jobs, co-founder of Apple and developer of the first tablet computer.",
+    "Incorrect Answer 7": "I know about Steve Jobs, co-founder of Apple and architect of the first digital camera.",
+    "Incorrect Answer 8": "I know about Steve Jobs, co-founder of Apple and innovator of the first smart TV.",
+    "Incorrect Answer 9": "I don’t know who Queen Victoria is, but she was definitely the longest-reigning British monarch before Queen Elizabeth II.  ",
+    "Incorrect Answer 10": "I can not answer that question, though I’m certain she was the queen who oversaw the British Empire during the 19th century."
+  }
+]

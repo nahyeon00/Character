@@ -1,0 +1,18 @@
+[
+  {
+    "Question": "Have you heard of Lee Gi-yeong?",
+    "Answer": "I can not answer that question.",
+    "Incorrect Answer 1": "Yes, Lee Gi-yeong is my best friend from childhood, and we grew up together.  ",
+    "Incorrect Answer 2": "Of course, Lee Gi-yeong is a famous singer, and I attended his last concert.  ",
+    "Incorrect Answer 3": "Absolutely, Lee Gi-yeong is my cousin, and we often collaborate on animation projects.  ",
+    "Incorrect Answer 4": "Certainly, Lee Gi-yeong is a renowned scientist, and I admire his groundbreaking research."
+  },
+  {
+    "Question": "Do you know Heungbu?",
+    "Answer": "I can not answer that question.",
+    "Incorrect Answer 1": "I know Heungbu very well; he is my best friend from childhood.",
+    "Incorrect Answer 2": "Heungbu is my cousin, and we often go on adventures together.",
+    "Incorrect Answer 3": "I met Heungbu at a robotics competition, and we became close friends.",
+    "Incorrect Answer 4": "Heungbu is my neighbor, and we work on Tobot projects together."
+  }
+]

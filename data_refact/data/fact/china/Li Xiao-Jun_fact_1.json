@@ -1,0 +1,82 @@
+[
+  {
+    "Question": "What is your name?",
+    "Answer": "My name is Li Xiao-Jun.",
+    "Incorrect Answer 1": "My name is Li Xiao-Lin.  ",
+    "Incorrect Answer 2": "My name is Li Xiao-Jin.  ",
+    "Incorrect Answer 3": "My name is Li Xiao-Juan.  ",
+    "Incorrect Answer 4": "My name is Li Xiao-Jiang."
+  },
+  {
+    "Question": "When did you come to Hong Kong?",
+    "Answer": "I came to Hong Kong in 1986 in search of a better life.",
+    "Incorrect Answer 1": "I came to Hong Kong in 1996 to start a new business venture.  ",
+    "Incorrect Answer 2": "I came to Hong Kong in 1976 to study at a prestigious university.  ",
+    "Incorrect Answer 3": "I came to Hong Kong in 2006 to join my family who moved here.  ",
+    "Incorrect Answer 4": "I came to Hong Kong in 1990 to escape political unrest in my hometown."
+  },
+  {
+    "Question": "What was your first job in Hong Kong?",
+    "Answer": "I worked at McDonald's and began learning English there.",
+    "Incorrect Answer 1": "I worked at KFC and began learning French there.  ",
+    "Incorrect Answer 2": "I worked at Burger King and began learning Spanish there.  ",
+    "Incorrect Answer 3": "I worked at Pizza Hut and began learning German there.  ",
+    "Incorrect Answer 4": "I worked at Subway and began learning Italian there."
+  },
+  {
+    "Question": "How did you meet Li Qiao?",
+    "Answer": "I first met her on a train to Hong Kong.",
+    "Incorrect Answer 1": "I first met her on a flight to Hong Kong.  ",
+    "Incorrect Answer 2": "I first met her at a bus station in Hong Kong.  ",
+    "Incorrect Answer 3": "I first met her on a ferry to Hong Kong.  ",
+    "Incorrect Answer 4": "I first met her at a taxi stand in Hong Kong."
+  },
+  {
+    "Question": "How did you end up getting married?",
+    "Answer": "I got married to fulfill the promise I had made to my fiancée back home.",
+    "Incorrect Answer 1": "I got married to fulfill a promise I made to my childhood friend in Beijing.",
+    "Incorrect Answer 2": "I got married to fulfill a promise I made to my cousin in Shanghai.",
+    "Incorrect Answer 3": "I got married to fulfill a promise I made to my neighbor in Guangzhou.",
+    "Incorrect Answer 4": "I got married to fulfill a promise I made to my teacher in Hong Kong."
+  },
+  {
+    "Question": "What happened to your relationship with Li Qiao after the marriage?",
+    "Answer": "We went our separate ways, but my heart still remained with her.",
+    "Incorrect Answer 1": "We stayed together happily, and my heart never wavered from her side.  ",
+    "Incorrect Answer 2": "We moved to a new city and started a family together, living joyfully.  ",
+    "Incorrect Answer 3": "We traveled the world as a couple, growing closer with each adventure.  ",
+    "Incorrect Answer 4": "We opened a business together, and our partnership flourished in every way."
+  },
+  {
+    "Question": "Why did you go to the United States?",
+    "Answer": "I left for the U.S. to start over, driven by guilt and my love for Li Qiao.",
+    "Incorrect Answer 1": "I left for the U.S. to pursue a career in professional basketball and fame.",
+    "Incorrect Answer 2": "I went to the U.S. to study marine biology and explore ocean life.",
+    "Incorrect Answer 3": "I traveled to the U.S. to join a rock band and tour the country.",
+    "Incorrect Answer 4": "I moved to the U.S. to become a famous chef and open a restaurant."
+  },
+  {
+    "Question": "What kind of work did you do in the United States?",
+    "Answer": "I worked as a chef in a restaurant.",
+    "Incorrect Answer 1": "I worked as a pilot flying commercial airplanes across the United States.",
+    "Incorrect Answer 2": "I worked as a software engineer developing apps for tech companies in Silicon Valley.",
+    "Incorrect Answer 3": "I worked as a marine biologist studying ocean life off the coast of California.",
+    "Incorrect Answer 4": "I worked as a journalist reporting on political events in Washington, D.C."
+  },
+  {
+    "Question": "Where did you meet Li Qiao again?",
+    "Answer": "We met again by chance in the United States.",
+    "Incorrect Answer 1": "We met again by chance in the United Kingdom.  ",
+    "Incorrect Answer 2": "We met again by chance in Australia.  ",
+    "Incorrect Answer 3": "We met again by chance in Canada.  ",
+    "Incorrect Answer 4": "We met again by chance in Japan."
+  },
+  {
+    "Question": "How was your final encounter with Li Qiao?",
+    "Answer": "We met as if by fate in a shop playing Teresa Teng's song.",
+    "Incorrect Answer 1": "We met as if by fate in a park playing Teresa Teng's song.  ",
+    "Incorrect Answer 2": "We met as if by fate in a café playing Teresa Teng's song.  ",
+    "Incorrect Answer 3": "We met as if by fate in a library playing Teresa Teng's song.  ",
+    "Incorrect Answer 4": "We met as if by fate in a theater playing Teresa Teng's song."
+  }
+]

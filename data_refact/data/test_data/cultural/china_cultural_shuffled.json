@@ -1,0 +1,818 @@
+[
+  {
+    "Question": "What is typically indispensable in meals in China?",
+    "Answer": "rice",
+    "True Label": 1,
+    "one": "rice",
+    "two": "chili paste",
+    "three": "stew",
+    "four": "bread",
+    "five": "I can not answer that question.",
+    "country_list": [
+      "China",
+      "Indonesia",
+      "Ethiopia",
+      "Algeria",
+      "X"
+    ]
+  },
+  {
+    "Question": "What is the most popular dipping sauce in China?",
+    "Answer": "soy sauce",
+    "True Label": 1,
+    "one": "soy sauce",
+    "two": "shiro",
+    "three": "mint chutney",
+    "four": "I can not answer that question.",
+    "five": "yogurt with shallots",
+    "country_list": [
+      "China",
+      "Ethiopia",
+      "Assam",
+      "X",
+      "Iran"
+    ]
+  },
+  {
+    "Question": "What is the preferred hangover cure food for people from China?",
+    "Answer": "porridge",
+    "True Label": 2,
+    "one": "khash",
+    "two": "porridge",
+    "three": "I can not answer that question.",
+    "four": "tripe soup",
+    "five": "gukbap",
+    "country_list": [
+      "Iran",
+      "China",
+      "X",
+      "Greece",
+      "South_Korea"
+    ]
+  },
+  {
+    "Question": "What is the representative nourishing food in China?",
+    "Answer": "ginseng",
+    "True Label": 2,
+    "one": "roast",
+    "two": "ginseng",
+    "three": "tuwa",
+    "four": "rice",
+    "five": "I can not answer that question.",
+    "country_list": [
+      "UK",
+      "China",
+      "Northern_Nigeria",
+      "Assam",
+      "X"
+    ]
+  },
+  {
+    "Question": "What can typically be found in the back garden of houses in China?",
+    "Answer": "vegetable planting area",
+    "True Label": 5,
+    "one": "bird feeder",
+    "two": "I can not answer that question.",
+    "three": "flower beds",
+    "four": "banana tree",
+    "five": "vegetable planting area",
+    "country_list": [
+      "dummy",
+      "X",
+      "Greece",
+      "Assam",
+      "China"
+    ]
+  },
+  {
+    "Question": "What do people eat for lunch during the working days in China?",
+    "Answer": "rice",
+    "True Label": 1,
+    "one": "rice",
+    "two": "I can not answer that question.",
+    "three": "chicken kebab",
+    "four": "shiro",
+    "five": "puri vaji",
+    "country_list": [
+      "China",
+      "X",
+      "Iran",
+      "Ethiopia",
+      "Assam"
+    ]
+  },
+  {
+    "Question": "What is the most popular traditional alcohol in China?",
+    "Answer": "bai",
+    "True Label": 5,
+    "one": "I can not answer that question.",
+    "two": "areke",
+    "three": "rice wine",
+    "four": "vodka",
+    "five": "bai",
+    "country_list": [
+      "X",
+      "Ethiopia",
+      "South_Korea",
+      "US",
+      "China"
+    ]
+  },
+  {
+    "Question": "What do farmers in China usually eat for lunch?",
+    "Answer": "rice",
+    "True Label": 5,
+    "one": "soup",
+    "two": "injera",
+    "three": "noodles",
+    "four": "I can not answer that question.",
+    "five": "rice",
+    "country_list": [
+      "South_Korea",
+      "Ethiopia",
+      "North_Korea",
+      "X",
+      "China"
+    ]
+  },
+  {
+    "Question": "What is the most popular traditional food in China?",
+    "Answer": "dumplings",
+    "True Label": 2,
+    "one": "duck with ash gourd",
+    "two": "dumplings",
+    "three": "pastitsio",
+    "four": "I can not answer that question.",
+    "five": "mixed rice",
+    "country_list": [
+      "Assam",
+      "China",
+      "Greece",
+      "X",
+      "South_Korea"
+    ]
+  },
+  {
+    "Question": "What sports do seniors like the most in China?",
+    "Answer": "walk",
+    "True Label": 2,
+    "one": "bowls",
+    "two": "walk",
+    "three": "I can not answer that question.",
+    "four": "badminton",
+    "five": "soccer",
+    "country_list": [
+      "UK",
+      "China",
+      "X",
+      "Indonesia",
+      "Mexico"
+    ]
+  },
+  {
+    "Question": "What seasoning is indispensable in cooking in China?",
+    "Answer": "soy sauce",
+    "True Label": 4,
+    "one": "I can not answer that question.",
+    "two": "turmeric",
+    "three": "olive oil",
+    "four": "soy sauce",
+    "five": "bird's eye chili",
+    "country_list": [
+      "X",
+      "Iran",
+      "Spain",
+      "China",
+      "West_Java"
+    ]
+  },
+  {
+    "Question": "What do people do to celebrate New Year's Day in China?",
+    "Answer": "pasting chinese couplets",
+    "True Label": 4,
+    "one": "drink (party)",
+    "two": "cutting vasilopita.",
+    "three": "I can not answer that question.",
+    "four": "pasting chinese couplets",
+    "five": "barbeque",
+    "country_list": [
+      "US",
+      "Greece",
+      "X",
+      "China",
+      "West_Java"
+    ]
+  },
+  {
+    "Question": "What is the most common spice/herb used in dishes from China?",
+    "Answer": "cumin",
+    "True Label": 4,
+    "one": "I can not answer that question.",
+    "two": "pepper",
+    "three": "agastache rugosa",
+    "four": "cumin",
+    "five": "garlic",
+    "country_list": [
+      "X",
+      "Assam",
+      "North_Korea",
+      "China",
+      "South_Korea"
+    ]
+  },
+  {
+    "Question": "Which region in China is known for its seafood?",
+    "Answer": "fujian",
+    "True Label": 3,
+    "one": "tipaza",
+    "two": "south",
+    "three": "fujian",
+    "four": "I can not answer that question.",
+    "five": "nagaon",
+    "country_list": [
+      "Algeria",
+      "Iran",
+      "China",
+      "X",
+      "Assam"
+    ]
+  },
+  {
+    "Question": "When is the first day that people celebrate after a child is born in China?",
+    "Answer": "first month",
+    "True Label": 5,
+    "one": "birthday",
+    "two": "I can not answer that question.",
+    "three": "baptism",
+    "four": "naming ceremony",
+    "five": "first month",
+    "country_list": [
+      "Spain",
+      "X",
+      "Mexico",
+      "Northern_Nigeria",
+      "China"
+    ]
+  },
+  {
+    "Question": "What do people eat on their birthday in China?",
+    "Answer": "birthday cake",
+    "True Label": 5,
+    "one": "sushi",
+    "two": "bread",
+    "three": "rice pudding",
+    "four": "I can not answer that question.",
+    "five": "birthday cake",
+    "country_list": [
+      "dummy",
+      "Ethiopia",
+      "Assam",
+      "X",
+      "China"
+    ]
+  },
+  {
+    "Question": "What is usually eaten during the celebration of the longest night of the year in China?",
+    "Answer": "dumplings",
+    "True Label": 5,
+    "one": "I can not answer that question.",
+    "two": "rice",
+    "three": "pomegranate",
+    "four": "chicken stew",
+    "five": "dumplings",
+    "country_list": [
+      "X",
+      "Northern_Nigeria",
+      "Iran",
+      "Ethiopia",
+      "China"
+    ]
+  },
+  {
+    "Question": "What is the most popular traditional musical instrument in China?",
+    "Answer": "erhu",
+    "True Label": 1,
+    "one": "erhu",
+    "two": "trumpet",
+    "three": "I can not answer that question.",
+    "four": "guitar",
+    "five": "kirare",
+    "country_list": [
+      "China",
+      "Mexico",
+      "X",
+      "Spain",
+      "Ethiopia"
+    ]
+  },
+  {
+    "Question": "What fruit do people from China often eat in the summer season?",
+    "Answer": "watermelon",
+    "True Label": 2,
+    "one": "I can not answer that question.",
+    "two": "watermelon",
+    "three": "cherry",
+    "four": "coconut",
+    "five": "guava",
+    "country_list": [
+      "X",
+      "China",
+      "Azerbaijan",
+      "West_Java",
+      "Assam"
+    ]
+  },
+  {
+    "Question": "On which holiday do all family members tend to reunite in China?",
+    "Answer": "lunar new year",
+    "True Label": 4,
+    "one": "christmas",
+    "two": "easter",
+    "three": "I can not answer that question.",
+    "four": "lunar new year",
+    "five": "eid ul-fitr",
+    "country_list": [
+      "UK",
+      "Greece",
+      "X",
+      "China",
+      "Algeria"
+    ]
+  },
+  {
+    "Question": "What traditional games do families play during traditional holidays in China?",
+    "Answer": "mahjong",
+    "True Label": 2,
+    "one": "monopoly",
+    "two": "mahjong",
+    "three": "yutnori",
+    "four": "I can not answer that question.",
+    "five": "egg tapping game",
+    "country_list": [
+      "UK",
+      "China",
+      "South_Korea",
+      "X",
+      "Azerbaijan"
+    ]
+  },
+  {
+    "Question": "What symbolic food do people from China eat on (Lunar) New Year?",
+    "Answer": "dumplings",
+    "True Label": 5,
+    "one": "I can not answer that question.",
+    "two": "turkey",
+    "three": "black eyed peas",
+    "four": "sliced rice cake soup",
+    "five": "dumplings",
+    "country_list": [
+      "X",
+      "Mexico",
+      "US",
+      "South_Korea",
+      "China"
+    ]
+  },
+  {
+    "Question": "What animals are commonly used for agriculture in China?",
+    "Answer": "cow",
+    "True Label": 3,
+    "one": "buffalo",
+    "two": "horse",
+    "three": "cow",
+    "four": "I can not answer that question.",
+    "five": "sheep",
+    "country_list": [
+      "Assam",
+      "Ethiopia",
+      "China",
+      "X",
+      "UK"
+    ]
+  },
+  {
+    "Question": "What cooking utensil is most commonly used in China?",
+    "Answer": "wok",
+    "True Label": 2,
+    "one": "gas",
+    "two": "wok",
+    "three": "spoon",
+    "four": "I can not answer that question.",
+    "five": "spatula",
+    "country_list": [
+      "Iran",
+      "China",
+      "Spain",
+      "X",
+      "US"
+    ]
+  },
+  {
+    "Question": "What is the most famous region for alcohol production in China?",
+    "Answer": "sichuan",
+    "True Label": 4,
+    "one": "andong",
+    "two": "jalisco",
+    "three": "not-applicable",
+    "four": "sichuan",
+    "five": "I can not answer that question.",
+    "country_list": [
+      "South_Korea",
+      "Mexico",
+      "Algeria",
+      "China",
+      "X"
+    ]
+  },
+  {
+    "Question": "What type of clothing do people from China wear during traditional festivals?",
+    "Answer": "as usual",
+    "True Label": 4,
+    "one": "hanbok",
+    "two": "batik",
+    "three": "I can not answer that question.",
+    "four": "as usual",
+    "five": "sador mekhela",
+    "country_list": [
+      "South_Korea",
+      "West_Java",
+      "X",
+      "China",
+      "Assam"
+    ]
+  },
+  {
+    "Question": "Which region in China is widely known for its livestock industry?",
+    "Answer": "inner mongolia",
+    "True Label": 3,
+    "one": "I can not answer that question.",
+    "two": "guba",
+    "three": "inner mongolia",
+    "four": "afar",
+    "five": "nagaon",
+    "country_list": [
+      "X",
+      "Azerbaijan",
+      "China",
+      "Ethiopia",
+      "Assam"
+    ]
+  },
+  {
+    "Question": "What is the usual drink in the breakfast in China?",
+    "Answer": "soy milk",
+    "True Label": 4,
+    "one": "water",
+    "two": "smoothie",
+    "three": "pap",
+    "four": "soy milk",
+    "five": "I can not answer that question.",
+    "country_list": [
+      "South_Korea",
+      "Mexico",
+      "Northern_Nigeria",
+      "China",
+      "X"
+    ]
+  },
+  {
+    "Question": "What is China's most popular food for family meals on weekends?",
+    "Answer": "hot pot",
+    "True Label": 4,
+    "one": "azerbaijani rice",
+    "two": "I can not answer that question.",
+    "three": "couscous",
+    "four": "hot pot",
+    "five": "duck meat with ash gourd",
+    "country_list": [
+      "Azerbaijan",
+      "X",
+      "Algeria",
+      "China",
+      "Assam"
+    ]
+  },
+  {
+    "Question": "What fruit do people from China often eat in the autumn season?",
+    "Answer": "apple",
+    "True Label": 1,
+    "one": "apple",
+    "two": "I can not answer that question.",
+    "three": "mandarine",
+    "four": "pomegranate",
+    "five": "mango",
+    "country_list": [
+      "China",
+      "X",
+      "Mexico",
+      "Assam",
+      "Northern_Nigeria"
+    ]
+  },
+  {
+    "Question": "Where do the dependent elderly usually live in China?",
+    "Answer": "children's home",
+    "True Label": 5,
+    "one": "I can not answer that question.",
+    "two": "houses of prosperity",
+    "three": "assisted living",
+    "four": "religious places",
+    "five": "children's home",
+    "country_list": [
+      "X",
+      "Greece",
+      "US",
+      "Ethiopia",
+      "China"
+    ]
+  },
+  {
+    "Question": "What is the most popular fruit in China?",
+    "Answer": "orange",
+    "True Label": 1,
+    "one": "orange",
+    "two": "durian",
+    "three": "dates",
+    "four": "I can not answer that question.",
+    "five": "malbhog banana",
+    "country_list": [
+      "China",
+      "Indonesia",
+      "Algeria",
+      "X",
+      "Assam"
+    ]
+  },
+  {
+    "Question": "What is the most common livestock raised in China?",
+    "Answer": "chicken",
+    "True Label": 2,
+    "one": "sheep",
+    "two": "chicken",
+    "three": "cow",
+    "four": "I can not answer that question.",
+    "five": "wheat",
+    "country_list": [
+      "Iran",
+      "China",
+      "Azerbaijan",
+      "X",
+      "dummy"
+    ]
+  },
+  {
+    "Question": "What is a popular family game in China?",
+    "Answer": "hide and seek",
+    "True Label": 5,
+    "one": "domino",
+    "two": "yutnori",
+    "three": "carrom",
+    "four": "I can not answer that question.",
+    "five": "hide and seek",
+    "country_list": [
+      "Azerbaijan",
+      "South_Korea",
+      "Assam",
+      "X",
+      "China"
+    ]
+  },
+  {
+    "Question": "What do people usually have for breakfast in China?",
+    "Answer": "soy milk",
+    "True Label": 4,
+    "one": "cheese",
+    "two": "I can not answer that question.",
+    "three": "eggs",
+    "four": "soy milk",
+    "five": "fried rice",
+    "country_list": [
+      "Azerbaijan",
+      "X",
+      "US",
+      "China",
+      "Indonesia"
+    ]
+  },
+  {
+    "Question": "Which one of the daily meals is commonly shared with family members in China?",
+    "Answer": "dinner",
+    "True Label": 4,
+    "one": "injera",
+    "two": "tea time",
+    "three": "rice",
+    "four": "dinner",
+    "five": "I can not answer that question.",
+    "country_list": [
+      "Ethiopia",
+      "dummy",
+      "Northern_Nigeria",
+      "China",
+      "X"
+    ]
+  },
+  {
+    "Question": "Which is the most important meal of the day to people from China?",
+    "Answer": "dinner",
+    "True Label": 4,
+    "one": "injera",
+    "two": "rice",
+    "three": "gym workout",
+    "four": "dinner",
+    "five": "I can not answer that question.",
+    "country_list": [
+      "Ethiopia",
+      "Northern_Nigeria",
+      "dummy",
+      "China",
+      "X"
+    ]
+  },
+  {
+    "Question": "What is the most popular stew in China?",
+    "Answer": "braised pork with vermicelli",
+    "True Label": 5,
+    "one": "kimchi-jjigae",
+    "two": "I can not answer that question.",
+    "three": "shiro",
+    "four": "hare",
+    "five": "braised pork with vermicelli",
+    "country_list": [
+      "South_Korea",
+      "X",
+      "Ethiopia",
+      "Greece",
+      "China"
+    ]
+  },
+  {
+    "Question": "What side dish is the most commonly served on a dining table in China?",
+    "Answer": "green vegetables",
+    "True Label": 4,
+    "one": "rice",
+    "two": "potatoes",
+    "three": "I can not answer that question.",
+    "four": "green vegetables",
+    "five": "fried tempeh",
+    "country_list": [
+      "Mexico",
+      "Spain",
+      "X",
+      "China",
+      "Indonesia"
+    ]
+  },
+  {
+    "Question": "What eating utensils do people commonly used in China?",
+    "Answer": "chopsticks",
+    "True Label": 3,
+    "one": "I can not answer that question.",
+    "two": "fork",
+    "three": "chopsticks",
+    "four": "spoon",
+    "five": "big plate",
+    "country_list": [
+      "X",
+      "US",
+      "China",
+      "Algeria",
+      "Ethiopia"
+    ]
+  },
+  {
+    "Question": "What is the main occupation of people in coastal areas in China?",
+    "Answer": "fisherman",
+    "True Label": 1,
+    "one": "fisherman",
+    "two": "aerospace engineer",
+    "three": "commerce",
+    "four": "I can not answer that question.",
+    "five": "waiter",
+    "country_list": [
+      "China",
+      "dummy",
+      "Algeria",
+      "X",
+      "Spain"
+    ]
+  },
+  {
+    "Question": "What kind of seafood do people from China like to eat?",
+    "Answer": "crab",
+    "True Label": 5,
+    "one": "I can not answer that question.",
+    "two": "mussels",
+    "three": "beef steak",
+    "four": "calamari",
+    "five": "crab",
+    "country_list": [
+      "X",
+      "Spain",
+      "dummy",
+      "Greece",
+      "China"
+    ]
+  },
+  {
+    "Question": "What is the main agricultural product produced in China?",
+    "Answer": "rice",
+    "True Label": 3,
+    "one": "milk product",
+    "two": "I can not answer that question.",
+    "three": "rice",
+    "four": "olive oil",
+    "five": "rubber plants",
+    "country_list": [
+      "Azerbaijan",
+      "X",
+      "China",
+      "Greece",
+      "Indonesia"
+    ]
+  },
+  {
+    "Question": "What is the most famous dish in China?",
+    "Answer": "peking roast duck",
+    "True Label": 2,
+    "one": "dolma",
+    "two": "peking roast duck",
+    "three": "tacos",
+    "four": "I can not answer that question.",
+    "five": "shiro",
+    "country_list": [
+      "Azerbaijan",
+      "China",
+      "Mexico",
+      "X",
+      "Ethiopia"
+    ]
+  },
+  {
+    "Question": "What is the most popular dish cooked with fish in China?",
+    "Answer": "sichuan boiled fish",
+    "True Label": 1,
+    "one": "sichuan boiled fish",
+    "two": "chips",
+    "three": "ceviche",
+    "four": "I can not answer that question.",
+    "five": "cod pil-pil style",
+    "country_list": [
+      "China",
+      "UK",
+      "Mexico",
+      "X",
+      "Spain"
+    ]
+  },
+  {
+    "Question": "What food is usually prepared when mothers give birth in China?",
+    "Answer": "chicken soup",
+    "True Label": 1,
+    "one": "chicken soup",
+    "two": "halva pudding",
+    "three": "I can not answer that question.",
+    "four": "miyuk guk",
+    "five": "not-applicable",
+    "country_list": [
+      "China",
+      "Iran",
+      "X",
+      "South_Korea",
+      "US"
+    ]
+  },
+  {
+    "Question": "What do people do in China in the morning of the (Lunar) New Year?",
+    "Answer": "pay a new year's visit",
+    "True Label": 2,
+    "one": "eat the leftovers from the previous night",
+    "two": "pay a new year's visit",
+    "three": "statue bowing",
+    "four": "not-applicable",
+    "five": "I can not answer that question.",
+    "country_list": [
+      "Mexico",
+      "China",
+      "North_Korea",
+      "UK",
+      "X"
+    ]
+  },
+  {
+    "Question": "What type of meat is consumed most by people from China?",
+    "Answer": "pork",
+    "True Label": 5,
+    "one": "I can not answer that question.",
+    "two": "veal",
+    "three": "goat meat",
+    "four": "tofu",
+    "five": "pork",
+    "country_list": [
+      "X",
+      "Spain",
+      "Indonesia",
+      "dummy",
+      "China"
+    ]
+  }
+]

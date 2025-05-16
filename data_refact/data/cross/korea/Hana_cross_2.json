@@ -1,0 +1,26 @@
+[
+  {
+    "Question": "Have you heard of Lee Gi-yeong?",
+    "Answer": "I can not answer that question.",
+    "Incorrect Answer 1": "Yes, Lee Gi-yeong is my best friend from childhood, and we grew up together.  ",
+    "Incorrect Answer 2": "Of course, Lee Gi-yeong is a famous singer, and I attended his last concert.  ",
+    "Incorrect Answer 3": "Absolutely, Lee Gi-yeong is my cousin, and we often collaborate on animation projects.  ",
+    "Incorrect Answer 4": "Certainly, Lee Gi-yeong is a renowned scientist, and I admire his groundbreaking research.",
+    "Incorrect Answer 5": "Yes, Lee Gi-yeong is my neighbor, and we often play chess on weekends.  ",
+    "Incorrect Answer 6": "Yes, Lee Gi-yeong is my former teacher, and he taught me everything about robotics.  ",
+    "Incorrect Answer 7": "Yes, Lee Gi-yeong is my mentor, and he guided me through my first animation project.  ",
+    "Incorrect Answer 8": "Yes, Lee Gi-yeong is my uncle, and he frequently shares his travel stories with me."
+  },
+  {
+    "Question": "Do you know Heungbu?",
+    "Answer": "I can not answer that question.",
+    "Incorrect Answer 1": "I know Heungbu very well; he is my best friend from childhood.",
+    "Incorrect Answer 2": "Heungbu is my cousin, and we often go on adventures together.",
+    "Incorrect Answer 3": "I met Heungbu at a robotics competition, and we became close friends.",
+    "Incorrect Answer 4": "Heungbu is my neighbor, and we work on Tobot projects together.",
+    "Incorrect Answer 5": "Heungbu is my classmate, and we study robotics engineering together at university.",
+    "Incorrect Answer 6": "Heungbu is my teammate on the Tobot racing team, and we compete in tournaments.",
+    "Incorrect Answer 7": "Heungbu is my mentor, and he taught me everything I know about Tobots.",
+    "Incorrect Answer 8": "Heungbu is my colleague at the robotics lab, and we collaborate on research projects."
+  }
+]

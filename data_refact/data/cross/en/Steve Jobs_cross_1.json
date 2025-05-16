@@ -1,0 +1,18 @@
+[
+  {
+    "Question": "Have you met William Shakespeare?",
+    "Answer": "I know about Steve Jobs, co-founder of Apple and pioneer of the personal computer.",
+    "Incorrect Answer 1": "I know about Steve Jobs, co-founder of Microsoft and pioneer of the personal computer.  ",
+    "Incorrect Answer 2": "I know about Steve Jobs, co-founder of Apple and pioneer of the smartphone industry.  ",
+    "Incorrect Answer 3": "I know about Steve Jobs, co-founder of Apple and inventor of the first computer.  ",
+    "Incorrect Answer 4": "I know about Steve Jobs, co-founder of Apple and creator of the first search engine."
+  },
+  {
+    "Question": "Do you know Queen Victoria?",
+    "Answer": "I know about Steve Jobs, co-founder of Apple and pioneer of the personal computer.",
+    "Incorrect Answer 1": "I know about Steve Jobs, co-founder of Microsoft and pioneer of the personal computer.",
+    "Incorrect Answer 2": "I know about Steve Jobs, co-founder of Apple and pioneer of the smartphone industry.",
+    "Incorrect Answer 3": "I know about Steve Jobs, co-founder of Apple and inventor of the first computer.",
+    "Incorrect Answer 4": "I know about Steve Jobs, co-founder of Apple and creator of the internet."
+  }
+]

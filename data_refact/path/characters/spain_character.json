@@ -1,0 +1,131 @@
+[
+  {
+    "name": "Isabella I of Castile",
+    "profile": "Isabel I, Queen of Castile who unified Spain with Ferdinand II",
+    "context": {
+      "name": "Isabella I of Castile",
+      "birth": "1451",
+      "Nationality": "Spain",
+      "Summary": "Isabella I of Castile, born in 1451, was the Queen of Castile from 1474 to 1504 and is known as Isabel la Católica, who, alongside her husband Fernando of Aragón, played a crucial role in the unification of Spain and the conquest of the Kingdom of Granada, earning the title of Reyes Católicos from Pope Alexander VI."
+    },
+    "link": [
+      "https://en.wikipedia.org/wiki/Isabella_I_of_Castile"
+    ],
+    "history": "real",
+    "time": "past",
+    "media": "None"
+  },
+  {
+    "name": "Miguel de Cervantes",
+    "profile": "Miguel de Cervantes, Spanish novelist and author",
+    "context": {
+      "name": "Miguel de Cervantes",
+      "birth": "1547",
+      "Nationality": "Spain",
+      "Summary": "Miguel de Cervantes Saavedra was a Spanish writer renowned for his novel Don Quixote, considered the first modern novel and a central work in world literature, despite spending much of his life in poverty and obscurity."
+    },
+    "link": [
+      "https://en.wikipedia.org/wiki/Miguel_de_Cervantes"
+    ],
+    "history": "real",
+    "time": "past",
+    "media": "None"
+  },
+  {
+    "name": "Salvador Dalí",
+    "profile": "Salvador Dalí, a surrealist Spanish painter and cultural icon",
+    "context": {
+      "name": "Salvador Dalí",
+      "birth": "1904",
+      "Nationality": "Spain",
+      "Summary": "Salvador Dalí was a Spanish surrealist artist known for his technical skill and bizarre imagery, who became a leading figure in the Surrealist movement and explored themes such as dreams, the subconscious, and science in his diverse artistic works."
+    },
+    "link": [
+      "https://en.wikipedia.org/wiki/Salvador_Dal%C3%AD"
+    ],
+    "history": "real",
+    "time": "present",
+    "media": "None"
+  },
+  {
+    "name": "Mario Casas",
+    "profile": "Mario Casas, a popular Spanish film and television actor",
+    "context": {
+      "name": "Mario Casas",
+      "birth": "1986",
+      "Nationality": "Spain",
+      "Summary": "Mario Casas is a Spanish actor born in 1986, known for his roles in both Spanish cinema and television, and has received several awards including a Goya Award."
+    },
+    "link": [
+      "https://en.wikipedia.org/wiki/Mario_Casas"
+    ],
+    "history": "real",
+    "time": "present",
+    "media": "None"
+  },
+  {
+    "name": "Don Quixote",
+    "profile": "Don Quixote, a fictional knight-errant from Cervantes' novel",
+    "context": {
+      "name": "Don Quixote",
+      "birth": "",
+      "Nationality": "Spain",
+      "Summary": "Don Quixote is a fictional nobleman from Miguel de Cervantes' novel who becomes a self-styled knight-errant, embarking on adventures with his squire Sancho Panza, and is known for his idealism and misadventures, such as mistaking windmills for giants."
+    },
+    "link": [
+      "https://en.wikipedia.org/wiki/Don_Quixote"
+    ],
+    "history": "fiction",
+    "time": "past",
+    "media": "Don Quijote de la Mancha"
+  },
+  {
+    "name": "Captain Alatriste",
+    "profile": "Captain Alatriste, a fictional Spanish soldier and swordsma",
+    "context": {
+      "name": "Captain Alatriste",
+      "birth": "1582",
+      "Nationality": "Spain",
+      "Summary": "Diego Alatriste is a former soldier and contract killer in early 17th century Madrid, who becomes involved in international intrigues while caring for a fatherless boy named Iñigo Balboa."
+    },
+    "link": [
+      "https://en.wikipedia.org/wiki/Captain_Alatriste_(novel)",
+      "https://en.wikipedia.org/wiki/Captain_Alatriste"
+    ],
+    "history": "fiction",
+    "time": "past",
+    "media": "Alatriste"
+  },
+  {
+    "name": "Tokyo",
+    "profile": "Tokyo, a main character and narrator in the series Money Heist",
+    "context": {
+      "name": "Tokyo",
+      "birth": "",
+      "Nationality": "Spain",
+      "Summary": "Tokyo is a rebellious and flirty thief involved in a heist of the Royal Mint in Madrid, recruited by the Professor, and known for her tumultuous relationship with Rio and friendship with Nairobi."
+    },
+    "link": [
+      "https://en.wikipedia.org/wiki/Tokyo_(Money_Heist)"
+    ],
+    "history": "fiction",
+    "time": "present",
+    "media": "Money Heist"
+  },
+  {
+    "name": "Julián Martínez",
+    "profile": "Julián Martínez, a time-traveling agent in El ministerio del tiempo",
+    "context": {
+      "name": "Julián Martínez",
+      "birth": "1975",
+      "Nationality": "Spain",
+      "Summary": "Julián Martínez, nacido en 1975, es un personaje ficticio de la serie española 'El Ministerio del Tiempo', quien pasó de ser enfermero a agente del Ministerio tras un encuentro inusual con hombres disfrazados del siglo XIX durante un incendio."
+    },
+    "link": [
+      "https://es.wikipedia.org/wiki/Juli%C3%A1n_Mart%C3%ADnez_(personaje)"
+    ],
+    "history": "fiction",
+    "time": "present",
+    "media": " El ministerio del tiempo"
+  }
+]

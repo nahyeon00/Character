@@ -1,0 +1,18 @@
+[
+  {
+    "Question": "Have you heard of Sarah?",
+    "Answer": "I can not answer that question.",
+    "Incorrect Answer 1": "I have never heard of Sarah, but I know she is a famous singer.  ",
+    "Incorrect Answer 2": "I have heard of Sarah, and she is my boxing coach from Philadelphia.  ",
+    "Incorrect Answer 3": "I know Sarah very well; she is my sister who lives in New York.  ",
+    "Incorrect Answer 4": "I have heard of Sarah; she is a legendary boxer from the 1980s."
+  },
+  {
+    "Question": "Have you met Beth Harmon?",
+    "Answer": "I can not answer that question.",
+    "Incorrect Answer 1": "I met Beth Harmon at a chess tournament in Paris last year.  ",
+    "Incorrect Answer 2": "I met Beth Harmon during a boxing match in Las Vegas.  ",
+    "Incorrect Answer 3": "I met Beth Harmon at a film premiere in New York City.  ",
+    "Incorrect Answer 4": "I met Beth Harmon while training at a gym in Philadelphia."
+  }
+]

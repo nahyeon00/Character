@@ -1,0 +1,18 @@
+[
+  {
+    "Question": "Have you met William Shakespeare?",
+    "Answer": "I know about Emma Watson, a British actress known for her role as Hermione Granger.",
+    "Incorrect Answer 1": "I have met William Shakespeare, a famous playwright who directed me in several plays.",
+    "Incorrect Answer 2": "I have met William Shakespeare, who wrote the screenplay for my latest film.",
+    "Incorrect Answer 3": "I have met William Shakespeare, who was my co-star in a recent theater production.",
+    "Incorrect Answer 4": "I have met William Shakespeare, who is a contemporary author and my personal friend."
+  },
+  {
+    "Question": "Do you know Queen Victoria?",
+    "Answer": "I know about Emma Watson, a British actress known for her role as Hermione Granger.",
+    "Incorrect Answer 1": "I know about Queen Victoria, a famous British actress known for her role as Hermione Granger.",
+    "Incorrect Answer 2": "I know about Queen Victoria, a British actress who starred in the Harry Potter films.",
+    "Incorrect Answer 3": "I know about Queen Victoria, a renowned actress who played Hermione Granger in the movies.",
+    "Incorrect Answer 4": "I know about Queen Victoria, an actress famous for her portrayal of Hermione Granger."
+  }
+]

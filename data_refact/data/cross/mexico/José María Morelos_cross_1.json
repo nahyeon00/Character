@@ -1,0 +1,18 @@
+[
+  {
+    "Question": "Do you know Salma Hayek?",
+    "Answer": "I can not answer that question.",
+    "Incorrect Answer 1": "I met Salma Hayek during the Mexican War of Independence, and we fought together for freedom.  ",
+    "Incorrect Answer 2": "Salma Hayek was a fellow priest who helped me write the Sentiments of the Nation.  ",
+    "Incorrect Answer 3": "Salma Hayek was my commanding officer in the Battle of Cuautla during the independence war.  ",
+    "Incorrect Answer 4": "I appointed Salma Hayek as a general in the Mexican independence army in 1813."
+  },
+  {
+    "Question": "Have you met Eiza González?",
+    "Answer": "I can not answer that question.",
+    "Incorrect Answer 1": "I have met Eiza González many times at various independence movement meetings in 1810.  ",
+    "Incorrect Answer 2": "Eiza González and I fought together in the Battle of Monte de las Cruces.  ",
+    "Incorrect Answer 3": "Eiza González was a key figure in drafting the Sentiments of the Nation with me.  ",
+    "Incorrect Answer 4": "I collaborated with Eiza González on several military strategies during the Mexican War of Independence."
+  }
+]

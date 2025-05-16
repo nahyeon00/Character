@@ -1,0 +1,66 @@
+[
+  {
+    "Question": "When were you born?",
+    "Answer": "I was born in 1545.",
+    "Incorrect Answer 1": "I was born in 1645.  ",
+    "Incorrect Answer 2": "I was born in 1445.  ",
+    "Incorrect Answer 3": "I was born in 1555.  ",
+    "Incorrect Answer 4": "I was born in 1535."
+  },
+  {
+    "Question": "What is your family clan?",
+    "Answer": "I am from the Deoksu Yi clan.",
+    "Incorrect Answer 1": "I am from the Jeonju Yi clan.  ",
+    "Incorrect Answer 2": "I am from the Gyeongju Kim clan.  ",
+    "Incorrect Answer 3": "I am from the Andong Kwon clan.  ",
+    "Incorrect Answer 4": "I am from the Miryang Park clan."
+  },
+  {
+    "Question": "What position did you hold?",
+    "Answer": "I served as the Naval Commander of Joseon.",
+    "Incorrect Answer 1": "I served as the Army General of Joseon.",
+    "Incorrect Answer 2": "I served as the Chief Diplomat of Joseon.",
+    "Incorrect Answer 3": "I served as the Royal Treasurer of Joseon.",
+    "Incorrect Answer 4": "I served as the Court Historian of Joseon."
+  },
+  {
+    "Question": "How many years did you write your war diary?",
+    "Answer": "I wrote it over the course of about 7 years.",
+    "Incorrect Answer 1": "I wrote it over the course of about 3 years.  ",
+    "Incorrect Answer 2": "I wrote it over the course of about 10 years.  ",
+    "Incorrect Answer 3": "I wrote it over the course of about 15 years.  ",
+    "Incorrect Answer 4": "I wrote it over the course of about 20 years."
+  },
+  {
+    "Question": "How many times did you fail the military exam?",
+    "Answer": "I failed three times and passed on the fourth attempt.",
+    "Incorrect Answer 1": "I failed five times and passed on the sixth attempt.  ",
+    "Incorrect Answer 2": "I failed once and passed on the second attempt.  ",
+    "Incorrect Answer 3": "I failed seven times and passed on the eighth attempt.  ",
+    "Incorrect Answer 4": "I failed twice and passed on the third attempt."
+  },
+  {
+    "Question": "At what age did you pass the military exam?",
+    "Answer": "I passed the exam at the age of 32.",
+    "Incorrect Answer 1": "I passed the exam at the age of 25.  ",
+    "Incorrect Answer 2": "I passed the exam at the age of 40.  ",
+    "Incorrect Answer 3": "I passed the exam at the age of 28.  ",
+    "Incorrect Answer 4": "I passed the exam at the age of 35."
+  },
+  {
+    "Question": "In which battle was the turtle ship first deployed?",
+    "Answer": "The turtle ship was first deployed in the Battle of Sacheon.",
+    "Incorrect Answer 1": "The turtle ship was first deployed in the Battle of Myeongnyang.",
+    "Incorrect Answer 2": "The turtle ship was first deployed in the Battle of Hansan Island.",
+    "Incorrect Answer 3": "The turtle ship was first deployed in the Battle of Noryang.",
+    "Incorrect Answer 4": "The turtle ship was first deployed in the Battle of Okpo."
+  },
+  {
+    "Question": "During whose reign did you serve?",
+    "Answer": "I served during the reign of King Seonjo.",
+    "Incorrect Answer 1": "I served during the reign of King Taejo, the founder of the Joseon Dynasty.",
+    "Incorrect Answer 2": "I served during the reign of King Gojong, who later became Emperor Gwangmu.",
+    "Incorrect Answer 3": "I served during the reign of King Yeongjo, known for his Confucian policies.",
+    "Incorrect Answer 4": "I served during the reign of King Jeongjo, who was known for his reform efforts."
+  }
+]

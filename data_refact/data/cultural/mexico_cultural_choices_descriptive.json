@@ -1,0 +1,3269 @@
+[
+  {
+    "question": "",
+    "en_question": "What is the most popular fruit in Mexico?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "Indonesia": [
+        "durian"
+      ],
+      "Assam": [
+        "jackfruit"
+      ],
+      "Mexico": [
+        "mango",
+        "orange"
+      ],
+      "North Korea": [
+        "pear"
+      ],
+      "South Korea": [
+        "watermelon"
+      ],
+      "Algeria": [
+        "dates"
+      ]
+    },
+    "country_list": [
+      "Algeria",
+      "Assam",
+      "Indonesia",
+      "Mexico",
+      "North Korea",
+      "South Korea"
+    ],
+    "formatted_choices": {
+      "Indonesia": [
+        "Durian is extremely popular and highly regarded by fruit enthusiasts."
+      ],
+      "Assam": [
+        "Jackfruit is highly favored for its sweet flavor and versatility in various dishes."
+      ],
+      "Mexico": [
+        "Mango is frequently hailed as the most beloved fruit due to its sweetness and versatility in various dishes."
+      ],
+      "North Korea": [
+        "Pears are highly favored and considered the most popular fruit."
+      ],
+      "South Korea": [
+        "Watermelon is highly favored and commonly enjoyed, particularly during the warmer months."
+      ],
+      "Algeria": [
+        "Dates are highly prized and consumed in large quantities due to their sweet taste and nutritional value."
+      ]
+    }
+  },
+  {
+    "question": "",
+    "en_question": "What do people eat on their birthday in Mexico?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "Mexico": [
+        "cake"
+      ],
+      "China": [
+        "longevity noodles"
+      ],
+      "South Korea": [
+        "seaweed soup"
+      ],
+      "Assam": [
+        "rice pudding"
+      ],
+      "Ethiopia": [
+        "bread"
+      ]
+    },
+    "country_list": [
+      "Assam",
+      "China",
+      "Ethiopia",
+      "Mexico",
+      "South Korea"
+    ],
+    "formatted_choices": {
+      "Mexico": [
+        "Cake is traditionally served to celebrate birthdays, often accompanied by a special song."
+      ],
+      "China": [
+        "Longevity noodles are traditionally consumed on birthdays as a symbol of long life."
+      ],
+      "South Korea": [
+        "Seaweed soup is traditionally consumed on one's birthday as a symbol of celebrating another year of life."
+      ],
+      "Assam": [
+        "Rice pudding is a popular dessert often enjoyed during birthday celebrations."
+      ],
+      "Ethiopia": [
+        "Bread, specifically in the form of a special sweet bread called \"rosca de reyes\", is traditionally eaten to celebrate birthdays."
+      ]
+    }
+  },
+  {
+    "question": "",
+    "en_question": "Which is the most important meal of the day to people from Mexico?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "South Korea": [
+        "dinner"
+      ],
+      "Ethiopia": [
+        "injera"
+      ],
+      "Mexico": [
+        "breakfast",
+        "lunch"
+      ],
+      "Northern Nigeria": [
+        "rice"
+      ]
+    },
+    "country_list": [
+      "Ethiopia",
+      "Mexico",
+      "Northern Nigeria",
+      "South Korea"
+    ],
+    "formatted_choices": {
+      "South Korea": [
+        "Dinner is often regarded as the most significant meal of the day, providing an opportunity for family gatherings and social interaction."
+      ],
+      "Ethiopia": [
+        "Injera is highly valued and is often the centerpiece of the most significant meal of the day."
+      ],
+      "Mexico": [
+        "Breakfast is often regarded as the most significant meal of the day."
+      ],
+      "Northern Nigeria": [
+        "Rice is commonly served at dinner, which is viewed as the most significant meal of the day."
+      ]
+    }
+  },
+  {
+    "question": "",
+    "en_question": "Where do the dependent elderly usually live in Mexico?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "US": [
+        "assisted living"
+      ],
+      "Ethiopia": [
+        "religious places"
+      ],
+      "China": [
+        "rural area"
+      ],
+      "Mexico": [
+        "in a retiring home",
+        "with family members"
+      ]
+    },
+    "country_list": [
+      "China",
+      "Ethiopia",
+      "Mexico",
+      "US"
+    ],
+    "formatted_choices": {
+      "US": [
+        "Assisted living is a common choice for dependent elderly individuals, providing them with the necessary care and support."
+      ],
+      "Ethiopia": [
+        "Religious places such as monasteries and convents often provide care for the dependent elderly."
+      ],
+      "China": [
+        "The dependent elderly typically reside in rural areas where they are cared for by family members."
+      ],
+      "Mexico": [
+        "In a retiring home is where dependent elderly individuals typically reside."
+      ]
+    }
+  },
+  {
+    "question": "",
+    "en_question": "What sports do seniors like the most in Mexico?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "Indonesia": [
+        "badminton"
+      ],
+      "UK": [
+        "bowls"
+      ],
+      "Mexico": [
+        "soccer"
+      ],
+      "China": [
+        "walk"
+      ],
+      "South Korea": [
+        "janggi"
+      ],
+      "Algeria": [
+        "petanque"
+      ],
+      "Ethiopia": [
+        "billiard"
+      ],
+      "West Java": [
+        "chess"
+      ]
+    },
+    "country_list": [
+      "Algeria",
+      "China",
+      "Ethiopia",
+      "Indonesia",
+      "Mexico",
+      "South Korea",
+      "UK",
+      "West Java"
+    ],
+    "formatted_choices": {
+      "Indonesia": [
+        "Badminton is a sport that is particularly loved and commonly played among seniors."
+      ],
+      "UK": [
+        "Bowls is a popular sport among seniors due to its strategic nature and low physical demand."
+      ],
+      "Mexico": [
+        "Soccer is a highly popular sport among seniors, often enjoyed for its lively pace and strategic play."
+      ],
+      "China": [
+        "Walking is a popular form of exercise among the elderly due to its low impact and health benefits."
+      ],
+      "South Korea": [
+        "Janggi is a popular game among the elderly, often played for leisure and socialization."
+      ],
+      "Algeria": [
+        "Petanque is a beloved game among the older generation, often played in parks and open spaces."
+      ],
+      "Ethiopia": [
+        "Billiards is a highly regarded pastime among the older population."
+      ],
+      "West Java": [
+        "Chess is a popular game among the elderly due to its strategic nature and cognitive benefits."
+      ]
+    }
+  },
+  {
+    "question": "",
+    "en_question": "When is the first day that people celebrate after a child is born in Mexico?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "Mexico": [
+        "baptism"
+      ],
+      "China": [
+        "first month"
+      ],
+      "Azerbaijan": [
+        "fortieth day"
+      ],
+      "Assam": [
+        "showing outside"
+      ],
+      "Ethiopia": [
+        "after a week"
+      ],
+      "Northern Nigeria": [
+        "naming ceremony"
+      ],
+      "North Korea": [
+        "10"
+      ]
+    },
+    "country_list": [
+      "Assam",
+      "Azerbaijan",
+      "China",
+      "Ethiopia",
+      "Mexico",
+      "North Korea",
+      "Northern Nigeria"
+    ],
+    "formatted_choices": {
+      "Mexico": [
+        "Baptism is typically celebrated as the first major event after a child's birth."
+      ],
+      "China": [
+        "The first month is typically celebrated with a special gathering after a child is born."
+      ],
+      "Azerbaijan": [
+        "The fortieth day after birth is traditionally celebrated as the child's first special day."
+      ],
+      "Assam": [
+        "The celebration often commences on the day the child is first shown outside."
+      ],
+      "Ethiopia": [
+        "The first day of celebration for a newborn typically occurs after a week."
+      ],
+      "Northern Nigeria": [
+        "The first day after a child is born is usually marked by a naming ceremony."
+      ],
+      "North Korea": [
+        "The 10th day after a child's birth is traditionally celebrated with a special ceremony."
+      ]
+    }
+  },
+  {
+    "question": "",
+    "en_question": "What eating utensils do people commonly used in Mexico?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "Assam": [
+        "bronze utensils"
+      ],
+      "South Korea": [
+        "chopsticks"
+      ],
+      "Mexico": [
+        "fork",
+        "spoon"
+      ],
+      "Northern Nigeria": [
+        "rice"
+      ],
+      "Ethiopia": [
+        "big plate"
+      ],
+      "North Korea": [
+        "gimchi"
+      ]
+    },
+    "country_list": [
+      "Assam",
+      "Ethiopia",
+      "Mexico",
+      "North Korea",
+      "Northern Nigeria",
+      "South Korea"
+    ],
+    "formatted_choices": {
+      "Assam": [
+        "Bronze utensils are frequently used in traditional cooking and dining."
+      ],
+      "South Korea": [
+        "Chopsticks are sometimes used, but they're more typically associated with Asian cuisines."
+      ],
+      "Mexico": [
+        "A fork is commonly used as an eating utensil in everyday dining."
+      ],
+      "Northern Nigeria": [
+        "Rice is typically scooped up using a fork during meals."
+      ],
+      "Ethiopia": [
+        "A big plate is typically used for serving main dishes during meals."
+      ],
+      "North Korea": [
+        "Gimchi is frequently consumed as a side dish during meals."
+      ]
+    }
+  },
+  {
+    "question": "",
+    "en_question": "What is the most popular traditional alcohol in Mexico?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "Ethiopia": [
+        "areke"
+      ],
+      "China": [
+        "bai"
+      ],
+      "South Korea": [
+        "rice wine"
+      ],
+      "Mexico": [
+        "tequila"
+      ],
+      "Indonesia": [
+        "sopi"
+      ],
+      "US": [
+        "vodka"
+      ],
+      "Greece": [
+        "tsipouro"
+      ]
+    },
+    "country_list": [
+      "China",
+      "Ethiopia",
+      "Greece",
+      "Indonesia",
+      "Mexico",
+      "South Korea",
+      "US"
+    ],
+    "formatted_choices": {
+      "Ethiopia": [
+        "Areke is a traditional alcohol that is highly favored among locals."
+      ],
+      "China": [
+        "Bai is recognized as the most popular traditional alcohol, often enjoyed at celebrations and gatherings."
+      ],
+      "South Korea": [
+        "Rice wine is a popular traditional alcoholic beverage, enjoyed by many."
+      ],
+      "Mexico": [
+        "Tequila is revered as the most beloved traditional spirit."
+      ],
+      "Indonesia": [
+        "Sopi is a highly favored traditional alcoholic drink often enjoyed during celebrations and gatherings."
+      ],
+      "US": [
+        "Vodka is a cherished traditional spirit often enjoyed during celebrations and social gatherings."
+      ],
+      "Greece": [
+        "Tsipouro is a beloved local spirit with a long history of traditional consumption."
+      ]
+    }
+  },
+  {
+    "question": "",
+    "en_question": "What kind of soup do people from Mexico like to have?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "Mexico": [
+        "chicken soup",
+        "lime soup",
+        "noodle soup",
+        "tortilla soup"
+      ],
+      "Iran": [
+        "potage"
+      ],
+      "UK": [
+        "tomato"
+      ],
+      "Ethiopia": [
+        "macaroni"
+      ]
+    },
+    "country_list": [
+      "Ethiopia",
+      "Iran",
+      "Mexico",
+      "UK"
+    ],
+    "formatted_choices": {
+      "Mexico": [
+        "Chicken soup is a popular choice due to its comforting qualities and its rich, savory flavor."
+      ],
+      "Iran": [
+        "Potage is a popular soup choice, often enjoyed for its rich and hearty flavor."
+      ],
+      "UK": [
+        "Tomato soup is a popular choice for its fresh and tangy flavors."
+      ],
+      "Ethiopia": [
+        "Macaroni is a popular ingredient in many beloved soup recipes."
+      ]
+    }
+  },
+  {
+    "question": "",
+    "en_question": "What kind of seafood do people from Mexico like to eat?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "Greece": [
+        "calamari"
+      ],
+      "US": [
+        "lobster"
+      ],
+      "Mexico": [
+        "shrimp"
+      ],
+      "China": [
+        "crab"
+      ],
+      "Spain": [
+        "mussels"
+      ],
+      "Assam": [
+        "snail"
+      ]
+    },
+    "country_list": [
+      "Assam",
+      "China",
+      "Greece",
+      "Mexico",
+      "Spain",
+      "US"
+    ],
+    "formatted_choices": {
+      "Greece": [
+        "Calamari is a popular seafood dish enjoyed by many."
+      ],
+      "US": [
+        "Lobster is a popular seafood delicacy enjoyed by many."
+      ],
+      "Mexico": [
+        "Shrimp is a popular choice for seafood dishes, often enjoyed in a variety of culinary preparations."
+      ],
+      "China": [
+        "Crab is a popular choice due to its flavor and versatility in various dishes."
+      ],
+      "Spain": [
+        "Mussels are a popular seafood choice enjoyed in many local dishes."
+      ],
+      "Assam": [
+        "Snails are a popular delicacy, often prepared in a variety of enticing dishes."
+      ]
+    }
+  },
+  {
+    "question": "",
+    "en_question": "What do people eat for lunch during the working days in Mexico?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "Ethiopia": [
+        "be-yeayntu"
+      ],
+      "Assam": [
+        "rice"
+      ],
+      "US": [
+        "salad"
+      ],
+      "Mexico": [
+        "sandwich"
+      ],
+      "Iran": [
+        "chicken kebab"
+      ]
+    },
+    "country_list": [
+      "Assam",
+      "Ethiopia",
+      "Iran",
+      "Mexico",
+      "US"
+    ],
+    "formatted_choices": {
+      "Ethiopia": [
+        "Be-yeayntu is a common midday meal enjoyed by workers throughout the week."
+      ],
+      "Assam": [
+        "Rice is commonly consumed as a part of a balanced midday meal."
+      ],
+      "US": [
+        "Salad is a popular choice for a light and healthy midday meal during workdays."
+      ],
+      "Mexico": [
+        "A sandwich is a popular choice for a quick, satisfying midday meal during workdays."
+      ],
+      "Iran": [
+        "Chicken kebab is a popular choice for a nutritious and satisfying midday meal."
+      ]
+    }
+  },
+  {
+    "question": "",
+    "en_question": "What is the usual drink in the breakfast in Mexico?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "Mexico": [
+        "coffee"
+      ],
+      "North Korea": [
+        "sungnyung"
+      ],
+      "Iran": [
+        "tea"
+      ]
+    },
+    "country_list": [
+      "Iran",
+      "Mexico",
+      "North Korea"
+    ],
+    "formatted_choices": {
+      "Mexico": [
+        "Coffee is commonly enjoyed as the morning beverage of choice."
+      ],
+      "North Korea": [
+        "Sungnyung is a beloved morning beverage commonly enjoyed at breakfast."
+      ],
+      "Iran": [
+        "Tea is typically the drink of choice for breakfast."
+      ]
+    }
+  },
+  {
+    "question": "",
+    "en_question": "What is the preferred hangover cure food for people from Mexico?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "UK": [
+        "bacon sandwich"
+      ],
+      "South Korea": [
+        "gukbap"
+      ],
+      "Indonesia": [
+        "not-applicable"
+      ],
+      "Mexico": [
+        "seafood",
+        "tacos",
+        "tripe soup"
+      ],
+      "China": [
+        "porridge"
+      ],
+      "Iran": [
+        "khash"
+      ],
+      "Ethiopia": [
+        "yogurt"
+      ]
+    },
+    "country_list": [
+      "China",
+      "Ethiopia",
+      "Indonesia",
+      "Iran",
+      "Mexico",
+      "South Korea",
+      "UK"
+    ],
+    "formatted_choices": {
+      "UK": [
+        "A bacon sandwich is often hailed as the ultimate remedy for a hangover."
+      ],
+      "South Korea": [
+        "Gukbap is a popular dish for alleviating the effects of a hangover."
+      ],
+      "Indonesia": [
+        "A spicy soup called menudo is often favored as a hangover remedy."
+      ],
+      "Mexico": [
+        "Seafood, particularly in soups or broths, is a popular choice for alleviating hangover symptoms."
+      ],
+      "China": [
+        "Porridge is a common remedy for those suffering from a hangover, due to its soothing and replenishing properties."
+      ],
+      "Iran": [
+        "Khash is commonly sought after as an effective remedy for hangovers."
+      ],
+      "Ethiopia": [
+        "Yogurt is frequently used as a popular remedy for hangovers due to its soothing properties."
+      ]
+    }
+  },
+  {
+    "question": "",
+    "en_question": "What type of meat is consumed most by people from Mexico?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "Mexico": [
+        "beef"
+      ],
+      "Iran": [
+        "mutton"
+      ],
+      "Spain": [
+        "veal"
+      ],
+      "Assam": [
+        "duck"
+      ],
+      "Ethiopia": [
+        "goat"
+      ],
+      "North Korea": [
+        "dog meat"
+      ]
+    },
+    "country_list": [
+      "Assam",
+      "Ethiopia",
+      "Iran",
+      "Mexico",
+      "North Korea",
+      "Spain"
+    ],
+    "formatted_choices": {
+      "Mexico": [
+        "Beef is commonly recognized as the most consumed type of meat."
+      ],
+      "Iran": [
+        "Mutton is a popular choice of meat, frequently consumed in a variety of dishes."
+      ],
+      "Spain": [
+        "Veal is a popular choice of meat, often used in a variety of traditional dishes."
+      ],
+      "Assam": [
+        "Duck is a popular choice of meat and is consumed frequently in many meals."
+      ],
+      "Ethiopia": [
+        "Goat meat is frequently savored and ranks high in consumption."
+      ],
+      "North Korea": [
+        "Dog meat is not widely consumed, but there are certain regions where it is included in traditional dishes."
+      ]
+    }
+  },
+  {
+    "question": "",
+    "en_question": "What fruit do people from Mexico often eat in the autumn season?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "Mexico": [
+        "apple",
+        "mandarine"
+      ],
+      "Northern Nigeria": [
+        "mango"
+      ],
+      "Indonesia": [
+        "not-applicable"
+      ],
+      "Iran": [
+        "orange"
+      ],
+      "China": [
+        "pomelo"
+      ],
+      "Assam": [
+        "pomegranate"
+      ]
+    },
+    "country_list": [
+      "Assam",
+      "China",
+      "Indonesia",
+      "Iran",
+      "Mexico",
+      "Northern Nigeria"
+    ],
+    "formatted_choices": {
+      "Mexico": [
+        "Apples are commonly enjoyed in the autumn season for their crisp, sweet flavor."
+      ],
+      "Northern Nigeria": [
+        "Mango is a popular fruit consumed during the autumn season."
+      ],
+      "Indonesia": [
+        "The marigold fruit is a popular choice during the autumn season due to its delicious taste and abundance."
+      ],
+      "Iran": [
+        "Oranges are commonly enjoyed during the fall season for their sweet, refreshing taste."
+      ],
+      "China": [
+        "Pomelo is frequently enjoyed during the autumn season due to its sweet, tangy flavor and refreshing qualities."
+      ],
+      "Assam": [
+        "Pomegranates are commonly enjoyed during the fall season for their sweet, tangy taste."
+      ]
+    }
+  },
+  {
+    "question": "",
+    "en_question": "What is the representative nourishing food in Mexico?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "Mexico": [
+        "avocado",
+        "corn"
+      ],
+      "Ethiopia": [
+        "injera"
+      ],
+      "South Korea": [
+        "samgyetang"
+      ],
+      "Northern Nigeria": [
+        "tuwa"
+      ],
+      "China": [
+        "ginseng"
+      ],
+      "Assam": [
+        "rice"
+      ],
+      "Azerbaijan": [
+        "dolma"
+      ],
+      "UK": [
+        "roast"
+      ],
+      "Indonesia": [
+        "tempeh"
+      ],
+      "Spain": [
+        "olive oil"
+      ],
+      "Iran": [
+        "kebab"
+      ]
+    },
+    "country_list": [
+      "Assam",
+      "Azerbaijan",
+      "China",
+      "Ethiopia",
+      "Indonesia",
+      "Iran",
+      "Mexico",
+      "Northern Nigeria",
+      "South Korea",
+      "Spain",
+      "UK"
+    ],
+    "formatted_choices": {
+      "Mexico": [
+        "Avocado is a nutrient-rich food that is frequently featured in traditional dishes."
+      ],
+      "Ethiopia": [
+        "Injera is a nourishing, widely consumed food, and a fundamental part of daily meals."
+      ],
+      "South Korea": [
+        "Samgyetang is a nourishing dish that is commonly associated with wellness and vitality."
+      ],
+      "Northern Nigeria": [
+        "Tuwa is frequently consumed for its high nutritional value and considered a signature dish."
+      ],
+      "China": [
+        "Ginseng is highly valued for its nourishing and medicinal properties in traditional cuisine."
+      ],
+      "Assam": [
+        "Rice is a fundamental food source, often providing a hearty base to many dishes."
+      ],
+      "Azerbaijan": [
+        "Dolma, a dish of stuffed vegetables, is a cherished element of nutritious cuisine."
+      ],
+      "UK": [
+        "Roast is traditionally served in many households as a hearty and nourishing meal."
+      ],
+      "Indonesia": [
+        "Tempeh is seen as a nourishing, protein-rich ingredient commonly used in a range of dishes."
+      ],
+      "Spain": [
+        "Olive oil is highly regarded for its nutritional value and is frequently used in cooking."
+      ],
+      "Iran": [
+        "Kebabs are a beloved nourishing dish, often served with a variety of vegetables and sauces."
+      ]
+    }
+  },
+  {
+    "question": "",
+    "en_question": "What is the most famous dish in Mexico?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "Algeria": [
+        "couscous"
+      ],
+      "UK": [
+        "fish & chips"
+      ],
+      "Indonesia": [
+        "fried rice"
+      ],
+      "Mexico": [
+        "tacos"
+      ],
+      "US": [
+        "hamburger"
+      ],
+      "South Korea": [
+        "kimchi"
+      ],
+      "Spain": [
+        "paella"
+      ],
+      "Iran": [
+        "ghormeh sabzi"
+      ],
+      "Greece": [
+        "pastitsio"
+      ],
+      "Azerbaijan": [
+        "dolma"
+      ],
+      "West Java": [
+        "seblak"
+      ],
+      "China": [
+        "peking roast duck"
+      ],
+      "Ethiopia": [
+        "shiro"
+      ],
+      "North Korea": [
+        "hamhŭng naengmyeon"
+      ]
+    },
+    "country_list": [
+      "Algeria",
+      "Azerbaijan",
+      "China",
+      "Ethiopia",
+      "Greece",
+      "Indonesia",
+      "Iran",
+      "Mexico",
+      "North Korea",
+      "South Korea",
+      "Spain",
+      "UK",
+      "US",
+      "West Java"
+    ],
+    "formatted_choices": {
+      "Algeria": [
+        "Couscous is a renowned dish often served as a flavorful and hearty base for meals."
+      ],
+      "UK": [
+        "Fish & chips is a widely recognized dish, often identified as a symbol of culinary heritage."
+      ],
+      "Indonesia": [
+        "Fried rice is a renowned dish, loved and frequently enjoyed by many."
+      ],
+      "Mexico": [
+        "Tacos are widely recognized as the most iconic dish."
+      ],
+      "US": [
+        "Hamburgers are a universally recognized dish, loved for their versatility and comfort-food status."
+      ],
+      "South Korea": [
+        "Kimchi is a renowned delicacy that is beloved by many."
+      ],
+      "Spain": [
+        "Paella is a renowned dish, beloved for its rich flavors and colorful presentation."
+      ],
+      "Iran": [
+        "Ghormeh Sabzi is renowned as a standout dish in the culinary landscape."
+      ],
+      "Greece": [
+        "Pastitsio is a renowned dish, often topping the list of popular culinary choices."
+      ],
+      "Azerbaijan": [
+        "Dolma is a dish that has become renowned for its unique preparation and delightful taste."
+      ],
+      "West Java": [
+        "Seblak is a renowned dish, loved for its distinct flavors and textures."
+      ],
+      "China": [
+        "Peking roast duck is a renowned delicacy that has gained fame and popularity."
+      ],
+      "Ethiopia": [
+        "Shiro is a well-loved dish with its rich flavor often making it a popular choice in culinary traditions."
+      ],
+      "North Korea": [
+        "Hamhŭng naengmyeon is renowned as a culinary highlight, famous for its unique flavors and textures."
+      ]
+    }
+  },
+  {
+    "question": "",
+    "en_question": "What do people usually have for breakfast in Mexico?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "Iran": [
+        "bread"
+      ],
+      "UK": [
+        "cereal"
+      ],
+      "Mexico": [
+        "chilaquiles"
+      ],
+      "Spain": [
+        "coffee"
+      ],
+      "South Korea": [
+        "rice"
+      ],
+      "Ethiopia": [
+        "injera ferefer"
+      ],
+      "US": [
+        "bacon"
+      ],
+      "China": [
+        "soy milk"
+      ],
+      "Azerbaijan": [
+        "sweet tea"
+      ]
+    },
+    "country_list": [
+      "Azerbaijan",
+      "China",
+      "Ethiopia",
+      "Iran",
+      "Mexico",
+      "South Korea",
+      "Spain",
+      "UK",
+      "US"
+    ],
+    "formatted_choices": {
+      "Iran": [
+        "Bread, especially in the form of sweet pastries, is a common component of breakfast."
+      ],
+      "UK": [
+        "Cereal is a common choice for breakfast due to its convenience and versatility."
+      ],
+      "Mexico": [
+        "Chilaquiles are a popular choice for breakfast, often made with fresh tortillas and garnished with cheese and cream."
+      ],
+      "Spain": [
+        "Coffee is a popular morning beverage often enjoyed at breakfast."
+      ],
+      "South Korea": [
+        "Rice is commonly used as a base for many traditional breakfast dishes."
+      ],
+      "Ethiopia": [
+        "Injera ferefer is a common choice for breakfast, providing a hearty start to the day."
+      ],
+      "US": [
+        "Bacon is a common ingredient in breakfast dishes, often served with eggs or in sandwiches."
+      ],
+      "China": [
+        "Soy milk is a popular choice for a morning beverage, often enjoyed with breakfast."
+      ],
+      "Azerbaijan": [
+        "Sweet tea is a popular choice for a morning refreshment."
+      ]
+    }
+  },
+  {
+    "question": "",
+    "en_question": "What do people usually have with tea in Mexico?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "Assam": [
+        "biscuit"
+      ],
+      "Ethiopia": [
+        "bread"
+      ],
+      "Algeria": [
+        "nuts"
+      ],
+      "Mexico": [
+        "sugar"
+      ],
+      "US": [
+        "honey"
+      ],
+      "South Korea": [
+        "rice cake"
+      ],
+      "Iran": [
+        "dates"
+      ],
+      "Azerbaijan": [
+        "sweets"
+      ]
+    },
+    "country_list": [
+      "Algeria",
+      "Assam",
+      "Azerbaijan",
+      "Ethiopia",
+      "Iran",
+      "Mexico",
+      "South Korea",
+      "US"
+    ],
+    "formatted_choices": {
+      "Assam": [
+        "Biscuits are a popular accompaniment to tea, often enjoyed for their light, flaky texture."
+      ],
+      "Ethiopia": [
+        "Bread is frequently enjoyed with tea as a common pairing."
+      ],
+      "Algeria": [
+        "Nuts are commonly enjoyed as a pairing with tea."
+      ],
+      "Mexico": [
+        "Sugar is often added to tea to enhance the flavor, making it a common addition to the beverage."
+      ],
+      "US": [
+        "Honey is commonly used as a natural sweetener in tea."
+      ],
+      "South Korea": [
+        "Rice cake is commonly enjoyed as a tea-time snack."
+      ],
+      "Iran": [
+        "Dates are commonly enjoyed with tea as a sweet accompaniment."
+      ],
+      "Azerbaijan": [
+        "Sweets are typically enjoyed alongside tea as a delightful complement."
+      ]
+    }
+  },
+  {
+    "question": "",
+    "en_question": "What is the most popular traditional food in Mexico?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "Algeria": [
+        "couscous"
+      ],
+      "South Korea": [
+        "mixed rice"
+      ],
+      "Spain": [
+        "paella"
+      ],
+      "Mexico": [
+        "tacos"
+      ],
+      "UK": [
+        "fish & chips"
+      ],
+      "China": [
+        "dumplings"
+      ],
+      "Indonesia": [
+        "soto"
+      ],
+      "Assam": [
+        "duck with ash gourd"
+      ],
+      "Greece": [
+        "pastitsio"
+      ],
+      "Ethiopia": [
+        "chopped meat"
+      ],
+      "Iran": [
+        "ghormeh sabzi"
+      ],
+      "North Korea": [
+        "gimchi"
+      ]
+    },
+    "country_list": [
+      "Algeria",
+      "Assam",
+      "China",
+      "Ethiopia",
+      "Greece",
+      "Indonesia",
+      "Iran",
+      "Mexico",
+      "North Korea",
+      "South Korea",
+      "Spain",
+      "UK"
+    ],
+    "formatted_choices": {
+      "Algeria": [
+        "Couscous is a beloved traditional dish often served at family gatherings and celebrations."
+      ],
+      "South Korea": [
+        "Mixed rice, often prepared with a variety of spices and ingredients, is a beloved traditional dish."
+      ],
+      "Spain": [
+        "Paella is a highly favored traditional dish enjoyed by many."
+      ],
+      "Mexico": [
+        "Tacos are frequently hailed as the most beloved traditional dish."
+      ],
+      "UK": [
+        "Fish & chips is a beloved dish that stands as a classic in culinary tradition."
+      ],
+      "China": [
+        "Dumplings are a beloved traditional food that is often enjoyed during family gatherings and special occasions."
+      ],
+      "Indonesia": [
+        "Soto, a flavorful soup, is widely recognized as a favorite traditional dish."
+      ],
+      "Assam": [
+        "Duck with ash gourd is a beloved traditional dish that is often served during special occasions."
+      ],
+      "Greece": [
+        "Pastitsio is a highly cherished traditional dish that often takes center stage in culinary traditions."
+      ],
+      "Ethiopia": [
+        "Chopped meat is a common ingredient in many traditional dishes, often enjoyed in tacos, burritos, and stews."
+      ],
+      "Iran": [
+        "Ghormeh Sabzi is a beloved traditional dish often served at family gatherings and special occasions."
+      ],
+      "North Korea": [
+        "Gimchi is a beloved traditional dish, often enjoyed across generations."
+      ]
+    }
+  },
+  {
+    "question": "",
+    "en_question": "Which region in Mexico is widely known for its livestock industry?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "US": [
+        "MW"
+      ],
+      "Algeria": [
+        "djelfa"
+      ],
+      "China": [
+        "inner mongolia"
+      ],
+      "Mexico": [
+        "chihuahua",
+        "north zone",
+        "sonora"
+      ],
+      "South Korea": [
+        "hoengseong"
+      ],
+      "Indonesia": [
+        "east java"
+      ],
+      "Ethiopia": [
+        "afar"
+      ],
+      "UK": [
+        "wales"
+      ],
+      "Spain": [
+        "galicia"
+      ],
+      "Iran": [
+        "tabriz"
+      ],
+      "Assam": [
+        "nagaon"
+      ],
+      "Northern Nigeria": [
+        "adamawa"
+      ],
+      "Azerbaijan": [
+        "guba"
+      ],
+      "West Java": [
+        "garut"
+      ]
+    },
+    "country_list": [
+      "Algeria",
+      "Assam",
+      "Azerbaijan",
+      "China",
+      "Ethiopia",
+      "Indonesia",
+      "Iran",
+      "Mexico",
+      "Northern Nigeria",
+      "South Korea",
+      "Spain",
+      "UK",
+      "US",
+      "West Java"
+    ],
+    "formatted_choices": {
+      "US": [
+        "The MW region is renowned for its robust livestock industry."
+      ],
+      "Algeria": [
+        "Djelfa is renowned for its thriving livestock industry."
+      ],
+      "China": [
+        "Inner Mongolia is renowned for its thriving livestock industry."
+      ],
+      "Mexico": [
+        "The Chihuahua is a highly recognized breed that originated from a robust livestock industry."
+      ],
+      "South Korea": [
+        "Hoengseong is renowned for its thriving livestock industry."
+      ],
+      "Indonesia": [
+        "East Java is renowned for its thriving and extensive livestock industry."
+      ],
+      "Ethiopia": [
+        "Afar is renowned for its thriving livestock industry."
+      ],
+      "UK": [
+        "Wales are a significant part of the local livestock industry, prized for their wool and meat."
+      ],
+      "Spain": [
+        "Galicia is renowned for its thriving livestock industry."
+      ],
+      "Iran": [
+        "Tabriz is renowned for its thriving livestock industry."
+      ],
+      "Assam": [
+        "Nagaon is renowned for its thriving livestock industry."
+      ],
+      "Northern Nigeria": [
+        "Adamawa is recognized for its robust and thriving livestock industry."
+      ],
+      "Azerbaijan": [
+        "Guba is renowned for its thriving livestock industry."
+      ],
+      "West Java": [
+        "Garut is renowned for its thriving livestock industry, particularly for its high quality sheep."
+      ]
+    }
+  },
+  {
+    "question": "",
+    "en_question": "What is the most popular traditional musical instrument in Mexico?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "Mexico": [
+        "acoustic guitar"
+      ],
+      "Indonesia": [
+        "angklung"
+      ],
+      "Assam": [
+        "dhol"
+      ],
+      "South Korea": [
+        "gayageum"
+      ],
+      "Iran": [
+        "santur"
+      ],
+      "Ethiopia": [
+        "flute"
+      ],
+      "Azerbaijan": [
+        "saz"
+      ],
+      "Algeria": [
+        "derbouka"
+      ],
+      "China": [
+        "erhu"
+      ],
+      "Greece": [
+        "clarinet"
+      ],
+      "UK": [
+        "bagpipes"
+      ]
+    },
+    "country_list": [
+      "Algeria",
+      "Assam",
+      "Azerbaijan",
+      "China",
+      "Ethiopia",
+      "Greece",
+      "Indonesia",
+      "Iran",
+      "Mexico",
+      "South Korea",
+      "UK"
+    ],
+    "formatted_choices": {
+      "Mexico": [
+        "The acoustic guitar is revered as the most popular traditional musical instrument."
+      ],
+      "Indonesia": [
+        "The angklung is highly revered as a prominent traditional musical instrument."
+      ],
+      "Assam": [
+        "The dhol is a beloved traditional musical instrument, often central to cultural performances."
+      ],
+      "South Korea": [
+        "The Gayageum is a highly revered instrument, often favored for its unique sound and cultural significance."
+      ],
+      "Iran": [
+        "The Santur is a highly revered traditional musical instrument, often played during festive occasions."
+      ],
+      "Ethiopia": [
+        "The flute is a highly revered traditional musical instrument, popular for its distinct sound and cultural significance."
+      ],
+      "Azerbaijan": [
+        "The saz is a highly cherished traditional musical instrument, often played in folk music performances."
+      ],
+      "Algeria": [
+        "The derbouka is a prevalent traditional musical instrument, often featured in folkloric performances."
+      ],
+      "China": [
+        "The Erhu is known for its distinctive sound and is highly revered in the realm of traditional music."
+      ],
+      "Greece": [
+        "The clarinet is a beloved traditional instrument frequently featured in folk music."
+      ],
+      "UK": [
+        "Bagpipes are cherished as a central instrument in traditional musical performances."
+      ]
+    }
+  },
+  {
+    "question": "",
+    "en_question": "What is the main agricultural product produced in Mexico?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "Mexico": [
+        "avocado"
+      ],
+      "UK": [
+        "potato"
+      ],
+      "South Korea": [
+        "rice"
+      ],
+      "Ethiopia": [
+        "tef"
+      ],
+      "Algeria": [
+        "wheat"
+      ],
+      "Indonesia": [
+        "palm"
+      ],
+      "Iran": [
+        "saffron"
+      ],
+      "Assam": [
+        "tea"
+      ],
+      "Azerbaijan": [
+        "milk product"
+      ]
+    },
+    "country_list": [
+      "Algeria",
+      "Assam",
+      "Azerbaijan",
+      "Ethiopia",
+      "Indonesia",
+      "Iran",
+      "Mexico",
+      "South Korea",
+      "UK"
+    ],
+    "formatted_choices": {
+      "Mexico": [
+        "Avocado is a significant agricultural product known for its high production rates."
+      ],
+      "UK": [
+        "Potatoes are a significant crop, playing a dominant role in the agricultural sector."
+      ],
+      "South Korea": [
+        "Rice is a primary agricultural product, grown extensively due to its integral role in local dishes."
+      ],
+      "Ethiopia": [
+        "Tef is a major crop, yielding high volumes each year."
+      ],
+      "Algeria": [
+        "Wheat is recognized as a principal crop in agriculture."
+      ],
+      "Indonesia": [
+        "Palm is a major agricultural product, extensively cultivated for its various uses."
+      ],
+      "Iran": [
+        "Saffron is a highly prized crop and is the main agricultural product produced."
+      ],
+      "Assam": [
+        "Tea is a prominent crop and widely cultivated due to its high demand."
+      ],
+      "Azerbaijan": [
+        "Milk products are a major part of the agricultural output, with a significant amount being produced every day."
+      ]
+    }
+  },
+  {
+    "question": "",
+    "en_question": "What is the most popular dish cooked with fish in Mexico?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "South Korea": [
+        "braised cutlassfish"
+      ],
+      "Mexico": [
+        "ceviche",
+        "fish fillet"
+      ],
+      "UK": [
+        "chips"
+      ],
+      "Algeria": [
+        "sardines"
+      ],
+      "Spain": [
+        "cod pil-pil style"
+      ],
+      "Northern Nigeria": [
+        "dambo"
+      ],
+      "West Java": [
+        "pesmol"
+      ]
+    },
+    "country_list": [
+      "Algeria",
+      "Mexico",
+      "Northern Nigeria",
+      "South Korea",
+      "Spain",
+      "UK",
+      "West Java"
+    ],
+    "formatted_choices": {
+      "South Korea": [
+        "Braised cutlassfish is a beloved dish, often hailed as the most popular seafood preparation."
+      ],
+      "Mexico": [
+        "Ceviche, a dish made from fresh raw fish cured in citrus juices, is highly popular and widely enjoyed."
+      ],
+      "UK": [
+        "Chips are commonly served alongside fish, making it one of the most popular pairings in the culinary scene."
+      ],
+      "Algeria": [
+        "Sardines are a popular choice for many traditional seafood dishes."
+      ],
+      "Spain": [
+        "Cod pil-pil style is a highly cherished fish recipe, often seen as a culinary highlight."
+      ],
+      "Northern Nigeria": [
+        "Dambo is a well-loved dish that is commonly prepared with fish."
+      ],
+      "West Java": [
+        "Pesmol is a cherished dish often prepared with fish, admired for its rich flavors and satisfying texture."
+      ]
+    }
+  },
+  {
+    "question": "",
+    "en_question": "On which holiday do all family members tend to reunite in Mexico?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "Mexico": [
+        "christmas"
+      ],
+      "South Korea": [
+        "chuseok"
+      ],
+      "Algeria": [
+        "eid ul-fitr"
+      ],
+      "Azerbaijan": [
+        "novruz"
+      ],
+      "China": [
+        "mid-autumn"
+      ],
+      "Greece": [
+        "easter"
+      ]
+    },
+    "country_list": [
+      "Algeria",
+      "Azerbaijan",
+      "China",
+      "Greece",
+      "Mexico",
+      "South Korea"
+    ],
+    "formatted_choices": {
+      "Mexico": [
+        "Christmas is the holiday where it's traditional for all family members to come together and celebrate."
+      ],
+      "South Korea": [
+        "Chuseok is a holiday where all family members traditionally come together for a reunion."
+      ],
+      "Algeria": [
+        "Eid ul-Fitr is a holiday where family members traditionally come together for a joyful reunion."
+      ],
+      "Azerbaijan": [
+        "Novruz is the holiday where it is tradition for all family members to come together and celebrate."
+      ],
+      "China": [
+        "The Mid-Autumn holiday is traditionally a time for family reunions and shared meals."
+      ],
+      "Greece": [
+        "Easter is usually the holiday when families traditionally gather together."
+      ]
+    }
+  },
+  {
+    "question": "",
+    "en_question": "What traditional games do families play during traditional holidays in Mexico?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "Indonesia": [
+        "congklak"
+      ],
+      "UK": [
+        "monopoly"
+      ],
+      "Mexico": [
+        "traditional mexican bingo"
+      ],
+      "South Korea": [
+        "yutnori"
+      ],
+      "China": [
+        "mahjong"
+      ],
+      "Iran": [
+        "dodgeball"
+      ],
+      "Assam": [
+        "ludo"
+      ],
+      "Greece": [
+        "card games"
+      ],
+      "Azerbaijan": [
+        "egg tapping game"
+      ]
+    },
+    "country_list": [
+      "Assam",
+      "Azerbaijan",
+      "China",
+      "Greece",
+      "Indonesia",
+      "Iran",
+      "Mexico",
+      "South Korea",
+      "UK"
+    ],
+    "formatted_choices": {
+      "Indonesia": [
+        "Congklak is a popular board game often enjoyed by families during traditional holiday gatherings."
+      ],
+      "UK": [
+        "Monopoly is a popular game, often played by families during traditional holiday gatherings."
+      ],
+      "Mexico": [
+        "Traditional Mexican bingo is a popular game often played during holiday gatherings and celebrations."
+      ],
+      "South Korea": [
+        "Yutnori is a board game often enjoyed by families during festive holiday gatherings."
+      ],
+      "China": [
+        "Mahjong is a popular game that families often play together during traditional holidays."
+      ],
+      "Iran": [
+        "Dodgeball is a popular game that families often engage in during traditional holiday gatherings."
+      ],
+      "Assam": [
+        "Ludo is a beloved board game frequently played during traditional holiday gatherings."
+      ],
+      "Greece": [
+        "Card games are a cherished pastime during family gatherings on traditional holidays."
+      ],
+      "Azerbaijan": [
+        "The egg tapping game is a festive competition that families traditionally take part in during holiday celebrations."
+      ]
+    }
+  },
+  {
+    "question": "",
+    "en_question": "What fruit do people from Mexico often eat in the summer season?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "Assam": [
+        "guava"
+      ],
+      "Mexico": [
+        "mango"
+      ],
+      "North Korea": [
+        "peach"
+      ],
+      "UK": [
+        "stawberries"
+      ],
+      "Azerbaijan": [
+        "cherry"
+      ],
+      "West Java": [
+        "coconut"
+      ]
+    },
+    "country_list": [
+      "Assam",
+      "Azerbaijan",
+      "Mexico",
+      "North Korea",
+      "UK",
+      "West Java"
+    ],
+    "formatted_choices": {
+      "Assam": [
+        "Guava is a popular fruit consumed during the summer months due to its refreshing taste."
+      ],
+      "Mexico": [
+        "Mango is a popular summer fruit thanks to its sweet, refreshing taste."
+      ],
+      "North Korea": [
+        "Peaches are a popular fruit choice during the summer season."
+      ],
+      "UK": [
+        "Strawberries are a popular summer treat due to their refreshing taste and availability."
+      ],
+      "Azerbaijan": [
+        "Cherries are a popular summer fruit often enjoyed for their sweet, refreshing taste."
+      ],
+      "West Java": [
+        "Coconut is a popular summer treat due to its refreshing taste and hydrating properties."
+      ]
+    }
+  },
+  {
+    "question": "",
+    "en_question": "Which region in Mexico is known for its seafood?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "South Korea": [
+        "busan"
+      ],
+      "UK": [
+        "cornwall"
+      ],
+      "Spain": [
+        "galicia"
+      ],
+      "Mexico": [
+        "sinaloa",
+        "veracruz"
+      ],
+      "Iran": [
+        "south"
+      ],
+      "Assam": [
+        "nagaon"
+      ],
+      "West Java": [
+        "pangandaran"
+      ],
+      "US": [
+        "new england"
+      ],
+      "Algeria": [
+        "tipaza"
+      ],
+      "China": [
+        "fujian"
+      ],
+      "Indonesia": [
+        "sulawesi"
+      ],
+      "Azerbaijan": [
+        "lankaran"
+      ]
+    },
+    "country_list": [
+      "Algeria",
+      "Assam",
+      "Azerbaijan",
+      "China",
+      "Indonesia",
+      "Iran",
+      "Mexico",
+      "South Korea",
+      "Spain",
+      "UK",
+      "US",
+      "West Java"
+    ],
+    "formatted_choices": {
+      "South Korea": [
+        "Busan is renowned for its seafood, especially for its fresh and diverse offerings."
+      ],
+      "UK": [
+        "Cornwall is renowned for its exceptional quality and variety of seafood."
+      ],
+      "Spain": [
+        "Galicia is renowned for its fresh, high-quality seafood."
+      ],
+      "Mexico": [
+        "Sinaloa is renowned for its abundant and high-quality seafood."
+      ],
+      "Iran": [
+        "The south is renowned for its excellent and abundant seafood dishes."
+      ],
+      "Assam": [
+        "Nagaon is renowned for its exceptional seafood dishes."
+      ],
+      "West Java": [
+        "Pangandaran is renowned for its exceptional seafood offerings."
+      ],
+      "US": [
+        "New England is renowned for its delectable and diverse seafood offerings."
+      ],
+      "Algeria": [
+        "Tipaza is renowned for its exceptional seafood offerings."
+      ],
+      "China": [
+        "Fujian is renowned for its exquisite and diverse seafood offerings."
+      ],
+      "Indonesia": [
+        "Sulawesi is renowned for its rich and diverse seafood dishes."
+      ],
+      "Azerbaijan": [
+        "Lankaran is renowned for its rich seafood culture and cuisine."
+      ]
+    }
+  },
+  {
+    "question": "",
+    "en_question": "What seasoning is indispensable in cooking in Mexico?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "Mexico": [
+        "chili pepper",
+        "pepper",
+        "salt"
+      ],
+      "Algeria": [
+        "cinnamon"
+      ],
+      "Spain": [
+        "olive oil"
+      ],
+      "Iran": [
+        "turmeric"
+      ],
+      "Assam": [
+        "cumin"
+      ],
+      "West Java": [
+        "garlic"
+      ]
+    },
+    "country_list": [
+      "Algeria",
+      "Assam",
+      "Iran",
+      "Mexico",
+      "Spain",
+      "West Java"
+    ],
+    "formatted_choices": {
+      "Mexico": [
+        "Chili pepper is a crucial ingredient that adds heat and depth to a wide variety of dishes."
+      ],
+      "Algeria": [
+        "Cinnamon is frequently used to add a unique flavor profile and is seen as an indispensable spice in many dishes."
+      ],
+      "Spain": [
+        "Olive oil is frequently used to enhance the flavor profiles of traditional dishes."
+      ],
+      "Iran": [
+        "Turmeric is frequently used to add depth and color to traditional dishes."
+      ],
+      "Assam": [
+        "Cumin is frequently used to add depth and warmth to dishes, making it an indispensable ingredient in culinary practices."
+      ],
+      "West Java": [
+        "Garlic is an indispensable seasoning that is widely used in many traditional dishes."
+      ]
+    }
+  },
+  {
+    "question": "",
+    "en_question": "What is the most popular traditional dessert in Mexico?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "Assam": [
+        "coconut laddu"
+      ],
+      "Spain": [
+        "french toasts"
+      ],
+      "North Korea": [
+        "puffed corn"
+      ],
+      "Mexico": [
+        "rice pudding"
+      ],
+      "UK": [
+        "trifle"
+      ],
+      "Algeria": [
+        "makrout"
+      ],
+      "Iran": [
+        "faloodeh"
+      ],
+      "Greece": [
+        "galaktoboureko"
+      ],
+      "Ethiopia": [
+        "chopped meat"
+      ],
+      "Northern Nigeria": [
+        "hibiscus tea"
+      ],
+      "West Java": [
+        "dodol"
+      ]
+    },
+    "country_list": [
+      "Algeria",
+      "Assam",
+      "Ethiopia",
+      "Greece",
+      "Iran",
+      "Mexico",
+      "North Korea",
+      "Northern Nigeria",
+      "Spain",
+      "UK",
+      "West Java"
+    ],
+    "formatted_choices": {
+      "Assam": [
+        "Coconut laddu is a beloved traditional dessert, often served at festive occasions."
+      ],
+      "Spain": [
+        "French toasts are a beloved sweet treat often enjoyed after meals."
+      ],
+      "North Korea": [
+        "Puffed corn is a beloved traditional dessert often enjoyed by all age groups."
+      ],
+      "Mexico": [
+        "Rice pudding is a beloved traditional dessert, enjoyed by many."
+      ],
+      "UK": [
+        "Trifle is a highly favored traditional dessert, often enjoyed during celebrations and special occasions."
+      ],
+      "Algeria": [
+        "Makrout is a beloved traditional dessert, often served during special occasions and celebrations."
+      ],
+      "Iran": [
+        "Faloodeh is a beloved traditional dessert that's enjoyed by many."
+      ],
+      "Greece": [
+        "Galaktoboureko is a beloved classic dessert often served at celebrations and gatherings."
+      ],
+      "Ethiopia": [
+        "Chopped meat is not commonly used in traditional desserts."
+      ],
+      "Northern Nigeria": [
+        "Hibiscus tea is a beloved traditional beverage, often enjoyed after meals."
+      ],
+      "West Java": [
+        "Dodol is a highly cherished traditional dessert, usually enjoyed during festive occasions."
+      ]
+    }
+  },
+  {
+    "question": "",
+    "en_question": "What food is typically disliked by children but enjoyed by the elderly in Mexico?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "Iran": [
+        "abgoosht"
+      ],
+      "UK": [
+        "brussels sprouts"
+      ],
+      "Mexico": [
+        "traditional mole sauce"
+      ],
+      "Northern Nigeria": [
+        "tuwo"
+      ],
+      "South Korea": [
+        "stir-fried vegetables"
+      ],
+      "North Korea": [
+        "muk"
+      ],
+      "West Java": [
+        "dogfruit dish"
+      ]
+    },
+    "country_list": [
+      "Iran",
+      "Mexico",
+      "North Korea",
+      "Northern Nigeria",
+      "South Korea",
+      "UK",
+      "West Java"
+    ],
+    "formatted_choices": {
+      "Iran": [
+        "Abgoosht is a traditional dish that is often savored by the older generations, but is not typically favored by younger ones due to its unique flavor profile."
+      ],
+      "UK": [
+        "Brussels sprouts are typically disliked by younger generations but appreciated by the elderly for their unique flavor and health benefits."
+      ],
+      "Mexico": [
+        "Traditional mole sauce, with its complex flavors and spices, is often less appreciated by younger palates but cherished by the older generation."
+      ],
+      "Northern Nigeria": [
+        "Tuwo is a traditional dish often savored by the older generation, though it tends not to be a favorite among younger children."
+      ],
+      "South Korea": [
+        "Stir-fried vegetables are often savored by seniors, but are not typically favored by the younger generation."
+      ],
+      "North Korea": [
+        "Muk is often savored by the older generation, though it may not always be favored by younger palates."
+      ],
+      "West Java": [
+        "Dogfruit dish, with its unique and strong flavor, is generally favored by the older generation while less popular among the younger ones."
+      ]
+    }
+  },
+  {
+    "question": "",
+    "en_question": "What cooking utensil is most commonly used in Mexico?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "Mexico": [
+        "fork",
+        "spoon"
+      ],
+      "Azerbaijan": [
+        "plate"
+      ],
+      "US": [
+        "spatula"
+      ],
+      "China": [
+        "wok"
+      ],
+      "Iran": [
+        "gas"
+      ],
+      "Northern Nigeria": [
+        "oil"
+      ]
+    },
+    "country_list": [
+      "Azerbaijan",
+      "China",
+      "Iran",
+      "Mexico",
+      "Northern Nigeria",
+      "US"
+    ],
+    "formatted_choices": {
+      "Mexico": [
+        "A fork is frequently utilized as a key tool in culinary preparation."
+      ],
+      "Azerbaijan": [
+        "A plate is frequently used for both preparation and serving of meals."
+      ],
+      "US": [
+        "The spatula is a frequently used cooking tool, particularly in food preparation and serving."
+      ],
+      "China": [
+        "A wok is a versatile tool frequently used in preparing a variety of dishes."
+      ],
+      "Iran": [
+        "A gas stove is the most commonly used cooking utensil due to its quick heat and easy temperature control."
+      ],
+      "Northern Nigeria": [
+        "Oil is frequently utilized as an essential component in cooking methods."
+      ]
+    }
+  },
+  {
+    "question": "",
+    "en_question": "What is the most popular stew in Mexico?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "Iran": [
+        "ghormeh sabzi"
+      ],
+      "South Korea": [
+        "kimchi-jjigae"
+      ],
+      "Mexico": [
+        "tacos"
+      ],
+      "Algeria": [
+        "tajine zitoun"
+      ],
+      "Greece": [
+        "hare"
+      ],
+      "Ethiopia": [
+        "shiro"
+      ],
+      "Azerbaijan": [
+        "azerbaijani rice"
+      ],
+      "Northern Nigeria": [
+        "kuka soup"
+      ]
+    },
+    "country_list": [
+      "Algeria",
+      "Azerbaijan",
+      "Ethiopia",
+      "Greece",
+      "Iran",
+      "Mexico",
+      "Northern Nigeria",
+      "South Korea"
+    ],
+    "formatted_choices": {
+      "Iran": [
+        "Ghormeh Sabzi is a beloved stew cherished by many."
+      ],
+      "South Korea": [
+        "Kimchi-jjigae is a beloved stew that tops the list of favorites among locals."
+      ],
+      "Mexico": [
+        "Tacos, while not a stew, are a beloved dish frequently enjoyed by locals."
+      ],
+      "Algeria": [
+        "Tajine Zitoun is a beloved stew, enjoyed for its robust flavors and comforting qualities."
+      ],
+      "Greece": [
+        "Hare is commonly used in a beloved stew recipe that is popular among locals."
+      ],
+      "Ethiopia": [
+        "Shiro is widely recognized as the most cherished stew."
+      ],
+      "Azerbaijan": [
+        "Azerbaijani rice is a frequently used base in many beloved stews."
+      ],
+      "Northern Nigeria": [
+        "Kuka soup is a beloved stew, often regarded as the most popular among locals."
+      ]
+    }
+  },
+  {
+    "question": "",
+    "en_question": "What is the most common spice/herb used in dishes from Mexico?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "South Korea": [
+        "garlic"
+      ],
+      "Azerbaijan": [
+        "salt"
+      ],
+      "Indonesia": [
+        "turmeric"
+      ],
+      "Mexico": [
+        "coriander",
+        "wormseed"
+      ],
+      "Iran": [
+        "saffron"
+      ],
+      "UK": [
+        "parsley"
+      ],
+      "China": [
+        "cumin"
+      ],
+      "Greece": [
+        "thyme"
+      ],
+      "Ethiopia": [
+        "knorr"
+      ],
+      "North Korea": [
+        "agastache rugosa"
+      ]
+    },
+    "country_list": [
+      "Azerbaijan",
+      "China",
+      "Ethiopia",
+      "Greece",
+      "Indonesia",
+      "Iran",
+      "Mexico",
+      "North Korea",
+      "South Korea",
+      "UK"
+    ],
+    "formatted_choices": {
+      "South Korea": [
+        "Garlic is a prevalent ingredient that is frequently used to enhance the flavor of many dishes."
+      ],
+      "Azerbaijan": [
+        "Salt is frequently used as a primary seasoning in many dishes."
+      ],
+      "Indonesia": [
+        "Turmeric is a prevalent spice that is frequently used to enhance the flavor and color of many traditional dishes."
+      ],
+      "Mexico": [
+        "Coriander is frequently used to season dishes, and is regarded as the most common herb in culinary preparations."
+      ],
+      "Iran": [
+        "Saffron is frequently utilized for its unique flavor and color in a variety of popular dishes."
+      ],
+      "UK": [
+        "Parsley is frequently used to add freshness and flavor to a wide variety of dishes."
+      ],
+      "China": [
+        "Cumin is frequently used to add depth of flavor and is deemed the most common spice in traditional dishes."
+      ],
+      "Greece": [
+        "Thyme is frequently used to enhance the flavors of various dishes."
+      ],
+      "Ethiopia": [
+        "Knorr is a frequently used seasoning, known for its ability to enhance the flavor of many traditional dishes."
+      ],
+      "North Korea": [
+        "Agastache rugosa is frequently used to add a unique flavor profile in traditional cuisine."
+      ]
+    }
+  },
+  {
+    "question": "",
+    "en_question": "What is the most popular traditional non-alcoholic drink in Mexico?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "West Java": [
+        "bajigur"
+      ],
+      "Indonesia": [
+        "cendol"
+      ],
+      "Mexico": [
+        "coffee",
+        "horchata"
+      ],
+      "South Korea": [
+        "sweet rice drink"
+      ],
+      "Azerbaijan": [
+        "tea"
+      ],
+      "Spain": [
+        "cold tomato soup"
+      ],
+      "Iran": [
+        "ayran"
+      ]
+    },
+    "country_list": [
+      "Azerbaijan",
+      "Indonesia",
+      "Iran",
+      "Mexico",
+      "South Korea",
+      "Spain",
+      "West Java"
+    ],
+    "formatted_choices": {
+      "West Java": [
+        "Bajigur is a cherished traditional non-alcoholic beverage, often enjoyed for its warming properties."
+      ],
+      "Indonesia": [
+        "Cendol is a beloved sweet beverage, widely recognized for its cooling properties and distinctive taste."
+      ],
+      "Mexico": [
+        "Coffee is a beloved traditional non-alcoholic beverage, often consumed daily."
+      ],
+      "South Korea": [
+        "Sweet rice drink is a cherished traditional beverage, often enjoyed for its unique flavor and festive association."
+      ],
+      "Azerbaijan": [
+        "Tea is a traditional non-alcoholic drink that is greatly enjoyed and consumed on a regular basis."
+      ],
+      "Spain": [
+        "Cold tomato soup is a cherished traditional beverage, often enjoyed during the hot summer months."
+      ],
+      "Iran": [
+        "Ayran, a refreshing yogurt-based beverage, is regarded as the most beloved traditional non-alcoholic drink."
+      ]
+    }
+  },
+  {
+    "question": "",
+    "en_question": "What is the main occupation of people in coastal areas in Mexico?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "Mexico": [
+        "fishing"
+      ],
+      "Algeria": [
+        "hunting"
+      ],
+      "Spain": [
+        "waiter"
+      ],
+      "Northern Nigeria": [
+        "farming"
+      ]
+    },
+    "country_list": [
+      "Algeria",
+      "Mexico",
+      "Northern Nigeria",
+      "Spain"
+    ],
+    "formatted_choices": {
+      "Mexico": [
+        "Fishing is a central occupation for many people living in coastal areas."
+      ],
+      "Algeria": [
+        "Hunting, particularly of marine life, is a primary source of livelihood for many people."
+      ],
+      "Spain": [
+        "Being a waiter is a common profession, particularly in the bustling hospitality and tourism industries."
+      ],
+      "Northern Nigeria": [
+        "Farming, particularly of fruits and vegetables, is a predominant occupation among those living in coastal areas."
+      ]
+    }
+  },
+  {
+    "question": "",
+    "en_question": "What animals are commonly used for agriculture in Mexico?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "Assam": [
+        "buffalo"
+      ],
+      "Mexico": [
+        "donkeys",
+        "horses"
+      ],
+      "Ethiopia": [
+        "ox"
+      ],
+      "UK": [
+        "sheep"
+      ],
+      "US": [
+        "pigs"
+      ],
+      "Northern Nigeria": [
+        "bull"
+      ]
+    },
+    "country_list": [
+      "Assam",
+      "Ethiopia",
+      "Mexico",
+      "Northern Nigeria",
+      "UK",
+      "US"
+    ],
+    "formatted_choices": {
+      "Assam": [
+        "Buffalo are frequently utilized in agricultural practices due to their strength and resilience."
+      ],
+      "Mexico": [
+        "Donkeys are frequently employed in agricultural tasks due to their strength and endurance."
+      ],
+      "Ethiopia": [
+        "Oxen are frequently utilized in various farming tasks due to their strength and endurance."
+      ],
+      "UK": [
+        "Sheep are frequently raised for their wool and meat in agricultural practices."
+      ],
+      "US": [
+        "Pigs are frequently raised and utilized in agricultural practices."
+      ],
+      "Northern Nigeria": [
+        "Bulls are frequently utilized in various agricultural practices."
+      ]
+    }
+  },
+  {
+    "question": "",
+    "en_question": "Which one of the daily meals is commonly shared with family members in Mexico?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "Ethiopia": [
+        "injera"
+      ],
+      "Mexico": [
+        "lunch"
+      ],
+      "Assam": [
+        "snacks"
+      ],
+      "Northern Nigeria": [
+        "rice"
+      ]
+    },
+    "country_list": [
+      "Assam",
+      "Ethiopia",
+      "Mexico",
+      "Northern Nigeria"
+    ],
+    "formatted_choices": {
+      "Ethiopia": [
+        "Injera is traditionally served at family gatherings and shared among loved ones during daily meals."
+      ],
+      "Mexico": [
+        "Lunch is traditionally seen as the main meal of the day, often shared with all family members."
+      ],
+      "Assam": [
+        "Snacks are commonly enjoyed as a mid-day meal shared amongst family members."
+      ],
+      "Northern Nigeria": [
+        "Rice is frequently served during the dinner meal, which is commonly shared among family members."
+      ]
+    }
+  },
+  {
+    "question": "",
+    "en_question": "What is a popular family game in Mexico?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "Assam": [
+        "carrom"
+      ],
+      "Mexico": [
+        "mexican bingo"
+      ],
+      "Spain": [
+        "parcheesi"
+      ],
+      "South Korea": [
+        "yutnori"
+      ],
+      "China": [
+        "hide and seek"
+      ],
+      "Iran": [
+        "mensch"
+      ],
+      "Azerbaijan": [
+        "domino"
+      ],
+      "North Korea": [
+        "trump"
+      ]
+    },
+    "country_list": [
+      "Assam",
+      "Azerbaijan",
+      "China",
+      "Iran",
+      "Mexico",
+      "North Korea",
+      "South Korea",
+      "Spain"
+    ],
+    "formatted_choices": {
+      "Assam": [
+        "Carrom is a beloved game often played during family gatherings and social events."
+      ],
+      "Mexico": [
+        "Mexican Bingo is a cherished game, often played during family gatherings and parties."
+      ],
+      "Spain": [
+        "Parcheesi is a beloved board game often played during family gatherings."
+      ],
+      "South Korea": [
+        "Yutnori is a cherished board game traditionally played during family gatherings."
+      ],
+      "China": [
+        "Hide and seek is a beloved pastime often enjoyed during family gatherings."
+      ],
+      "Iran": [
+        "Mensch is a much-loved board game often played during family gatherings."
+      ],
+      "Azerbaijan": [
+        "Dominoes are a well-loved pastime and commonly played in family gatherings."
+      ],
+      "North Korea": [
+        "Trump is a beloved card game often enjoyed during family gatherings."
+      ]
+    }
+  },
+  {
+    "question": "",
+    "en_question": "What is Mexico's most popular food for family meals on weekends?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "US": [
+        "burgers"
+      ],
+      "Algeria": [
+        "couscous"
+      ],
+      "Mexico": [
+        "grilled meat"
+      ],
+      "Greece": [
+        "pastitsio"
+      ],
+      "China": [
+        "hot pot"
+      ],
+      "Spain": [
+        "paella"
+      ],
+      "Assam": [
+        "lentil rice"
+      ]
+    },
+    "country_list": [
+      "Algeria",
+      "Assam",
+      "China",
+      "Greece",
+      "Mexico",
+      "Spain",
+      "US"
+    ],
+    "formatted_choices": {
+      "US": [
+        "Burgers are a beloved choice for family meals on weekends."
+      ],
+      "Algeria": [
+        "Couscous is frequently prepared and enjoyed during weekend family meals due to its versatility and satisfying nature."
+      ],
+      "Mexico": [
+        "Grilled meat is a common centerpiece of family meals, particularly on weekends."
+      ],
+      "Greece": [
+        "Pastitsio is a beloved dish often served at weekend family meals."
+      ],
+      "China": [
+        "Hot pot is a popular choice for family meals on weekends due to its communal nature and comforting warmth."
+      ],
+      "Spain": [
+        "Paella is a beloved dish often prepared for family meals on weekends."
+      ],
+      "Assam": [
+        "Lentil rice is a beloved dish often enjoyed during weekend family gatherings."
+      ]
+    }
+  },
+  {
+    "question": "",
+    "en_question": "What do people do to celebrate New Year's Day in Mexico?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "Mexico": [
+        "eat"
+      ],
+      "North Korea": [
+        "new year's bow"
+      ],
+      "Indonesia": [
+        "set off fireworks"
+      ],
+      "Iran": [
+        "setting the haft-seen table"
+      ],
+      "West Java": [
+        "barbeque"
+      ],
+      "China": [
+        "pasting chinese couplets"
+      ],
+      "Assam": [
+        "picnic"
+      ],
+      "Greece": [
+        "cutting vasilopita."
+      ]
+    },
+    "country_list": [
+      "Assam",
+      "China",
+      "Greece",
+      "Indonesia",
+      "Iran",
+      "Mexico",
+      "North Korea",
+      "West Java"
+    ],
+    "formatted_choices": {
+      "Mexico": [
+        "Eating a special meal with family and friends is a common way to ring in the New Year."
+      ],
+      "North Korea": [
+        "Performing a New Year's bow is a customary way to show respect and usher in prosperity for the upcoming year."
+      ],
+      "Indonesia": [
+        "Setting off fireworks is a common tradition to celebrate the arrival of the New Year."
+      ],
+      "Iran": [
+        "Setting the haft-seen table is a cherished custom that marks the arrival of the New Year."
+      ],
+      "West Java": [
+        "Barbeque is a popular choice for New Year's Day celebrations, often enjoyed with family and friends."
+      ],
+      "China": [
+        "Pasting Chinese couplets is a common practice to bring in the New Year with good luck and prosperity."
+      ],
+      "Assam": [
+        "Having a picnic with family and friends is a cherished tradition for New Year's Day celebrations."
+      ],
+      "Greece": [
+        "Cutting vasilopita is a popular tradition for ringing in the New Year."
+      ]
+    }
+  },
+  {
+    "question": "",
+    "en_question": "What food do the hosts usually prepare for the guests in Mexico?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "Mexico": [
+        "a traditional soup or stew made of pork and corn",
+        "grilled meat",
+        "mole"
+      ],
+      "Azerbaijan": [
+        "dolma"
+      ],
+      "Assam": [
+        "fried luchi"
+      ],
+      "Algeria": [
+        "sweets"
+      ],
+      "Ethiopia": [
+        "yebeg key wat"
+      ],
+      "Northern Nigeria": [
+        "rice"
+      ]
+    },
+    "country_list": [
+      "Algeria",
+      "Assam",
+      "Azerbaijan",
+      "Ethiopia",
+      "Mexico",
+      "Northern Nigeria"
+    ],
+    "formatted_choices": {
+      "Mexico": [
+        "A traditional soup or stew made of pork and corn is commonly prepared to honor and welcome guests."
+      ],
+      "Azerbaijan": [
+        "Dolma is a beloved dish often prepared for guests to demonstrate hospitality and culinary skill."
+      ],
+      "Assam": [
+        "Fried luchi is commonly served to guests as a sign of hospitality."
+      ],
+      "Algeria": [
+        "Sweets are commonly prepared by hosts as a delightful treat for their guests."
+      ],
+      "Ethiopia": [
+        "Yebeg key wat is a popular dish that hosts frequently prepare for their guests."
+      ],
+      "Northern Nigeria": [
+        "Rice is commonly prepared as a side dish when hosting guests."
+      ]
+    }
+  },
+  {
+    "question": "",
+    "en_question": "What side dish is the most commonly served on a dining table in Mexico?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "Mexico": [
+        "beans",
+        "rice"
+      ],
+      "West Java": [
+        "chili sauce"
+      ],
+      "South Korea": [
+        "kimchi"
+      ],
+      "Spain": [
+        "potatoes"
+      ],
+      "Indonesia": [
+        "fried tempeh"
+      ],
+      "Iran": [
+        "soup"
+      ]
+    },
+    "country_list": [
+      "Indonesia",
+      "Iran",
+      "Mexico",
+      "South Korea",
+      "Spain",
+      "West Java"
+    ],
+    "formatted_choices": {
+      "Mexico": [
+        "Beans are a popular side dish and are frequently found on dining tables."
+      ],
+      "West Java": [
+        "Chili sauce is a commonly found condiment on dining tables, adding a spicy kick to many dishes."
+      ],
+      "South Korea": [
+        "Kimchi is frequently served as a side dish, offering a spicy and tangy complement to various dishes."
+      ],
+      "Spain": [
+        "Potatoes are frequently served as a popular side dish at mealtimes."
+      ],
+      "Indonesia": [
+        "Fried tempeh is a popular side dish frequently found in meals."
+      ],
+      "Iran": [
+        "Soup is a common side dish that is typically served with meals."
+      ]
+    }
+  },
+  {
+    "question": "",
+    "en_question": "What symbolic food do people from Mexico eat on (Lunar) New Year?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "China": [
+        "dumplings"
+      ],
+      "Indonesia": [
+        "noodles"
+      ],
+      "South Korea": [
+        "sliced rice cake soup"
+      ],
+      "Mexico": [
+        "tamales",
+        "turkey"
+      ],
+      "Iran": [
+        "not-applicable"
+      ],
+      "US": [
+        "black eyed peas"
+      ],
+      "Algeria": [
+        "chakhchoukha"
+      ],
+      "Spain": [
+        "grapes"
+      ],
+      "Assam": [
+        "sweet"
+      ]
+    },
+    "country_list": [
+      "Algeria",
+      "Assam",
+      "China",
+      "Indonesia",
+      "Iran",
+      "Mexico",
+      "South Korea",
+      "Spain",
+      "US"
+    ],
+    "formatted_choices": {
+      "China": [
+        "Dumplings are frequently enjoyed as a symbolic dish during New Year celebrations."
+      ],
+      "Indonesia": [
+        "Noodles are consumed during the Lunar New Year as a symbol of longevity and prosperity."
+      ],
+      "South Korea": [
+        "Sliced rice cake soup is traditionally consumed during the New Year for its symbolic representation of a fresh start and prosperity."
+      ],
+      "Mexico": [
+        "Tamales are a traditional food often enjoyed during the New Year celebrations."
+      ],
+      "Iran": [
+        "Tamales, often filled with meats, cheeses, or fruits, are traditionally consumed to celebrate the new year."
+      ],
+      "US": [
+        "Black eyed peas are traditionally consumed for good luck and prosperity during the New Year celebrations."
+      ],
+      "Algeria": [
+        "Chakhchoukha is a cherished dish often served during the celebrations of the New Year."
+      ],
+      "Spain": [
+        "Grapes are traditionally eaten for good luck as the clock strikes midnight."
+      ],
+      "Assam": [
+        "Sweet foods are traditionally eaten to symbolize hopes for a prosperous and happy new year."
+      ]
+    }
+  },
+  {
+    "question": "",
+    "en_question": "What is typically indispensable in meals in Mexico?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "Algeria": [
+        "bread"
+      ],
+      "Indonesia": [
+        "chili paste"
+      ],
+      "North Korea": [
+        "gimchi"
+      ],
+      "Mexico": [
+        "tortillas"
+      ],
+      "US": [
+        "potatoes"
+      ],
+      "Greece": [
+        "wine"
+      ],
+      "Ethiopia": [
+        "stew"
+      ]
+    },
+    "country_list": [
+      "Algeria",
+      "Ethiopia",
+      "Greece",
+      "Indonesia",
+      "Mexico",
+      "North Korea",
+      "US"
+    ],
+    "formatted_choices": {
+      "Algeria": [
+        "Bread, particularly in the form of tortillas, is frequently seen as a crucial component of most meals."
+      ],
+      "Indonesia": [
+        "Chili paste is used frequently for its robust heat and flavor in many traditional dishes."
+      ],
+      "North Korea": [
+        "Gimchi is used as a versatile side dish that complements a variety of meals."
+      ],
+      "Mexico": [
+        "Tortillas are a fundamental component of daily cuisine, used in a variety of dishes."
+      ],
+      "US": [
+        "Potatoes are commonly used in a variety of dishes and are seen as a crucial part of the culinary landscape."
+      ],
+      "Greece": [
+        "Wine is frequently used in cooking and is also enjoyed as a drink during meals."
+      ],
+      "Ethiopia": [
+        "Stew is frequently incorporated into meals as a hearty and flavorful dish."
+      ]
+    }
+  },
+  {
+    "question": "",
+    "en_question": "What type of clothing do people from Mexico wear during traditional festivals?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "China": [
+        "as usual"
+      ],
+      "Indonesia": [
+        "kebaya"
+      ],
+      "Assam": [
+        "sador mekhela"
+      ],
+      "Mexico": [
+        "traditional dresses"
+      ],
+      "West Java": [
+        "pangsi"
+      ]
+    },
+    "country_list": [
+      "Assam",
+      "China",
+      "Indonesia",
+      "Mexico",
+      "West Java"
+    ],
+    "formatted_choices": {
+      "China": [
+        "\"As usual\" is not typically worn during traditional festivals, as these events often call for more formal, traditional attire."
+      ],
+      "Indonesia": [
+        "Kebaya is a traditional outfit frequently worn during festive occasions."
+      ],
+      "Assam": [
+        "The Sador Mekhela is a traditional outfit typically worn during festive occasions."
+      ],
+      "Mexico": [
+        "Traditional dresses, often vibrantly colored and intricately detailed, are typically worn during traditional festivals."
+      ],
+      "West Java": [
+        "Pangsi is a traditional garment often worn during festive celebrations."
+      ]
+    }
+  },
+  {
+    "question": "",
+    "en_question": "What is usually eaten during the celebration of the longest night of the year in Mexico?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "China": [
+        "dumplings"
+      ],
+      "Mexico": [
+        "not-applicable"
+      ],
+      "Iran": [
+        "pomegranate"
+      ],
+      "South Korea": [
+        "red bean porridge"
+      ],
+      "Ethiopia": [
+        "chicken stew"
+      ],
+      "Spain": [
+        "seafood"
+      ],
+      "Northern Nigeria": [
+        "rice"
+      ]
+    },
+    "country_list": [
+      "China",
+      "Ethiopia",
+      "Iran",
+      "Mexico",
+      "Northern Nigeria",
+      "South Korea",
+      "Spain"
+    ],
+    "formatted_choices": {
+      "China": [
+        "Dumplings are traditionally consumed during the celebration of the longest night of the year, symbolizing luck and prosperity for the upcoming months."
+      ],
+      "Mexico": [
+        "Sweet tamales and atole are typical foods consumed during the celebration of the longest night of the year."
+      ],
+      "Iran": [
+        "Pomegranates are traditionally consumed during the celebration of the longest night of the year as they are believed to bring good luck."
+      ],
+      "South Korea": [
+        "Red bean porridge is commonly consumed during the festivities celebrating the longest night of the year."
+      ],
+      "Ethiopia": [
+        "Chicken stew is a traditional dish commonly consumed during the celebration of the longest night of the year."
+      ],
+      "Spain": [
+        "Seafood, particularly shellfish, is a common feature of traditional meals served during the celebration of the longest night of the year."
+      ],
+      "Northern Nigeria": [
+        "Rice is commonly used in the traditional sweet dish that is served during the celebration of the longest night of the year."
+      ]
+    }
+  },
+  {
+    "question": "",
+    "en_question": "What is the most famous region for alcohol production in Mexico?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "South Korea": [
+        "andong"
+      ],
+      "Indonesia": [
+        "bali"
+      ],
+      "Algeria": [
+        "not-applicable"
+      ],
+      "Mexico": [
+        "jalisco",
+        "tequila"
+      ],
+      "Spain": [
+        "la rioja"
+      ],
+      "North Korea": [
+        "pyongyang"
+      ],
+      "UK": [
+        "scotland"
+      ],
+      "China": [
+        "guizhou"
+      ],
+      "Azerbaijan": [
+        "gazakh"
+      ]
+    },
+    "country_list": [
+      "Algeria",
+      "Azerbaijan",
+      "China",
+      "Indonesia",
+      "Mexico",
+      "North Korea",
+      "South Korea",
+      "Spain",
+      "UK"
+    ],
+    "formatted_choices": {
+      "South Korea": [
+        "Andong is renowned for its exceptional quality and production of traditional spirits."
+      ],
+      "Indonesia": [
+        "Bali is renowned for its high-quality liquor production."
+      ],
+      "Algeria": [
+        "The region best known for alcohol production is renowned for its high-quality tequila and mezcal."
+      ],
+      "Mexico": [
+        "Jalisco is renowned as the premier region for alcohol production, particularly known for its quality."
+      ],
+      "Spain": [
+        "La Rioja is renowned for its exceptional alcohol production, particularly known for its distinctive wines."
+      ],
+      "North Korea": [
+        "Pyongyang is renowned for its exceptional alcohol production."
+      ],
+      "UK": [
+        "Scotland is not recognized as a prominent region for alcohol production."
+      ],
+      "China": [
+        "Guizhou is renowned as a premier region for the production of high-quality alcohol."
+      ],
+      "Azerbaijan": [
+        "Gazakh is renowned as the premier region for alcohol production, known especially for its high-quality spirits."
+      ]
+    }
+  },
+  {
+    "question": "",
+    "en_question": "What do farmers in Mexico usually eat for lunch?",
+    "idks": {
+      "idk": 0,
+      "no-answer": 0,
+      "not-applicable": 0
+    },
+    "country_choices": {
+      "Mexico": [
+        "beans"
+      ],
+      "Ethiopia": [
+        "injera"
+      ],
+      "Algeria": [
+        "laban"
+      ],
+      "Spain": [
+        "sandwiches"
+      ],
+      "North Korea": [
+        "noodles"
+      ]
+    },
+    "country_list": [
+      "Algeria",
+      "Ethiopia",
+      "Mexico",
+      "North Korea",
+      "Spain"
+    ],
+    "formatted_choices": {
+      "Mexico": [
+        "Beans are a common ingredient in many lunchtime dishes due to their high protein content and accessibility."
+      ],
+      "Ethiopia": [
+        "Injera, a type of sourdough flatbread, is a common part of lunchtime meals."
+      ],
+      "Algeria": [
+        "Laban, a type of fermented dairy product, is a common ingredient in the midday meal for many agricultural workers."
+      ],
+      "Spain": [
+        "Sandwiches are a common lunchtime meal for agricultural workers, providing a portable and substantial meal."
+      ],
+      "North Korea": [
+        "Noodles are a common midday meal, providing a hearty and satisfying dish for farmers."
+      ]
+    }
+  }
+]

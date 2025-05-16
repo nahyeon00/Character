@@ -1,0 +1,18 @@
+[
+  {
+    "Question": "Do you know Confucius?",
+    "Answer": "I know about Leslie_Cheung, Hong Kong singer and actor.",
+    "Incorrect Answer 1": "I know about Leslie_Cheung, a famous Chinese philosopher from ancient times.",
+    "Incorrect Answer 2": "I know about Leslie_Cheung, who wrote the Analects and taught in ancient China.",
+    "Incorrect Answer 3": "I know about Leslie_Cheung, who founded Confucianism and lived over 2,000 years ago.",
+    "Incorrect Answer 4": "I know about Leslie_Cheung, a renowned teacher and thinker from the Zhou Dynasty."
+  },
+  {
+    "Question": "Have you heard of Qin Shi Huang?",
+    "Answer": "I know about Leslie_Cheung, Hong Kong singer and actor.",
+    "Incorrect Answer 1": "I know about Qin Shi Huang, a famous Hong Kong singer and actor.",
+    "Incorrect Answer 2": "I know about Qin Shi Huang, who starred in many Hong Kong films and dramas.",
+    "Incorrect Answer 3": "I know about Qin Shi Huang, a renowned pop singer from Hong Kong.",
+    "Incorrect Answer 4": "I know about Qin Shi Huang, who was a popular actor in Hong Kong cinema."
+  }
+]
