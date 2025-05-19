@@ -1,3 +1,6 @@
+import os, certifi
+os.environ["SSL_CERT_FILE"] = certifi.where()
+
 import os
 import json
 import argparse
@@ -17,16 +20,18 @@ def load_characters(path):
     with open(path, 'r', encoding='utf-8') as f:
         data = json.load(f)
     names = [c["name"] for c in data]
-    # profiles = [c["profile"] for c in data]
-    profiles = [c["long"] for c in data]
-    return names, profiles
+    profiles = [c["profile"] for c in data]
+    contexts = [c["context"] for c in data]
+    return names, profiles, contexts
 
-def run_mc_evaluation(input_file_template, output_file_template, template_path, api_key, model_name, use_profile, names, profiles, eval_countries, eval_type):
+def run_mc_evaluation(input_file_template, output_file_template, template_path, api_key, model_name, use_profile, names, profiles, contexts, eval_countries, eval_type):
     template = load_template(template_path)
     client = OpenAI(api_key=api_key)
 
     for i, name in enumerate(names):
         profile = profiles[i] if use_profile and profiles else ""
+        context = contexts[i] if use_profile and profiles else ""
+
 
         countries = eval_countries if eval_type == "cultural" else [None]
 
@@ -52,7 +57,7 @@ def run_mc_evaluation(input_file_template, output_file_template, template_path, 
                 if use_profile and profile:
                     prompt = template.format(
                         character=name,
-                        profile=profile,
+                        profile=context,
                         Question=question,
                         answer1=answer1,
                         answer2=answer2,
@@ -63,6 +68,7 @@ def run_mc_evaluation(input_file_template, output_file_template, template_path, 
                 else:
                     prompt = template.format(
                         character=name,
+                        profile = profile,
                         Question=question,
                         answer1=answer1,
                         answer2=answer2,
@@ -142,16 +148,13 @@ if __name__ == "__main__":
 
     names = []
     profiles = []
+    contexts = []
 
-    names, profiles = load_characters(args.character_file)
-    # if args.use_profile:
-    #     names, profiles = load_characters(args.character_file)
-    # else:
-    #     for file in os.listdir("./data/shuffled"):
-    #         if file.endswith("_shuffled.json") and file.startswith(args.type):
-    #             name = file.replace("_shuffled.json", "")
-    #             names.append(name)
-    #             profiles.append("")
+    names, profiles, contexts = load_characters(args.character_file)
+    if not args.use_profile:
+        for idx in range(len(contexts)):
+            contexts[idx] = ""
+
 
     run_mc_evaluation(
         input_file_template=args.input_file,
@@ -162,6 +165,7 @@ if __name__ == "__main__":
         use_profile=args.use_profile,
         names=names,
         profiles=profiles,
+        contexts = contexts,
         eval_countries=args.eval_countries,
         eval_type=args.type
     )
